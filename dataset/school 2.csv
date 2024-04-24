@@ -1,0 +1,2001 @@
+school_ID,school_name,school_rating,school_type,school_level,state,city,street,zip_code
+1,"Jackson, Smith and Williams",5,Public,Middle,NY,New York,631 Pine Drive,10060
+2,Wilson Inc,8,Private,High,NY,New York,380 Chad Valley,11033
+3,"Brown, Martin and Mann",0,Public,Elementary,NY,New York,927 Maple Street,11033
+4,Burns Inc,6,Public,High,NY,New York,1156 Maple Street,11033
+5,Weaver-Vargas,0,Public,High,NY,Buffalo,1795 Omar Park,10410
+6,Mccoy Inc,6,Private,Middle,NY,Buffalo,3798 Maple Street,10410
+7,Baker-Potter,8,Public,High,NJ,Elizabeth,5460 Alison Bridge,7725
+8,Brown-Chen,1,Public,Middle,NJ,Elizabeth,368 Pine Drive,7725
+9,"Fletcher, Poole and Alvarez",9,Public,Pre-K,CT,Stamford,2394 Omar Park,6119
+10,Hawkins Ltd,5,Private,Pre-K,CT,Stamford,4120 Maple Street,6119
+11,Carpenter-Jones,10,Public,Middle,CT,Stamford,1375 Oak Avenue,6119
+12,Harris-Humphrey,0,Public,Pre-K,CT,Rochester,7116 Oak Avenue,10313
+13,Jennings and Sons,4,Public,Elementary,CT,Waterbury,9932 Elm Circle,6132
+14,Kane-Jones,1,Public,High,CT,Hartford,1918 Chad Valley,6120
+15,Stout and Sons,4,Private,Elementary,CT,Hartford,10425 Omar Park,6120
+16,"Walter, Ballard and Cooper",8,Public,High,CT,Hartford,2672 Elm Circle,6088
+17,Warren Inc,9,Private,Pre-K,NY,Buffalo,3740 Elm Circle,10769
+18,Walker Ltd,1,Private,Elementary,NY,Buffalo,10242 Pine Drive,10769
+19,Nelson LLC,6,Private,Pre-K,NY,Buffalo,13281 Dawson Terrace,10769
+20,Wallace-Parrish,9,Public,High,CT,Waterbury,10840 Cedar Lane,6280
+21,Wilson Group,10,Private,Middle,CT,Waterbury,5040 Santos Stream,6280
+22,Davenport-Nelson,5,Public,Middle,CT,Waterbury,19316 Elm Circle,6280
+23,Logan Group,10,Private,Elementary,CT,New Haven,4416 Cedar Lane,6303
+24,"Romero, Harris and Thompson",6,Private,Pre-K,NY,New York,10416 Dawson Terrace,14349
+25,Reed Group,9,Private,Pre-K,CT,Stamford,11525 Santos Stream,6130
+26,Williams Inc,8,Private,Elementary,CT,Stamford,4160 Cedar Lane,6130
+27,Kennedy Ltd,1,Private,Middle,CT,Stamford,20520 Oak Avenue,6130
+28,Gutierrez-Silva,10,Private,High,NJ,Elizabeth,3052 Dawson Terrace,8791
+29,Green Ltd,3,Private,Elementary,CT,Jersey City,17168 Santos Stream,7265
+30,Kaiser LLC,9,Private,High,CT,Jersey City,11940 Alison Bridge,7265
+31,Welch-Hudson,3,Public,Middle,CT,Jersey City,16616 Cedar Lane,7265
+32,"Gilbert, Thomas and Jones",2,Public,Pre-K,NY,Buffalo,20512 Elm Circle,13845
+33,Duarte Ltd,3,Private,Middle,CT,Waterbury,4323 Pine Drive,6039
+34,Shelton and Sons,0,Private,Elementary,CT,Waterbury,24208 Cedar Lane,6039
+35,White-Williams,5,Private,Pre-K,CT,Waterbury,34825 Alison Bridge,6039
+36,"Johnson, Graham and Rivera",6,Public,Elementary,NY,Buffalo,8244 Omar Park,10538
+37,"Aguilar, Kelly and Holt",0,Private,Elementary,NY,Buffalo,11359 Omar Park,10538
+38,Berry LLC,6,Public,Middle,CT,Hartford,35150 Cedar Lane,6268
+39,"Oliver, Cruz and Kline",1,Public,Elementary,CT,Hartford,26871 Omar Park,6268
+40,Brown-Mcpherson,2,Public,Middle,CT,Hartford,38680 Alison Bridge,6268
+41,"Jones, Black and Merritt",3,Public,Pre-K,CT,Hartford,2378 Pine Drive,6180
+42,Cuevas-Wallace,2,Public,Middle,CT,Paterson,39816 Omar Park,7209
+43,Hill Inc,4,Private,Pre-K,CT,Paterson,35991 Dawson Terrace,7209
+44,Brown PLC,9,Private,Middle,CT,Paterson,20240 Oak Avenue,7209
+45,Flores LLC,3,Private,High,CT,Syracuse,25875 Omar Park,10965
+46,Morgan-Glover,7,Private,High,CT,Waterbury,42182 Santos Stream,6287
+47,"Adams, Lopez and Alvarez",10,Private,Elementary,CT,Albany,27965 Alison Bridge,12238
+48,"Melton, Rogers and Martin",0,Public,Middle,CT,Newark,5472 Oak Avenue,8825
+49,"Johnson, Williams and Santana",8,Private,Middle,CT,Newark,37779 Santos Stream,8825
+50,Smith-Martin,4,Private,Pre-K,CT,Newark,4400 Santos Stream,8825
+51,Thomas Ltd,3,Public,Elementary,NY,New York,29172 Oak Avenue,14614
+52,Baldwin Ltd,0,Private,Middle,CT,Syracuse,31200 Dawson Terrace,12295
+53,"Stanton, Lucas and Adams",10,Public,Elementary,CT,Syracuse,7526 Maple Street,12295
+54,"Tanner, Macdonald and Yates",7,Private,High,CT,Syracuse,32940 Elm Circle,12295
+55,Bishop-Faulkner,10,Public,Middle,NJ,Elizabeth,52195 Omar Park,8685
+56,Flowers-Myers,3,Private,Middle,NJ,Elizabeth,53088 Elm Circle,8685
+57,Gibbs Inc,9,Private,Elementary,CT,Jersey City,26163 Santos Stream,8939
+58,Eaton-Lee,2,Public,Middle,CT,Jersey City,6960 Alison Bridge,8939
+59,Bennett Group,9,Public,Elementary,CT,Jersey City,17287 Maple Street,8939
+60,Carroll-Moss,8,Public,Middle,CT,Hartford,16020 Cedar Lane,6041
+61,Bailey-Waller,8,Public,Pre-K,CT,Hartford,32452 Cedar Lane,6041
+62,"Jacobs, Arnold and Franklin",4,Public,Elementary,CT,Newark,36766 Pine Drive,7240
+63,"Richardson, Smith and Marsh",9,Public,Middle,CT,Waterbury,56889 Chad Valley,6283
+64,"Jones, Smith and Turner",10,Public,High,CT,Paterson,39424 Alison Bridge,8088
+65,"Benson, Peterson and Esparza",6,Public,Middle,CT,New Haven,13910 Chad Valley,6003
+66,Flynn Inc,2,Private,High,CT,Albany,14256 Dawson Terrace,10139
+67,Jackson-Davis,4,Private,High,CT,Syracuse,11256 Santos Stream,10418
+68,Rich and Sons,6,Public,Pre-K,CT,Stamford,56032 Alison Bridge,6060
+69,Bryant-Reed,10,Private,Elementary,CT,Stamford,20010 Pine Drive,6060
+70,"Smith, Taylor and Ortega",10,Private,Middle,CT,Stamford,61460 Santos Stream,6060
+71,"Medina, Thompson and Kent",9,Private,Pre-K,CT,Trenton,19454 Omar Park,7967
+72,"Jackson, Howe and Daniels",10,Private,Middle,CT,Trenton,10152 Maple Street,7967
+73,Kim-Mills,0,Public,High,CT,Trenton,35478 Maple Street,7967
+74,Perez Ltd,1,Private,Elementary,CT,Newark,55352 Santos Stream,7832
+75,Davis-Cochran,3,Public,Middle,CT,Newark,63150 Dawson Terrace,7832
+76,Garner-Howell,1,Private,Middle,CT,Newark,61104 Elm Circle,7832
+77,Howe Inc,10,Private,High,CT,Jersey City,57134 Alison Bridge,8760
+78,Lawson-Armstrong,0,Private,Middle,CT,Bridgeport,1326 Omar Park,6219
+79,"Pham, Phelps and Johnson",5,Public,Middle,CT,Bridgeport,31047 Alison Bridge,6219
+80,Short-Palmer,5,Private,High,NJ,Elizabeth,34880 Oak Avenue,8707
+81,"Williams, Crawford and Evans",1,Public,Pre-K,NJ,Elizabeth,1215 Pine Drive,8707
+82,Clark-Smith,5,Private,High,CT,Paterson,65682 Oak Avenue,7503
+83,"Franco, Munoz and Collins",7,Public,Pre-K,CT,Paterson,79514 Cedar Lane,7503
+84,"Gray, Hayes and Smith",9,Private,Elementary,CT,Paterson,76692 Oak Avenue,7503
+85,Merritt-Martin,10,Public,Pre-K,CT,New Haven,57800 Oak Avenue,6323
+86,Walker-Baker,7,Public,Pre-K,CT,New Haven,34486 Santos Stream,6323
+87,"Smith, Taylor and Nelson",1,Private,Elementary,CT,New Haven,39150 Chad Valley,6323
+88,"Clark, Shaw and Knapp",9,Public,Pre-K,CT,Bridgeport,12584 Oak Avenue,6175
+89,Cruz Inc,0,Private,High,CT,Bridgeport,72535 Chad Valley,6175
+90,Waters-Orr,2,Private,Pre-K,CT,Bridgeport,13500 Omar Park,6175
+91,Neal Ltd,7,Private,Elementary,CT,Hartford,49322 Alison Bridge,6136
+92,Kim LLC,2,Private,High,CT,Hartford,62284 Cedar Lane,6136
+93,Wolfe-Martin,0,Private,Elementary,CT,Newark,5673 Alison Bridge,8743
+94,"Merritt, Pierce and Howell",9,Private,Elementary,NY,Buffalo,44274 Dawson Terrace,10529
+95,Robertson-Gomez,1,Private,Middle,NY,Buffalo,22610 Omar Park,10529
+96,"Dawson, Burns and Bullock",9,Private,Middle,NY,Buffalo,33696 Cedar Lane,10529
+97,"Neal, Norman and Taylor",7,Private,Elementary,NY,New York,36569 Oak Avenue,11041
+98,Barajas Inc,2,Private,Elementary,NY,New York,62426 Pine Drive,11041
+99,Moore-Fox,9,Private,Elementary,CT,Albany,73854 Chad Valley,11342
+100,Smith-Walker,2,Public,Middle,CT,Albany,19700 Dawson Terrace,11342
+101,"Hicks, Hess and Wilson",10,Public,Middle,CT,Stamford,58580 Cedar Lane,6215
+102,"Johnson, Garza and Ford",10,Private,Pre-K,CT,Stamford,26316 Dawson Terrace,6215
+103,Lewis-Thornton,0,Private,Pre-K,CT,Paterson,23278 Elm Circle,7374
+104,Gomez-Brooks,8,Private,Elementary,CT,Rochester,99632 Maple Street,12742
+105,Glenn PLC,9,Private,High,CT,Rochester,19740 Oak Avenue,12742
+106,Brown LLC,0,Private,High,CT,Rochester,21624 Cedar Lane,12742
+107,"Browning, Stevens and Torres",7,Private,Middle,NY,New York,49541 Oak Avenue,13082
+108,Bridges Inc,1,Private,Middle,NY,New York,49356 Omar Park,13082
+109,Crosby-Wright,5,Private,Middle,NY,Buffalo,22890 Dawson Terrace,10560
+110,Riley-Mitchell,9,Public,Elementary,CT,Trenton,93060 Maple Street,8687
+111,"Mckenzie, Henry and Garcia",0,Private,High,CT,Trenton,41292 Chad Valley,8687
+112,"Porter, Mercado and Rangel",1,Public,Pre-K,CT,Trenton,30688 Pine Drive,8687
+113,"Case, Hall and White",5,Private,Elementary,CT,Newark,18419 Cedar Lane,8489
+114,"Hansen, Wilson and Aguilar",3,Private,Pre-K,CT,Waterbury,93594 Chad Valley,6131
+115,"Friedman, Castaneda and Willis",3,Public,Pre-K,CT,Waterbury,10580 Elm Circle,6131
+116,Young Ltd,6,Private,Elementary,NY,New York,24708 Dawson Terrace,14683
+117,Allen and Sons,0,Public,Pre-K,NY,New York,102141 Santos Stream,14683
+118,Morris Ltd,5,Private,High,NY,New York,74930 Omar Park,14683
+119,"Brooks, Jones and Calderon",3,Private,Pre-K,CT,Waterbury,103411 Omar Park,6150
+120,Gill-Brewer,8,Public,High,CT,Waterbury,58800 Alison Bridge,6150
+121,Tate Ltd,6,Private,High,CT,Waterbury,101398 Chad Valley,6096
+122,Mosley and Sons,1,Public,High,NJ,Elizabeth,121268 Cedar Lane,8647
+123,"Roberts, Gross and Fernandez",8,Private,Middle,CT,New Haven,70602 Omar Park,6279
+124,Davis Ltd,3,Public,Pre-K,CT,Jersey City,79236 Chad Valley,8683
+125,"Cabrera, Williams and Peters",5,Public,Elementary,CT,Jersey City,90625 Cedar Lane,8683
+126,Johnson-Maddox,2,Private,Elementary,CT,Jersey City,19908 Maple Street,8683
+127,White PLC,0,Private,Pre-K,NJ,Elizabeth,67818 Dawson Terrace,7815
+128,Harris-Gonzalez,2,Public,Middle,NJ,Elizabeth,56192 Pine Drive,7815
+129,Randall PLC,0,Private,Middle,NJ,Elizabeth,54954 Santos Stream,7815
+130,"Gordon, Hall and Blake",7,Private,High,CT,New Haven,79950 Chad Valley,6135
+131,Jones-Jones,0,Private,Pre-K,CT,New Haven,19388 Chad Valley,6135
+132,Clayton-Brooks,7,Public,Pre-K,CT,New Haven,120516 Alison Bridge,6135
+133,"Peck, Hall and Miller",0,Public,Elementary,CT,Syracuse,4788 Maple Street,12867
+134,Evans and Sons,6,Public,Pre-K,CT,Bridgeport,75576 Alison Bridge,6216
+135,"Smith, Harris and Thompson",2,Public,Middle,CT,Bridgeport,116100 Dawson Terrace,6216
+136,"Roth, Mason and Garcia",3,Public,Pre-K,CT,Bridgeport,28016 Oak Avenue,6216
+137,Woods PLC,1,Public,Elementary,NY,New York,124396 Dawson Terrace,11131
+138,Walsh and Sons,9,Public,High,NY,New York,85008 Chad Valley,11131
+139,Johnston Group,8,Public,Elementary,NY,New York,100358 Cedar Lane,11131
+140,Walsh Inc,6,Public,Elementary,CT,Waterbury,36400 Dawson Terrace,6149
+141,"Pierce, Schroeder and Howard",2,Private,High,CT,Waterbury,68808 Chad Valley,6149
+142,Gomez Group,3,Public,Elementary,CT,Bridgeport,33654 Dawson Terrace,6078
+143,Herring Ltd,1,Private,Elementary,CT,Bridgeport,57915 Elm Circle,6078
+144,Chung and Sons,2,Private,Pre-K,CT,Newark,138528 Oak Avenue,8560
+145,Bradley-Bentley,7,Private,Pre-K,CT,Hartford,19140 Santos Stream,6082
+146,Smith LLC,5,Public,High,CT,Hartford,55626 Pine Drive,6082
+147,Caldwell-Holloway,1,Public,Pre-K,CT,Hartford,131124 Chad Valley,6082
+148,Alexander-Holland,3,Public,Pre-K,CT,Bridgeport,65712 Omar Park,6206
+149,Sanchez LLC,3,Public,Elementary,CT,Bridgeport,148404 Pine Drive,6206
+150,Mcbride-Ortiz,2,Private,Middle,CT,Bridgeport,13650 Dawson Terrace,6206
+151,Hall LLC,3,Public,Pre-K,CT,Jersey City,38354 Pine Drive,8862
+152,"Mccarthy, Friedman and Owen",7,Public,Middle,CT,Jersey City,25536 Chad Valley,8862
+153,"Reynolds, Hurley and Webb",6,Public,Pre-K,CT,Jersey City,47889 Cedar Lane,8862
+154,Herrera Ltd,0,Public,Pre-K,CT,Rochester,4158 Alison Bridge,13246
+155,Mcknight-Lane,9,Public,High,CT,Rochester,74400 Dawson Terrace,13246
+156,Humphrey and Sons,2,Private,High,CT,Rochester,95628 Chad Valley,13246
+157,Cruz-Ware,1,Public,High,NY,Buffalo,87920 Elm Circle,12968
+158,Wallace-Richardson,9,Private,Middle,NY,Buffalo,107124 Chad Valley,12968
+159,Mcintyre-Hughes,9,Public,Elementary,NY,Buffalo,76479 Cedar Lane,12968
+160,"Herman, Sanders and Espinoza",1,Private,Pre-K,CT,Waterbury,159840 Oak Avenue,6068
+161,"Robertson, Hurst and Rollins",3,Public,Pre-K,CT,Waterbury,98049 Elm Circle,6068
+162,"Vang, Fleming and Wade",1,Public,Pre-K,CT,Waterbury,117936 Alison Bridge,6068
+163,"Smith, Russell and Fischer",6,Private,Middle,CT,Newark,155828 Santos Stream,7485
+164,"Fisher, Graves and Arnold",6,Private,High,CT,Newark,8200 Pine Drive,7485
+165,Page-Sampson,10,Private,Elementary,CT,Newark,80685 Oak Avenue,7485
+166,Taylor-Stark,4,Public,Middle,CT,Syracuse,14940 Alison Bridge,13667
+167,Young Ltd,9,Private,High,CT,Syracuse,151469 Oak Avenue,13667
+168,Schroeder PLC,2,Public,Middle,CT,Hartford,4704 Omar Park,6265
+169,Gardner-Graves,9,Public,Elementary,CT,Hartford,59826 Alison Bridge,6265
+170,"Hall, Silva and Gray",6,Private,High,CT,Hartford,27370 Oak Avenue,6265
+171,Graham Inc,1,Private,Middle,CT,Waterbury,103797 Elm Circle,6141
+172,Rich PLC,1,Public,Elementary,CT,Waterbury,151360 Pine Drive,6141
+173,Mcdonald Ltd,3,Public,Pre-K,CT,Newark,51208 Santos Stream,8184
+174,Murphy-Edwards,3,Private,Elementary,CT,Bridgeport,110316 Santos Stream,6116
+175,Mills and Sons,8,Private,Pre-K,CT,Stamford,86450 Maple Street,6172
+176,"Hughes, Sherman and Coleman",7,Private,Middle,CT,Stamford,5456 Maple Street,6172
+177,"Conley, Flores and Williamson",7,Public,High,NJ,Elizabeth,109740 Santos Stream,8964
+178,Torres Inc,6,Public,High,NJ,Elizabeth,131542 Pine Drive,8964
+179,"White, Moore and Burgess",2,Public,Middle,NJ,Elizabeth,168260 Oak Avenue,8964
+180,Cabrera Group,10,Public,High,CT,Waterbury,101160 Maple Street,6289
+181,"Erickson, Moran and Kemp",0,Public,High,CT,Waterbury,16833 Cedar Lane,6289
+182,"Johnson, Kennedy and Turner",10,Public,Pre-K,CT,Waterbury,18382 Elm Circle,6289
+183,Weaver-Jones,2,Private,Middle,CT,Paterson,124440 Omar Park,7751
+184,Figueroa-Prince,3,Public,Elementary,CT,Paterson,48944 Oak Avenue,7751
+185,"Kim, Banks and Thomas",10,Public,Pre-K,CT,Paterson,26455 Oak Avenue,8637
+186,"Price, Harvey and Taylor",9,Public,Middle,CT,Newark,68262 Cedar Lane,7471
+187,"Gray, Dunlap and King",8,Private,Pre-K,CT,Newark,27863 Elm Circle,7471
+188,Berry PLC,1,Public,Elementary,NY,Buffalo,38352 Omar Park,13132
+189,Mcpherson-Colon,10,Public,Elementary,NY,Buffalo,19089 Maple Street,13132
+190,Mckenzie-Bush,2,Private,Middle,NY,Buffalo,43890 Santos Stream,13132
+191,Dalton-Campbell,1,Public,Elementary,NJ,Elizabeth,97983 Omar Park,7375
+192,Ferguson Group,4,Public,Pre-K,CT,Albany,12096 Chad Valley,11829
+193,Mercer-Harper,5,Public,Elementary,CT,Hartford,131626 Maple Street,6302
+194,Baird-Martinez,0,Public,Pre-K,NJ,Elizabeth,1358 Pine Drive,7455
+195,Reynolds-Walker,2,Public,Pre-K,NJ,Elizabeth,60060 Elm Circle,7455
+196,Johnston-Hall,3,Private,Elementary,CT,Stamford,157780 Chad Valley,6105
+197,"Berry, Bolton and Robertson",1,Private,Middle,CT,Paterson,108547 Alison Bridge,7668
+198,Hall-Baker,1,Private,High,CT,Paterson,96624 Chad Valley,7668
+199,Chavez PLC,6,Public,Elementary,CT,New Haven,12736 Omar Park,6099
+200,"Johnson, Perez and Farmer",9,Public,Pre-K,CT,Syracuse,145800 Elm Circle,11076
+201,"Benton, Weber and Brown",5,Public,Pre-K,NJ,Elizabeth,185121 Santos Stream,8120
+202,"Smith, Mcmillan and Murphy",5,Private,Elementary,NJ,Elizabeth,110090 Santos Stream,8120
+203,"Cardenas, David and Miller",7,Public,Middle,CT,Waterbury,104545 Maple Street,6065
+204,Dawson-Richardson,3,Public,Middle,CT,Waterbury,1020 Dawson Terrace,6065
+205,"Ward, Wood and Watson",0,Private,Pre-K,CT,Stamford,156620 Santos Stream,6252
+206,"Glover, Hurst and Vang",5,Public,Pre-K,CT,Trenton,4532 Cedar Lane,7914
+207,Lewis Group,7,Private,Middle,CT,Trenton,179469 Maple Street,7914
+208,"Ellis, Parks and Foster",5,Private,High,NY,Buffalo,66560 Elm Circle,10732
+209,"Goodwin, Thompson and Evans",5,Private,Elementary,NY,Buffalo,24871 Cedar Lane,10732
+210,"Holloway, Mcclain and Wilson",0,Public,Pre-K,NY,Buffalo,175350 Omar Park,10732
+211,Nelson-Torres,9,Public,Pre-K,CT,Newark,64144 Omar Park,8284
+212,Kim Inc,9,Public,Middle,CT,Newark,113208 Dawson Terrace,8284
+213,"Cooper, Brown and Hansen",5,Public,Elementary,CT,Trenton,204906 Pine Drive,7824
+214,"Campos, Holloway and Tucker",5,Public,Middle,CT,Trenton,100366 Dawson Terrace,7824
+215,Walters-Bass,6,Public,Elementary,CT,Trenton,135450 Omar Park,7824
+216,Tran-Ramsey,4,Public,Elementary,CT,New Haven,96984 Oak Avenue,6229
+217,Pearson LLC,2,Private,Elementary,CT,New Haven,162967 Alison Bridge,6229
+218,"Higgins, Day and Chambers",10,Public,Pre-K,CT,New Haven,30520 Santos Stream,6229
+219,Juarez-Davis,9,Private,High,CT,Trenton,34602 Oak Avenue,8220
+220,Donaldson-Atkinson,3,Public,Middle,CT,Syracuse,169840 Cedar Lane,10809
+221,Orr PLC,8,Public,High,CT,Syracuse,12155 Dawson Terrace,10809
+222,Gonzalez PLC,1,Public,Middle,CT,Hartford,69042 Dawson Terrace,6182
+223,Smith Group,1,Private,Elementary,CT,Hartford,18732 Chad Valley,6182
+224,Brewer PLC,7,Private,Pre-K,CT,Bridgeport,177856 Dawson Terrace,6230
+225,Middleton Ltd,2,Private,High,NJ,Elizabeth,89775 Maple Street,7790
+226,"Larsen, Young and Gonzalez",6,Private,Pre-K,NJ,Elizabeth,169048 Omar Park,7790
+227,"Bartlett, Rivera and Anderson",2,Public,Middle,NY,Buffalo,49940 Chad Valley,12085
+228,Brewer Group,8,Private,Pre-K,CT,Syracuse,92568 Chad Valley,13095
+229,"Aguirre, Larsen and Caldwell",6,Public,Pre-K,CT,Syracuse,26564 Elm Circle,13095
+230,Hanson LLC,6,Public,High,CT,Hartford,16560 Chad Valley,6232
+231,Elliott Group,2,Private,Elementary,NJ,Elizabeth,92862 Alison Bridge,8709
+232,Blankenship-Morales,0,Private,Pre-K,NJ,Elizabeth,204160 Maple Street,8709
+233,Bennett Ltd,7,Private,Elementary,CT,Paterson,226243 Oak Avenue,8777
+234,Mcdowell PLC,5,Private,Middle,CT,Paterson,51480 Dawson Terrace,8777
+235,James-Ramsey,5,Private,Pre-K,CT,Paterson,37600 Santos Stream,8777
+236,"Smith, Hartman and Cervantes",5,Private,High,CT,New Haven,89444 Chad Valley,6292
+237,Johnson-Burnett,8,Private,Middle,CT,New Haven,103569 Omar Park,6292
+238,Allen LLC,1,Private,Middle,CT,New Haven,177072 Oak Avenue,6292
+239,"Hernandez, Kennedy and Elliott",9,Public,High,CT,Rochester,135513 Omar Park,13448
+240,Morgan LLC,10,Private,Pre-K,CT,Rochester,168960 Elm Circle,13448
+241,Hughes Ltd,9,Private,Pre-K,CT,Bridgeport,26992 Santos Stream,6323
+242,"Morgan, Martin and Rasmussen",4,Public,Middle,NY,New York,218768 Santos Stream,10159
+243,Sweeney PLC,3,Private,Pre-K,NY,New York,1215 Cedar Lane,10159
+244,Greer PLC,3,Public,Elementary,CT,Rochester,168848 Elm Circle,12907
+245,Rodgers-Erickson,3,Public,High,CT,Albany,6370 Cedar Lane,12853
+246,"Rogers, Johnson and Villegas",4,Private,Elementary,CT,Albany,76506 Cedar Lane,12853
+247,Reilly-Chambers,0,Public,Pre-K,CT,Albany,98059 Pine Drive,12853
+248,Simpson Group,3,Public,Middle,NJ,Elizabeth,72168 Elm Circle,8115
+249,"Graves, Hickman and James",2,Public,High,CT,Paterson,246261 Chad Valley,8480
+250,"Santos, Smith and Gibson",5,Public,Pre-K,CT,Paterson,86750 Santos Stream,8480
+251,Williams-Hernandez,6,Private,Pre-K,CT,Paterson,234434 Alison Bridge,8480
+252,Carr-Pruitt,3,Public,Middle,CT,Bridgeport,85681 Oak Avenue,6378
+253,Bailey and Sons,10,Private,Middle,CT,Waterbury,220869 Maple Street,6152
+254,Hall-Webster,7,Public,Elementary,CT,Waterbury,22352 Oak Avenue,6152
+255,Pruitt-Bell,9,Public,High,CT,Waterbury,10710 Pine Drive,6152
+256,Atkinson-Jackson,7,Public,High,CT,Hartford,175104 Elm Circle,6319
+257,Williamson Ltd,8,Public,Middle,CT,Hartford,34952 Chad Valley,6274
+258,Watson-Pearson,0,Private,Elementary,CT,Paterson,185502 Chad Valley,8152
+259,Adams-Webb,3,Private,High,CT,Rochester,72261 Santos Stream,14307
+260,Cole-Pierce,6,Public,Middle,NJ,Elizabeth,200200 Alison Bridge,7139
+261,Harris Group,3,Public,Pre-K,NJ,Elizabeth,215586 Alison Bridge,7139
+262,Patel-Long,10,Private,High,NJ,Elizabeth,221652 Alison Bridge,8728
+263,"Moore, Taylor and Koch",5,Public,Elementary,NJ,Elizabeth,194094 Maple Street,8728
+264,Martinez-Adams,1,Public,Elementary,NJ,Elizabeth,70752 Elm Circle,8728
+265,"Norris, Davenport and Hill",0,Public,Elementary,CT,Bridgeport,113950 Cedar Lane,6145
+266,Maldonado and Sons,5,Private,Pre-K,CT,Bridgeport,213332 Oak Avenue,6145
+267,Alvarez-Duncan,6,Private,High,CT,Waterbury,159399 Oak Avenue,6156
+268,"Munoz, Ramirez and Henry",8,Private,High,CT,Waterbury,183044 Santos Stream,6156
+269,"Rivera, Turner and Gray",10,Public,Pre-K,NY,Buffalo,172698 Cedar Lane,13504
+270,"Davis, Boyer and Briggs",4,Public,High,CT,Jersey City,54270 Alison Bridge,8784
+271,"Sullivan, King and Jones",6,Private,Pre-K,CT,Jersey City,34959 Omar Park,8784
+272,"Nelson, May and Thomas",7,Private,Pre-K,CT,Jersey City,59024 Cedar Lane,8784
+273,"Hahn, Hamilton and Brennan",6,Private,Pre-K,CT,Newark,75075 Oak Avenue,8816
+274,"Thomas, Griffin and Murphy",9,Private,Elementary,CT,Hartford,29866 Pine Drive,6211
+275,"Mcmahon, Fuentes and Wright",7,Public,High,CT,Hartford,165825 Elm Circle,6211
+276,"Mcclure, Crawford and Johnson",3,Private,Pre-K,CT,Syracuse,108192 Chad Valley,14644
+277,"Wright, Fields and Lopez",3,Public,High,CT,Albany,75621 Oak Avenue,12116
+278,"Gomez, Montoya and Jordan",4,Private,Elementary,CT,Rochester,174584 Elm Circle,11425
+279,"Walton, Phelps and Swanson",8,Public,Pre-K,CT,Rochester,215388 Omar Park,11425
+280,Campbell-Smith,2,Private,Middle,CT,Rochester,87640 Cedar Lane,11425
+281,"Elliott, Henderson and Davidson",8,Private,Elementary,CT,Stamford,230701 Omar Park,6249
+282,Lawrence LLC,7,Private,Middle,CT,Stamford,260850 Elm Circle,6249
+283,Miles-Fernandez,9,Private,High,CT,Stamford,56600 Omar Park,6249
+284,Johnson and Sons,10,Public,High,CT,Hartford,143136 Dawson Terrace,6105
+285,"Edwards, Patton and Whitney",7,Private,Elementary,CT,Hartford,258210 Chad Valley,6105
+286,"Li, Gray and Tate",9,Public,High,NJ,Elizabeth,167024 Alison Bridge,7565
+287,Rodriguez LLC,10,Public,Middle,NJ,Elizabeth,13202 Alison Bridge,7565
+288,Nash-Washington,4,Public,Pre-K,NJ,Elizabeth,101952 Elm Circle,7565
+289,Newman-Franco,9,Public,Pre-K,CT,Stamford,27744 Omar Park,6009
+290,Gomez-Phillips,5,Private,Pre-K,CT,Stamford,224170 Oak Avenue,6009
+291,"Harris, Colon and West",6,Public,Elementary,CT,Paterson,22698 Maple Street,7534
+292,"Allen, Fisher and Phillips",8,Public,High,CT,Paterson,102200 Santos Stream,7534
+293,Petersen-Jones,5,Public,Middle,CT,Paterson,180488 Maple Street,7534
+294,Hayes PLC,2,Private,High,CT,Stamford,263424 Chad Valley,6088
+295,"Mills, Brown and Stone",5,Private,High,CT,Stamford,104725 Elm Circle,6088
+296,Dunn LLC,8,Private,High,NY,New York,27528 Santos Stream,10162
+297,Shaw and Sons,5,Private,Pre-K,CT,New Haven,206415 Oak Avenue,6083
+298,"Walker, Ayala and Williams",0,Public,Middle,CT,New Haven,273564 Santos Stream,6083
+299,Robbins LLC,10,Public,Middle,CT,New Haven,274183 Chad Valley,6083
+300,Dixon-Duncan,4,Private,High,CT,Trenton,238200 Alison Bridge,8899
+301,Jackson Ltd,5,Public,Pre-K,CT,Syracuse,149296 Maple Street,10099
+302,Collier Ltd,4,Public,Pre-K,CT,Paterson,105700 Maple Street,8373
+303,Williams LLC,10,Public,Middle,CT,Newark,106656 Pine Drive,7182
+304,"Jones, Williams and Mathews",4,Private,Pre-K,CT,Newark,133152 Cedar Lane,7182
+305,Thomas-Peters,9,Private,Pre-K,CT,Albany,47275 Dawson Terrace,10641
+306,"Morris, Shepherd and Smith",3,Public,Pre-K,CT,Albany,182988 Elm Circle,10641
+307,"Wells, Evans and Brown",0,Private,Elementary,CT,Bridgeport,112669 Oak Avenue,6124
+308,"Griffith, Olsen and Calhoun",9,Private,High,CT,Trenton,230076 Oak Avenue,7249
+309,Mclaughlin Inc,1,Private,Middle,CT,Trenton,75396 Elm Circle,7249
+310,"Morris, Dominguez and Lowe",8,Private,Middle,CT,Trenton,72850 Cedar Lane,8236
+311,Jones PLC,6,Private,Elementary,CT,Trenton,141816 Elm Circle,8236
+312,Hanson-Cantu,8,Public,High,CT,Trenton,42744 Pine Drive,8236
+313,Lara-Robertson,7,Private,Middle,CT,Hartford,269180 Maple Street,6031
+314,Watson-Edwards,9,Public,Pre-K,CT,Hartford,149150 Pine Drive,6031
+315,Harris-Schwartz,6,Public,Middle,CT,Hartford,247590 Omar Park,6385
+316,Hicks PLC,3,Private,Pre-K,CT,Hartford,266704 Dawson Terrace,6385
+317,Gibbs PLC,4,Public,Elementary,NJ,Elizabeth,27579 Cedar Lane,8605
+318,"Wallace, Singleton and Brown",10,Public,Pre-K,NJ,Elizabeth,202884 Santos Stream,8605
+319,Lopez Inc,4,Public,Middle,NJ,Elizabeth,45298 Alison Bridge,8605
+320,"Morgan, Lambert and Jones",6,Private,Middle,CT,Trenton,73280 Maple Street,7226
+321,"Mueller, Velazquez and Stone",0,Private,Middle,CT,Trenton,6741 Cedar Lane,7226
+322,"Gregory, Johnson and Thomas",3,Public,Elementary,CT,Newark,17066 Oak Avenue,7119
+323,Garza-Aguilar,3,Private,Elementary,CT,Newark,158916 Maple Street,7119
+324,"Fernandez, Elliott and Lee",0,Private,High,CT,Newark,302292 Chad Valley,7119
+325,Rangel Group,2,Private,Middle,CT,Paterson,154050 Cedar Lane,8149
+326,Hancock and Sons,0,Private,Pre-K,CT,Paterson,312634 Chad Valley,8149
+327,Ramirez-Tucker,7,Public,Elementary,CT,Paterson,63438 Pine Drive,8149
+328,"Ferguson, Bishop and Parker",9,Public,Middle,CT,Stamford,64944 Chad Valley,6348
+329,Salazar-Hayes,8,Private,Middle,CT,Stamford,209902 Cedar Lane,6348
+330,Fox Ltd,3,Private,Elementary,CT,Newark,297660 Santos Stream,8916
+331,Castillo Ltd,7,Public,High,CT,Newark,265793 Cedar Lane,8916
+332,"Oneill, Velasquez and Holden",3,Public,Elementary,NJ,Elizabeth,320712 Omar Park,8391
+333,"Jones, Coleman and Davis",7,Private,Elementary,NJ,Elizabeth,85914 Alison Bridge,8391
+334,Miller-Long,7,Public,Pre-K,NJ,Elizabeth,67468 Alison Bridge,8391
+335,Fields-Gregory,3,Private,Pre-K,CT,New Haven,32495 Omar Park,6108
+336,Rivera and Sons,6,Private,High,CT,Hartford,306768 Dawson Terrace,6222
+337,White Ltd,10,Public,Middle,CT,Hartford,203211 Pine Drive,6222
+338,Schneider-Salinas,0,Public,Elementary,CT,Hartford,292370 Maple Street,6222
+339,Nguyen Inc,2,Private,High,CT,Bridgeport,227808 Omar Park,6261
+340,Holland Ltd,0,Private,Pre-K,NJ,Elizabeth,155720 Omar Park,7347
+341,"Wade, Costa and Rodriguez",0,Public,Elementary,CT,Stamford,99913 Oak Avenue,6277
+342,Rogers Inc,6,Private,Middle,CT,Stamford,161766 Pine Drive,6277
+343,Brown-Oconnor,1,Public,Pre-K,CT,Jersey City,39102 Alison Bridge,7858
+344,"Burke, Hall and Waters",5,Private,Pre-K,NY,New York,321296 Alison Bridge,12584
+345,"Ware, Miles and Golden",10,Public,Pre-K,NY,New York,184230 Dawson Terrace,12584
+346,Willis Ltd,3,Public,High,CT,Waterbury,128366 Alison Bridge,6209
+347,"Perez, Harper and Chen",1,Public,Middle,CT,Waterbury,156497 Dawson Terrace,6209
+348,Tate Inc,10,Private,Elementary,CT,Waterbury,48024 Pine Drive,6209
+349,Fitzpatrick-Zavala,5,Private,High,CT,Trenton,51652 Pine Drive,7232
+350,"Ingram, Lopez and Jackson",2,Public,High,CT,Trenton,316050 Cedar Lane,7232
+351,"Morrison, Brown and Moore",3,Private,High,NY,New York,255177 Elm Circle,13770
+352,"Rose, Carter and Thompson",9,Public,Pre-K,CT,Syracuse,179872 Oak Avenue,10021
+353,"Sutton, Johnson and Lopez",1,Public,Middle,CT,Trenton,237216 Maple Street,8646
+354,"Clark, Burnett and Tran",4,Private,High,CT,Paterson,146202 Alison Bridge,7832
+355,Jenkins-Paul,6,Private,Elementary,CT,New Haven,106145 Elm Circle,6142
+356,Gonzales-Shaw,0,Public,Middle,CT,New Haven,187968 Alison Bridge,6142
+357,"Davis, Padilla and Hall",1,Private,Elementary,CT,New Haven,225624 Santos Stream,6142
+358,Silva-Crane,1,Private,Middle,CT,Jersey City,208356 Alison Bridge,7635
+359,"Hughes, Hayes and Murillo",5,Public,Elementary,CT,Jersey City,347871 Alison Bridge,7635
+360,"Reid, Nicholson and Haynes",3,Public,Pre-K,CT,Bridgeport,353160 Elm Circle,6111
+361,Acevedo-Kelly,6,Private,High,CT,Jersey City,331037 Alison Bridge,7283
+362,Matthews-Williams,9,Public,Elementary,CT,Stamford,73124 Alison Bridge,6149
+363,Brooks Inc,9,Public,Middle,CT,Stamford,335412 Pine Drive,6149
+364,Jackson-Williams,8,Private,High,CT,Albany,353808 Santos Stream,12153
+365,Salazar-Evans,4,Public,High,CT,Bridgeport,203305 Oak Avenue,6357
+366,Ortiz PLC,3,Public,Middle,CT,Bridgeport,209718 Maple Street,6357
+367,"Perez, Turner and Serrano",2,Private,Elementary,CT,Trenton,91750 Alison Bridge,7098
+368,Lawrence and Sons,0,Private,Pre-K,CT,Jersey City,27600 Oak Avenue,8218
+369,Ruiz-Bauer,1,Public,Pre-K,NY,New York,199629 Cedar Lane,11863
+370,Robinson Group,5,Public,Elementary,NY,New York,129500 Oak Avenue,11863
+371,Collier-Hunter,0,Private,High,NY,New York,256732 Elm Circle,11863
+372,"Brown, Gordon and Guzman",1,Private,High,CT,Syracuse,199392 Dawson Terrace,10167
+373,Chavez LLC,2,Private,High,CT,Syracuse,342041 Pine Drive,10167
+374,"Riley, Calhoun and Weber",10,Private,High,CT,Rochester,143242 Elm Circle,11994
+375,Frank LLC,0,Public,Elementary,CT,Rochester,42000 Chad Valley,11994
+376,"Logan, Conley and Adams",5,Private,High,CT,Rochester,97760 Chad Valley,11994
+377,"Nguyen, Shannon and Bell",5,Private,Middle,CT,Newark,326482 Dawson Terrace,8746
+378,"Schwartz, Taylor and Meadows",0,Public,High,CT,Newark,175770 Elm Circle,8746
+379,Bullock-Walsh,9,Private,Pre-K,CT,Syracuse,92097 Omar Park,12595
+380,Nelson Group,1,Public,High,CT,Trenton,112860 Cedar Lane,8337
+381,Wood PLC,10,Private,Elementary,CT,Trenton,141351 Elm Circle,8337
+382,Huber Inc,8,Private,Pre-K,CT,Newark,354496 Pine Drive,8687
+383,"Hill, Solomon and Powell",3,Private,Elementary,CT,Newark,91154 Alison Bridge,8687
+384,Brown LLC,7,Public,Elementary,CT,Newark,234240 Santos Stream,8687
+385,Larson LLC,6,Public,Pre-K,NY,Buffalo,74305 Chad Valley,10595
+386,Hughes-Carson,8,Private,Elementary,NY,Buffalo,243952 Cedar Lane,10595
+387,Reed Inc,10,Public,Elementary,CT,Jersey City,240714 Dawson Terrace,8973
+388,"Williams, Buckley and Robinson",0,Public,High,CT,Jersey City,176152 Pine Drive,8973
+389,Madden LLC,4,Public,Middle,CT,Syracuse,26841 Chad Valley,10559
+390,Garcia and Sons,10,Public,Elementary,CT,Syracuse,212550 Elm Circle,10559
+391,Hughes LLC,0,Public,Elementary,CT,Syracuse,68034 Dawson Terrace,10559
+392,Adams-Mitchell,6,Public,Elementary,CT,Rochester,301448 Maple Street,12606
+393,Kelly Ltd,5,Private,High,CT,Rochester,306147 Alison Bridge,12606
+394,"Flores, Chen and Brown",10,Private,Middle,CT,Waterbury,5516 Maple Street,6261
+395,Jenkins Ltd,3,Public,Pre-K,CT,Waterbury,389470 Santos Stream,6261
+396,Adams and Sons,3,Private,High,CT,Rochester,354024 Alison Bridge,12020
+397,Phelps PLC,9,Private,High,CT,Rochester,377944 Omar Park,12020
+398,"Ramos, Savage and Briggs",1,Private,Middle,CT,New Haven,210542 Santos Stream,6146
+399,"Bowen, Wolf and Kramer",2,Private,Middle,NY,Buffalo,278901 Pine Drive,11516
+400,"Elliott, Turner and Arnold",4,Public,High,NY,Buffalo,323600 Dawson Terrace,11516
+401,Henderson-Martin,2,Private,Pre-K,CT,Hartford,105864 Cedar Lane,6084
+402,Benson LLC,0,Private,High,CT,Waterbury,72360 Pine Drive,6273
+403,"Barker, Gomez and Miller",9,Public,Middle,NY,Buffalo,164827 Chad Valley,12233
+404,"Wu, Haynes and Lopez",0,Public,Pre-K,NY,Buffalo,173316 Maple Street,12233
+405,Wilson LLC,6,Private,Middle,NY,Buffalo,276615 Elm Circle,12233
+406,Kelley-Hinton,3,Private,Pre-K,CT,Stamford,220458 Pine Drive,6073
+407,Hart-Ponce,8,Private,Elementary,CT,Syracuse,261294 Dawson Terrace,10897
+408,"Castaneda, Martinez and Wiggins",10,Private,Middle,CT,Syracuse,290088 Cedar Lane,10897
+409,Ruiz-Liu,7,Private,Middle,CT,Syracuse,233130 Dawson Terrace,10897
+410,Ross Group,7,Private,High,CT,Waterbury,321850 Alison Bridge,6281
+411,"Mitchell, Bryant and Brandt",8,Public,Middle,CT,Waterbury,227694 Santos Stream,6281
+412,Carey-Ortega,0,Private,Middle,CT,Waterbury,201880 Chad Valley,6281
+413,Palmer-Rivas,3,Private,Elementary,NY,New York,198240 Cedar Lane,11553
+414,Anthony and Sons,5,Public,Middle,NY,New York,378810 Dawson Terrace,11553
+415,Gomez-Barrett,4,Public,Elementary,NJ,Elizabeth,387610 Elm Circle,8705
+416,"York, Brown and Myers",9,Public,Elementary,CT,Paterson,304512 Chad Valley,8987
+417,"Ayala, Morrow and Garcia",1,Public,Elementary,CT,Paterson,42534 Santos Stream,8987
+418,Burton-Owens,4,Private,Elementary,CT,Paterson,16302 Cedar Lane,8987
+419,"Smith, Stevens and Avila",5,Private,Pre-K,CT,Hartford,26816 Oak Avenue,6295
+420,Arnold-Reynolds,7,Private,High,CT,Hartford,338940 Santos Stream,6295
+421,Spence Ltd,9,Private,Pre-K,CT,Hartford,155770 Pine Drive,6295
+422,"Nguyen, Thomas and Schmidt",10,Private,Middle,NY,Buffalo,108454 Santos Stream,10824
+423,Rios-Dixon,8,Private,Pre-K,CT,Rochester,197964 Cedar Lane,13781
+424,"Day, Kelly and Leach",3,Public,Pre-K,CT,Rochester,52152 Dawson Terrace,13781
+425,Woods-Garcia,10,Private,Middle,NY,Buffalo,155975 Santos Stream,12516
+426,"Hopkins, Hart and Brooks",5,Public,Middle,NY,Buffalo,25560 Santos Stream,12516
+427,"Williams, Bass and Beck",8,Public,Middle,NY,Buffalo,254065 Chad Valley,13252
+428,"Wilson, Burgess and Tapia",1,Private,Pre-K,NY,Buffalo,308160 Chad Valley,13252
+429,"Branch, Marshall and Parker",8,Public,Pre-K,NY,Buffalo,293436 Omar Park,13252
+430,Garcia and Sons,6,Private,Middle,CT,Newark,344860 Dawson Terrace,8085
+431,Nguyen-Duran,8,Public,High,CT,Newark,80597 Cedar Lane,8085
+432,Rodriguez-Ray,6,Private,High,CT,Paterson,339120 Omar Park,7644
+433,Stewart Group,1,Public,Elementary,CT,Paterson,330379 Santos Stream,7644
+434,"Lopez, Nelson and Flores",6,Private,Middle,CT,Bridgeport,341558 Alison Bridge,6367
+435,Johnson-Perkins,10,Private,Elementary,CT,Bridgeport,433695 Dawson Terrace,6367
+436,Caldwell-Cummings,0,Private,High,CT,Syracuse,113796 Cedar Lane,13128
+437,Brown-Cook,5,Private,Elementary,CT,Syracuse,101384 Alison Bridge,13128
+438,Taylor-Moran,4,Private,Middle,CT,Syracuse,266742 Oak Avenue,13128
+439,Roach Ltd,10,Public,Middle,CT,Albany,50485 Pine Drive,10605
+440,Smith Ltd,6,Public,Middle,CT,Albany,244200 Maple Street,10605
+441,"Barnes, Robinson and Ramirez",5,Public,Pre-K,CT,Syracuse,310464 Pine Drive,10415
+442,Potter-Fox,2,Private,Elementary,CT,Syracuse,321776 Dawson Terrace,10415
+443,Dixon-Williams,7,Public,High,CT,Jersey City,315859 Omar Park,7892
+444,Rivera Group,9,Private,High,CT,Newark,68376 Omar Park,8332
+445,Hunter PLC,8,Private,High,CT,Jersey City,11125 Elm Circle,8614
+446,Rodriguez-Bailey,8,Public,Pre-K,CT,Jersey City,446 Omar Park,8614
+447,Cabrera Group,10,Public,Pre-K,CT,Jersey City,392466 Pine Drive,7510
+448,"Banks, Patterson and Newton",4,Private,Middle,CT,Jersey City,63616 Cedar Lane,7510
+449,Adams-Moore,6,Public,High,CT,Jersey City,26491 Elm Circle,7510
+450,Garcia-Downs,7,Private,Pre-K,NY,Buffalo,411750 Cedar Lane,14181
+451,Russell-Olsen,3,Private,Middle,NY,Buffalo,92455 Santos Stream,14181
+452,"Brown, Hansen and Gutierrez",8,Private,High,NY,Buffalo,36160 Chad Valley,14181
+453,"Kim, Moore and Roach",4,Private,Elementary,NY,New York,107361 Elm Circle,13576
+454,Stevens-Burgess,5,Private,Middle,NY,New York,90346 Cedar Lane,13576
+455,"Johnson, Martinez and Reyes",7,Public,Pre-K,CT,Stamford,419965 Maple Street,6205
+456,Baker-Norman,10,Public,Pre-K,CT,Stamford,103512 Alison Bridge,6205
+457,Thomas-Wilkerson,0,Private,Middle,CT,Stamford,300706 Chad Valley,6205
+458,Fisher and Sons,5,Private,Middle,CT,Trenton,18320 Dawson Terrace,7267
+459,Li-Chapman,6,Public,Pre-K,CT,Trenton,139536 Maple Street,7267
+460,Dixon Inc,7,Public,Elementary,CT,Syracuse,165600 Cedar Lane,14618
+461,Watts PLC,5,Private,High,CT,Syracuse,233727 Dawson Terrace,14618
+462,Singleton PLC,6,Public,Elementary,CT,Syracuse,424116 Cedar Lane,14618
+463,Walker PLC,8,Private,Middle,CT,Bridgeport,6019 Maple Street,6035
+464,Porter Inc,1,Public,Elementary,CT,Bridgeport,179104 Omar Park,6035
+465,Patterson-Randall,4,Private,Pre-K,CT,Waterbury,140430 Chad Valley,6269
+466,Martinez Inc,3,Public,Middle,CT,Hartford,351830 Dawson Terrace,6170
+467,Christensen-Pierce,3,Private,High,CT,Hartford,444584 Omar Park,6170
+468,"Johnson, Price and Ramirez",9,Public,Pre-K,CT,Hartford,453024 Omar Park,6170
+469,"Aguilar, Williams and Williams",5,Public,Pre-K,CT,Stamford,353157 Elm Circle,6002
+470,Brown LLC,3,Private,High,CT,Stamford,227480 Dawson Terrace,6002
+471,Carroll-Bennett,8,Public,High,CT,Stamford,357960 Elm Circle,6002
+472,Dean-Hurley,8,Private,Elementary,CT,Syracuse,184080 Chad Valley,10667
+473,"Brown, Small and Page",6,Public,Middle,CT,Syracuse,204809 Maple Street,10667
+474,Atkins Inc,4,Private,High,CT,Syracuse,420912 Oak Avenue,11405
+475,Tate-Rush,4,Public,High,CT,Syracuse,76950 Chad Valley,11405
+476,Moody LLC,0,Private,Middle,CT,Hartford,246568 Chad Valley,6011
+477,"Bright, Crawford and Park",7,Public,High,CT,Syracuse,398295 Santos Stream,14120
+478,"Gay, Russell and Franco",10,Private,High,CT,Syracuse,245214 Pine Drive,14120
+479,Carpenter PLC,3,Public,Elementary,CT,Syracuse,213155 Chad Valley,14120
+480,Allen LLC,0,Private,Pre-K,CT,Albany,23040 Elm Circle,12602
+481,"Gray, Murphy and Perry",2,Private,Pre-K,CT,Albany,244348 Maple Street,12602
+482,Harris LLC,8,Private,Pre-K,CT,Albany,365838 Oak Avenue,12602
+483,Patterson and Sons,6,Public,Pre-K,CT,New Haven,50232 Chad Valley,6223
+484,Oconnell-Daniels,2,Private,High,CT,New Haven,65340 Maple Street,6223
+485,Dixon-Harmon,5,Public,Middle,CT,Newark,299245 Chad Valley,7728
+486,Burton Group,3,Private,Middle,CT,Newark,480654 Dawson Terrace,7728
+487,"Hurley, Mcneil and Lewis",1,Public,Elementary,CT,Newark,296583 Pine Drive,7164
+488,Gibbs-Mckinney,8,Private,Elementary,CT,Newark,436760 Chad Valley,7164
+489,"Escobar, Shepard and Watson",5,Public,High,CT,Newark,444012 Omar Park,7164
+490,Mccarthy Ltd,0,Public,Middle,CT,Syracuse,168560 Oak Avenue,11746
+491,Curry-Fox,9,Private,Middle,CT,Syracuse,193945 Maple Street,11746
+492,Mann and Sons,3,Public,Pre-K,CT,Syracuse,438864 Oak Avenue,11746
+493,"Young, Smith and Tanner",3,Public,High,CT,Rochester,131631 Elm Circle,12279
+494,Deleon LLC,7,Private,High,CT,Trenton,125970 Elm Circle,7155
+495,Santana-Clark,7,Public,Pre-K,CT,Trenton,88110 Pine Drive,7155
+496,Knight PLC,10,Public,High,CT,Trenton,41168 Cedar Lane,7155
+497,"Alexander, Mcmillan and Hicks",0,Public,High,NJ,Elizabeth,380702 Alison Bridge,8250
+498,Malone-Vargas,2,Private,Elementary,NJ,Elizabeth,235056 Pine Drive,8250
+499,Ramos LLC,10,Public,Middle,NJ,Elizabeth,206586 Maple Street,8250
+500,"Jones, Atkinson and Hayes",9,Private,High,CT,Hartford,228000 Cedar Lane,6334
+501,Brown and Sons,10,Public,Elementary,CT,Hartford,223947 Chad Valley,6334
+502,Martin Group,7,Public,Middle,CT,Hartford,256522 Chad Valley,6334
+503,Roberts Group,9,Public,Pre-K,NJ,Elizabeth,493946 Pine Drive,7513
+504,Young LLC,1,Private,Elementary,NJ,Elizabeth,111384 Alison Bridge,7513
+505,Bell PLC,9,Public,Elementary,NJ,Elizabeth,464095 Dawson Terrace,8236
+506,Allen-Anderson,2,Public,Middle,NJ,Elizabeth,200376 Maple Street,8236
+507,Cox Inc,4,Private,Pre-K,NJ,Elizabeth,446667 Elm Circle,8236
+508,"Bell, Williams and Ochoa",6,Public,Elementary,CT,Syracuse,493268 Santos Stream,11019
+509,Hensley Inc,8,Private,High,CT,Syracuse,317107 Cedar Lane,11019
+510,Parker-Stanley,10,Private,High,CT,Syracuse,278460 Alison Bridge,11019
+511,"Price, Cook and Herring",0,Public,High,CT,New Haven,379673 Omar Park,6020
+512,Nash-Kelly,2,Private,Pre-K,CT,Albany,436736 Chad Valley,10405
+513,Randolph-Martinez,7,Public,Elementary,CT,Albany,189297 Elm Circle,10405
+514,Thomas LLC,3,Private,High,CT,Jersey City,83782 Alison Bridge,8246
+515,Wyatt and Sons,9,Private,Pre-K,CT,Waterbury,201880 Alison Bridge,6373
+516,Turner Ltd,9,Public,High,NJ,Elizabeth,352428 Dawson Terrace,7284
+517,Simmons-Thomas,7,Private,Middle,NJ,Elizabeth,495286 Santos Stream,7284
+518,Crawford and Sons,8,Private,Elementary,CT,Rochester,360010 Omar Park,14317
+519,"Roberson, Martin and Allen",9,Private,Elementary,CT,Rochester,481113 Cedar Lane,14317
+520,Owens LLC,4,Private,Pre-K,CT,Rochester,464880 Dawson Terrace,12896
+521,Cook-Thompson,7,Private,Pre-K,CT,Stamford,474110 Oak Avenue,6054
+522,Dalton-Kim,4,Public,Elementary,CT,Albany,443178 Omar Park,14752
+523,"Ellis, Evans and Morrison",1,Private,High,CT,Albany,488482 Maple Street,14752
+524,Rodriguez-Morrison,9,Public,High,CT,Albany,239992 Maple Street,14752
+525,Hancock-Juarez,10,Private,Middle,CT,Rochester,112350 Elm Circle,13124
+526,"Wagner, Moore and Greene",7,Public,High,CT,Rochester,386610 Maple Street,13124
+527,"Wilkerson, Hodges and Jones",2,Public,Pre-K,CT,Rochester,45322 Oak Avenue,13124
+528,Fowler-Johnson,0,Private,Pre-K,CT,Paterson,177408 Cedar Lane,8772
+529,"Duncan, Harper and Gonzalez",1,Private,High,CT,Paterson,372945 Pine Drive,8772
+530,"Welch, Mitchell and Morris",6,Private,Pre-K,CT,Paterson,40280 Elm Circle,8772
+531,Diaz-Colon,1,Public,Elementary,NY,Buffalo,479493 Oak Avenue,12366
+532,Velasquez-Navarro,2,Private,Elementary,NY,Buffalo,175028 Alison Bridge,12366
+533,Gibson LLC,3,Public,High,CT,Jersey City,345384 Dawson Terrace,7324
+534,"Davis, Montgomery and Ortiz",2,Public,Elementary,CT,Jersey City,135636 Dawson Terrace,7324
+535,Stewart Inc,4,Public,Elementary,CT,Newark,33170 Dawson Terrace,7184
+536,Maxwell-Barron,6,Private,Middle,CT,Newark,17152 Cedar Lane,7184
+537,Peterson Ltd,1,Private,Middle,CT,Newark,156267 Maple Street,7184
+538,Reid-Fernandez,8,Public,Elementary,CT,Bridgeport,243176 Elm Circle,6320
+539,Hancock Ltd,1,Public,High,CT,Albany,57134 Elm Circle,10140
+540,Wolfe Inc,2,Private,Middle,CT,Albany,208440 Chad Valley,10140
+541,Wells Ltd,0,Public,Pre-K,CT,Bridgeport,56805 Santos Stream,6279
+542,"Brown, Sawyer and Medina",2,Private,Pre-K,CT,Paterson,78590 Dawson Terrace,8956
+543,Gardner and Sons,8,Public,Pre-K,CT,Jersey City,90681 Dawson Terrace,8441
+544,Anderson Group,4,Private,High,CT,Hartford,200736 Oak Avenue,6309
+545,Ponce Inc,6,Public,Elementary,CT,New Haven,63220 Elm Circle,6337
+546,"Peterson, Harris and Christian",9,Private,Pre-K,CT,New Haven,226044 Maple Street,6337
+547,Cook-Hernandez,3,Public,High,CT,Waterbury,176134 Omar Park,6114
+548,"Cuevas, Adams and Morgan",7,Private,Middle,CT,Waterbury,322772 Omar Park,6114
+549,Mitchell-Bowen,1,Private,Elementary,CT,Waterbury,516060 Omar Park,6114
+550,"Smith, Bowen and Lopez",7,Public,Middle,CT,Bridgeport,253550 Dawson Terrace,6389
+551,Lewis Ltd,2,Public,High,CT,Bridgeport,85956 Dawson Terrace,6389
+552,"Sherman, Sims and Strickland",8,Private,Pre-K,CT,Jersey City,361008 Cedar Lane,7229
+553,Stark and Sons,10,Public,Pre-K,NJ,Elizabeth,28756 Elm Circle,7557
+554,Evans PLC,6,Private,High,CT,Jersey City,186144 Pine Drive,8379
+555,"Jenkins, Robinson and Austin",10,Public,Pre-K,CT,Bridgeport,410700 Cedar Lane,6159
+556,"Bray, Andrews and Donovan",8,Private,Elementary,CT,Bridgeport,392536 Chad Valley,6159
+557,James and Sons,4,Private,High,CT,Bridgeport,399369 Elm Circle,6159
+558,Martinez-Benitez,0,Private,Middle,CT,Albany,50778 Oak Avenue,13515
+559,"Washington, Williams and Robertson",9,Private,High,CT,Albany,334841 Santos Stream,13515
+560,Riggs-Jones,7,Private,Elementary,CT,Albany,330400 Alison Bridge,13515
+561,Walton and Sons,1,Private,Elementary,NY,Buffalo,558195 Chad Valley,10835
+562,Young Inc,1,Public,High,NY,Buffalo,409698 Omar Park,10835
+563,Jones and Sons,7,Public,High,NY,Buffalo,318658 Dawson Terrace,10835
+564,Walters-Miller,4,Public,Pre-K,CT,Newark,143256 Dawson Terrace,7904
+565,Swanson Ltd,8,Private,Elementary,CT,Hartford,375160 Santos Stream,6259
+566,Moody-Stewart,10,Private,High,CT,Hartford,37356 Pine Drive,6259
+567,Bryan Group,5,Private,High,CT,Syracuse,451899 Chad Valley,10378
+568,Thompson-Valencia,7,Private,Elementary,CT,Syracuse,2840 Cedar Lane,10378
+569,Le-Brooks,4,Public,High,CT,Syracuse,118352 Pine Drive,10378
+570,"Hess, Walker and Hunt",7,Public,Pre-K,NY,Buffalo,254790 Dawson Terrace,12204
+571,"Oconnor, Mason and Oliver",8,Private,Elementary,CT,Hartford,397987 Oak Avenue,6332
+572,"Ortiz, Carroll and Brown",8,Public,Pre-K,CT,Hartford,219648 Elm Circle,6332
+573,Clark-Higgins,1,Public,Pre-K,CT,Hartford,425739 Pine Drive,6332
+574,Melton LLC,1,Private,Pre-K,CT,Rochester,398930 Alison Bridge,12022
+575,Murillo-Jones,1,Public,Pre-K,CT,Rochester,376625 Alison Bridge,12022
+576,"Moyer, Sanders and Lopez",1,Private,Elementary,CT,Rochester,170496 Pine Drive,12022
+577,Cole Inc,6,Public,Pre-K,CT,Stamford,2885 Cedar Lane,6079
+578,Vargas Group,3,Private,Pre-K,NY,New York,548522 Omar Park,12198
+579,"Johnson, Munoz and Rodriguez",2,Private,High,CT,Paterson,103062 Pine Drive,7363
+580,"Munoz, Nguyen and Campbell",4,Private,Elementary,CT,Paterson,307980 Chad Valley,7835
+581,James-Moore,6,Private,Elementary,CT,Rochester,77273 Maple Street,10212
+582,Harris-Powell,6,Public,Middle,CT,Rochester,520890 Chad Valley,10212
+583,Ferguson PLC,4,Private,Elementary,CT,Rochester,511874 Santos Stream,10212
+584,Owens-Moore,3,Private,Elementary,CT,New Haven,412304 Pine Drive,6110
+585,Rose Group,9,Private,Middle,CT,New Haven,462150 Omar Park,6110
+586,"Kerr, Carroll and Nelson",10,Public,Elementary,CT,Waterbury,236744 Maple Street,6296
+587,Smith-Miller,6,Private,Elementary,CT,Waterbury,487797 Omar Park,6296
+588,Miller Inc,3,Public,Elementary,CT,Albany,68796 Omar Park,11624
+589,Phillips-Herring,8,Private,Elementary,CT,Bridgeport,18259 Alison Bridge,6302
+590,Coleman-Gallagher,3,Public,Middle,CT,Bridgeport,590000 Pine Drive,6302
+591,Wolfe-Schneider,2,Public,Elementary,CT,Newark,393015 Santos Stream,8940
+592,"Montgomery, Sims and Davis",5,Private,Elementary,CT,Newark,179968 Dawson Terrace,8940
+593,Martinez-Barnett,6,Public,Middle,CT,Newark,415693 Pine Drive,8940
+594,Hayes-Mejia,5,Private,High,CT,Bridgeport,487674 Alison Bridge,6051
+595,Hull-Henry,4,Private,Pre-K,CT,Bridgeport,414715 Omar Park,6051
+596,"Moore, Alexander and Gilbert",5,Private,High,CT,Bridgeport,82844 Oak Avenue,6051
+597,Wood-Miller,6,Public,Middle,CT,Newark,84774 Pine Drive,7216
+598,Cole-Ramirez,5,Public,Pre-K,CT,Newark,446108 Dawson Terrace,7216
+599,"Mcbride, Foster and Rosales",4,Private,Middle,CT,New Haven,507952 Maple Street,6285
+600,"Green, Lee and Alexander",5,Private,Middle,CT,New Haven,424200 Pine Drive,6285
+601,Hopkins LLC,0,Public,Elementary,CT,New Haven,370817 Alison Bridge,6285
+602,"Horton, Freeman and Jones",6,Private,Pre-K,CT,Waterbury,313642 Santos Stream,6205
+603,Garcia Group,5,Private,Elementary,CT,Waterbury,527625 Oak Avenue,6205
+604,Evans LLC,8,Private,Pre-K,NJ,Elizabeth,419176 Cedar Lane,8577
+605,Green-Torres,1,Public,Middle,CT,Newark,276485 Pine Drive,8075
+606,"Arnold, Jones and Griffith",7,Public,Middle,CT,Newark,444198 Elm Circle,8075
+607,"George, Munoz and Bartlett",6,Public,High,NJ,Elizabeth,10926 Dawson Terrace,7786
+608,"Edwards, Jones and Aguirre",0,Private,Pre-K,NJ,Elizabeth,346560 Elm Circle,7786
+609,"Taylor, Graves and Orozco",0,Private,Elementary,CT,Paterson,372099 Chad Valley,8942
+610,"Edwards, Evans and Miller",10,Private,High,CT,Paterson,594750 Dawson Terrace,7597
+611,Christian LLC,10,Public,High,CT,Paterson,442975 Dawson Terrace,7597
+612,"Chung, Fuller and King",8,Private,High,CT,Paterson,100980 Santos Stream,7597
+613,"Harris, Burch and Moore",5,Private,Elementary,CT,Newark,483044 Santos Stream,8181
+614,Miller-Mcgee,6,Private,High,CT,Newark,553828 Omar Park,8181
+615,Schmitt-Walsh,3,Private,Elementary,CT,New Haven,41820 Santos Stream,6239
+616,Roberts-Barajas,2,Public,High,CT,New Haven,270424 Dawson Terrace,6239
+617,Murphy PLC,8,Public,Elementary,CT,New Haven,507174 Elm Circle,6239
+618,"Wallace, Roberts and Robinson",6,Private,Middle,CT,Newark,427038 Chad Valley,7639
+619,"Frey, Herrera and Pena",8,Public,Middle,CT,Newark,266170 Maple Street,7639
+620,"Clark, Keller and Lewis",5,Public,Middle,CT,Newark,291400 Alison Bridge,7639
+621,"Freeman, Hayes and Chandler",6,Private,Middle,CT,Albany,478791 Pine Drive,11279
+622,Harris Inc,10,Private,Middle,CT,Albany,283632 Alison Bridge,11279
+623,Shepard-Archer,8,Public,High,CT,Hartford,355733 Pine Drive,6199
+624,Jones-Barrera,5,Private,High,CT,Hartford,309504 Alison Bridge,6199
+625,Henry LLC,7,Public,High,CT,Hartford,343125 Maple Street,6199
+626,"Green, Ramsey and Garcia",6,Private,Elementary,NY,New York,406274 Alison Bridge,11315
+627,"Ryan, Cook and Mclaughlin",3,Public,Elementary,NY,New York,429495 Santos Stream,11315
+628,Mcgee-Sanders,0,Private,Elementary,CT,Newark,209752 Dawson Terrace,7270
+629,"Young, Wiley and Cannon",2,Public,Elementary,CT,Newark,288711 Elm Circle,7270
+630,"Gonzalez, Holmes and Novak",2,Public,Middle,CT,Trenton,137970 Maple Street,8779
+631,Howard-Cain,10,Public,Middle,CT,Trenton,208861 Alison Bridge,8779
+632,"Hardin, Strickland and Church",5,Private,Middle,CT,Bridgeport,408904 Dawson Terrace,6082
+633,"Schroeder, Adams and Mclaughlin",2,Public,Pre-K,CT,Rochester,125334 Chad Valley,14407
+634,Turner-Conway,9,Public,High,CT,Rochester,54524 Cedar Lane,14407
+635,"Johnson, Fischer and Payne",1,Private,Elementary,CT,Rochester,231775 Chad Valley,13626
+636,"Romero, Smith and Miller",5,Private,Elementary,CT,Rochester,552684 Santos Stream,13626
+637,Wells Inc,1,Public,Middle,CT,New Haven,424879 Elm Circle,6144
+638,Perez-Adams,4,Public,Elementary,CT,New Haven,416614 Elm Circle,6144
+639,Valentine Group,3,Private,Elementary,CT,New Haven,400014 Alison Bridge,6144
+640,Martinez-Briggs,6,Private,High,CT,Paterson,147840 Omar Park,7220
+641,Green-Henderson,0,Private,Middle,CT,Paterson,106406 Dawson Terrace,7220
+642,Jones-Reid,3,Private,High,CT,Albany,308802 Cedar Lane,11490
+643,"Becker, Taylor and Mcdonald",0,Private,Pre-K,NJ,Elizabeth,245626 Santos Stream,7495
+644,"Richardson, Martinez and Cooper",6,Public,Pre-K,NJ,Elizabeth,261464 Maple Street,7495
+645,"Gonzales, Martin and Robinson",3,Private,Pre-K,CT,Syracuse,257355 Santos Stream,10419
+646,Thomas Group,2,Public,Middle,CT,Paterson,76874 Elm Circle,7249
+647,Perez Ltd,10,Public,Elementary,CT,Trenton,62112 Maple Street,7177
+648,"Bates, Carter and Turner",0,Public,Middle,CT,Rochester,202824 Oak Avenue,10331
+649,Cortez Ltd,10,Private,Middle,CT,Rochester,532829 Cedar Lane,10331
+650,Ramirez Inc,4,Public,Elementary,CT,Rochester,146900 Maple Street,10331
+651,Smith-Sanders,7,Public,High,NY,Buffalo,203763 Oak Avenue,12325
+652,"Adkins, Pitts and Schneider",9,Private,Pre-K,CT,Jersey City,468788 Dawson Terrace,7132
+653,Rogers-Wright,7,Public,High,CT,Jersey City,60729 Pine Drive,7132
+654,Pratt and Sons,4,Public,Pre-K,CT,New Haven,464994 Omar Park,6227
+655,"Koch, Knox and Harris",4,Private,Middle,CT,New Haven,132965 Chad Valley,6227
+656,"Williams, Guerrero and Manning",6,Public,Pre-K,CT,New Haven,239440 Cedar Lane,6227
+657,Crosby-Holden,3,Public,Middle,CT,New Haven,651744 Maple Street,6286
+658,Bishop and Sons,2,Public,High,CT,Newark,141470 Chad Valley,7254
+659,Rivas-Henry,9,Private,Middle,CT,Newark,648456 Elm Circle,7254
+660,Gomez-Stone,10,Private,High,CT,Waterbury,385440 Elm Circle,6117
+661,Scott Inc,10,Private,Elementary,CT,Trenton,156657 Maple Street,8796
+662,Alexander and Sons,8,Public,Elementary,CT,Trenton,429638 Chad Valley,8796
+663,Giles PLC,7,Public,Elementary,CT,Paterson,280449 Pine Drive,7267
+664,Oconnor-Jacobs,8,Private,Middle,CT,Paterson,314072 Omar Park,7267
+665,"Smith, Wright and Ball",9,Public,Elementary,CT,Paterson,612465 Omar Park,7267
+666,Ferguson-Anderson,8,Public,Pre-K,CT,Paterson,390942 Dawson Terrace,8152
+667,Schneider PLC,0,Private,High,CT,Paterson,139403 Maple Street,8152
+668,Jimenez Group,6,Private,High,CT,Newark,402804 Dawson Terrace,7444
+669,Adkins and Sons,1,Public,Pre-K,CT,Newark,258903 Pine Drive,7444
+670,"Holder, Butler and Lambert",1,Public,Middle,CT,Jersey City,120600 Santos Stream,8744
+671,Roman and Sons,9,Public,Middle,CT,Paterson,270413 Cedar Lane,7475
+672,"Baker, Ramirez and Price",5,Private,High,CT,Rochester,207648 Maple Street,13134
+673,Gibson Ltd,6,Private,Elementary,CT,Rochester,654829 Dawson Terrace,13134
+674,Rice-Rodriguez,7,Private,Middle,CT,Rochester,227812 Alison Bridge,13134
+675,"Barry, Rodriguez and Williams",3,Private,Middle,CT,Syracuse,165375 Omar Park,12915
+676,Stewart Ltd,8,Public,Pre-K,CT,Syracuse,307580 Oak Avenue,12915
+677,Lam-Patterson,0,Private,Pre-K,CT,Syracuse,491502 Maple Street,12915
+678,"Tucker, Nelson and Vang",8,Private,Elementary,CT,Newark,204078 Elm Circle,8826
+679,"Austin, Rivera and Jones",10,Private,Middle,CT,Trenton,146664 Cedar Lane,7914
+680,Curtis Ltd,8,Private,Middle,CT,Bridgeport,52360 Santos Stream,6142
+681,"Curry, Trevino and Little",4,Private,Pre-K,CT,Bridgeport,125985 Chad Valley,6142
+682,Church-Yoder,1,Public,Middle,CT,Stamford,21142 Santos Stream,6040
+683,Eaton-Burgess,0,Public,High,CT,Albany,174165 Chad Valley,14708
+684,Coffey PLC,8,Private,Pre-K,CT,Hartford,336528 Elm Circle,6284
+685,Lozano PLC,9,Public,Elementary,CT,Hartford,280165 Maple Street,6284
+686,Hurst-Graham,10,Private,Pre-K,NY,Buffalo,127596 Omar Park,14680
+687,Rodriguez-Bailey,9,Private,Middle,NY,Buffalo,228771 Maple Street,14680
+688,Cummings-Murphy,2,Public,Elementary,CT,Hartford,482288 Dawson Terrace,6367
+689,Lee-Cooper,0,Public,Pre-K,CT,Hartford,41340 Chad Valley,6367
+690,Gonzalez LLC,9,Private,High,CT,Stamford,64860 Pine Drive,6056
+691,"Hawkins, Horn and Beasley",2,Private,High,CT,Stamford,574221 Chad Valley,6056
+692,Smith Group,7,Private,Pre-K,CT,Stamford,526612 Santos Stream,6056
+693,Ramos PLC,1,Public,High,CT,Paterson,102564 Alison Bridge,7743
+694,"Zavala, Vincent and Sanders",3,Private,High,CT,Paterson,183910 Chad Valley,7743
+695,Cox-Whitney,8,Private,High,CT,Paterson,157765 Elm Circle,7899
+696,Mills-Bates,0,Private,Elementary,CT,Waterbury,302760 Maple Street,6384
+697,Miller-Carrillo,3,Public,High,CT,Waterbury,126854 Oak Avenue,6384
+698,Tran-Lang,1,Private,High,CT,Rochester,416008 Oak Avenue,14192
+699,"Bridges, Phillips and Davis",1,Private,High,CT,Rochester,319443 Oak Avenue,14192
+700,Murray Group,7,Public,Elementary,CT,Albany,271600 Santos Stream,11220
+701,Butler LLC,10,Private,Pre-K,CT,Albany,370829 Chad Valley,11220
+702,Jones-Kim,9,Private,Middle,CT,Albany,140400 Santos Stream,11220
+703,Thompson-Hernandez,7,Public,High,CT,Albany,68894 Cedar Lane,13470
+704,Martin Group,5,Private,Pre-K,CT,Albany,559680 Oak Avenue,13470
+705,"Bernard, Sweeney and Boyd",2,Public,High,CT,Albany,291165 Oak Avenue,13470
+706,Higgins-Mercado,10,Public,Elementary,CT,Albany,609984 Pine Drive,10289
+707,Cook Ltd,3,Private,Pre-K,CT,Albany,87668 Maple Street,10289
+708,Nichols-Hill,9,Private,Elementary,CT,Albany,615960 Oak Avenue,10289
+709,Collins-Wood,8,Private,High,CT,Stamford,462977 Dawson Terrace,6321
+710,"Pierce, Rivera and Odonnell",4,Private,High,CT,Stamford,481380 Chad Valley,6321
+711,Cox-Bridges,6,Public,Elementary,CT,Stamford,562401 Elm Circle,6321
+712,"Padilla, Downs and Anderson",2,Private,Middle,CT,Waterbury,623712 Alison Bridge,6347
+713,"Reynolds, Mckay and Strickland",9,Public,Elementary,CT,Waterbury,337962 Cedar Lane,6347
+714,Ortega LLC,1,Private,High,CT,New Haven,158508 Elm Circle,6196
+715,Cooley-Bailey,4,Private,Elementary,CT,Rochester,225940 Maple Street,14314
+716,Smith and Sons,2,Private,Middle,CT,Rochester,166828 Cedar Lane,14314
+717,Fitzgerald PLC,0,Public,Elementary,CT,Rochester,595827 Elm Circle,14314
+718,Griffin Group,8,Private,Middle,CT,Bridgeport,188116 Chad Valley,6280
+719,Munoz Inc,8,Private,Middle,CT,Bridgeport,670827 Elm Circle,6280
+720,"Brooks, Greene and Wong",10,Private,Elementary,CT,Bridgeport,85680 Oak Avenue,6280
+721,Mack Ltd,10,Private,Elementary,CT,Rochester,492443 Maple Street,14787
+722,King LLC,5,Public,Pre-K,CT,Rochester,412984 Chad Valley,14787
+723,Simmons-Barker,5,Private,High,CT,Rochester,305829 Alison Bridge,14787
+724,Jackson Group,2,Public,Middle,CT,Paterson,18824 Alison Bridge,8171
+725,Kelley Ltd,1,Public,Pre-K,CT,New Haven,577825 Chad Valley,6198
+726,Russell Ltd,3,Public,Elementary,CT,Albany,301290 Cedar Lane,14580
+727,Wilson-Perkins,2,Public,High,CT,Jersey City,7997 Elm Circle,7300
+728,Morrison-Maldonado,10,Public,Pre-K,CT,Jersey City,719264 Maple Street,7300
+729,Ward Ltd,4,Public,Middle,CT,Hartford,584658 Cedar Lane,6208
+730,Bates-Clark,0,Private,Pre-K,CT,Hartford,649700 Elm Circle,6208
+731,Thomas Inc,6,Public,Middle,NY,Buffalo,420325 Pine Drive,12842
+732,Shaffer-Waters,10,Public,Elementary,NY,Buffalo,338916 Elm Circle,12842
+733,"Bryant, Wood and Diaz",3,Public,High,NY,Buffalo,244089 Pine Drive,12842
+734,Phillips-Holmes,2,Private,High,CT,Paterson,623166 Cedar Lane,7477
+735,"Sosa, Obrien and Wallace",10,Private,High,CT,Paterson,491715 Chad Valley,7477
+736,"Rodriguez, Hamilton and Montes",0,Public,Elementary,CT,Paterson,451168 Alison Bridge,7477
+737,Gomez PLC,0,Private,Middle,CT,New Haven,14003 Pine Drive,6203
+738,Lewis Inc,1,Public,Elementary,CT,Albany,527670 Elm Circle,12737
+739,Robinson-Williams,7,Public,High,CT,Albany,528385 Santos Stream,12737
+740,Adams-Hopkins,9,Private,Elementary,CT,Albany,8880 Santos Stream,12737
+741,Cox-Velazquez,0,Public,Elementary,NJ,Elizabeth,9633 Omar Park,8098
+742,Perry-Moore,0,Private,Elementary,NJ,Elizabeth,394744 Dawson Terrace,8098
+743,Brooks Ltd,5,Private,Middle,CT,Trenton,589942 Chad Valley,7306
+744,"Ward, Anderson and Mata",2,Public,Pre-K,CT,Trenton,405480 Maple Street,7306
+745,Miller-Huang,2,Public,Pre-K,CT,Trenton,306195 Dawson Terrace,7306
+746,Boyer LLC,5,Private,Elementary,CT,Trenton,532644 Alison Bridge,8973
+747,Hobbs Ltd,5,Public,Pre-K,CT,Trenton,89640 Cedar Lane,8973
+748,"Sharp, Choi and Diaz",7,Public,Pre-K,CT,Trenton,249832 Oak Avenue,8973
+749,Ibarra PLC,7,Public,Elementary,CT,Syracuse,247170 Maple Street,10378
+750,Odom-Gray,7,Private,Elementary,CT,Paterson,20250 Santos Stream,7540
+751,"Camacho, Thompson and Adams",1,Private,High,CT,Paterson,545226 Maple Street,7540
+752,"Baker, Davis and Hernandez",1,Public,Pre-K,CT,Trenton,302304 Oak Avenue,7888
+753,Jenkins-Williams,8,Private,Middle,CT,Newark,684477 Cedar Lane,8864
+754,"Cannon, Williams and Ewing",1,Private,Elementary,CT,Hartford,33930 Chad Valley,6141
+755,Leach-Greene,7,Private,High,CT,Hartford,623630 Cedar Lane,6141
+756,Foster-Hill,5,Private,Middle,CT,Syracuse,464940 Elm Circle,14596
+757,"Daugherty, Ruiz and Baker",4,Private,Pre-K,CT,Syracuse,578348 Oak Avenue,14596
+758,Escobar-Smith,1,Public,High,CT,Syracuse,486636 Pine Drive,14596
+759,Roberson PLC,4,Public,Elementary,CT,New Haven,360525 Oak Avenue,6386
+760,Alexander-Sparks,6,Public,Middle,CT,New Haven,335160 Maple Street,6386
+761,Krause-Sellers,1,Private,Elementary,CT,New Haven,613366 Maple Street,6386
+762,Ortega Ltd,0,Private,Pre-K,CT,Paterson,246126 Alison Bridge,8022
+763,Evans-Mcfarland,2,Public,Middle,CT,Albany,2289 Alison Bridge,13112
+764,Nelson-Garcia,8,Private,Pre-K,CT,Albany,391168 Maple Street,13112
+765,Lopez PLC,10,Public,Pre-K,CT,Waterbury,192780 Cedar Lane,6181
+766,Martinez and Sons,10,Public,High,CT,Bridgeport,512454 Elm Circle,6350
+767,Maxwell Inc,10,Public,Elementary,CT,Bridgeport,634309 Santos Stream,6350
+768,Strickland-Chavez,1,Private,Middle,CT,Bridgeport,708864 Elm Circle,6350
+769,"Butler, Jennings and Hebert",5,Private,Pre-K,CT,Paterson,288375 Maple Street,7493
+770,George and Sons,5,Public,Pre-K,CT,Paterson,705320 Santos Stream,7493
+771,Butler Group,4,Public,Middle,CT,Paterson,125673 Dawson Terrace,7966
+772,"Jennings, Hill and Smith",4,Public,Pre-K,CT,Paterson,694028 Oak Avenue,7966
+773,"Buchanan, Rice and Bentley",1,Public,High,CT,Paterson,597529 Dawson Terrace,7966
+774,Mcmillan and Sons,8,Private,High,CT,Paterson,264708 Chad Valley,8214
+775,Rodriguez-Marshall,0,Private,High,CT,Paterson,672700 Chad Valley,8214
+776,"Morse, Cole and Fleming",1,Public,High,NJ,Elizabeth,545528 Dawson Terrace,7132
+777,Day-Briggs,10,Public,Pre-K,CT,Rochester,305361 Chad Valley,13680
+778,"Horne, Taylor and Wagner",7,Private,Middle,CT,Rochester,24896 Pine Drive,13680
+779,Garcia Group,8,Private,Middle,CT,Stamford,518035 Maple Street,6313
+780,Paul-Farrell,2,Public,Middle,CT,Stamford,359580 Alison Bridge,6313
+781,"Villa, Ward and Fisher",2,Public,Middle,CT,New Haven,448294 Alison Bridge,6123
+782,"Carroll, Evans and Mooney",9,Public,Elementary,CT,New Haven,187680 Dawson Terrace,6139
+783,Beltran Inc,2,Private,Middle,CT,New Haven,697653 Oak Avenue,6139
+784,"Lozano, Harris and Phillips",9,Private,Elementary,CT,Rochester,743232 Maple Street,14901
+785,Livingston-Yates,2,Private,Elementary,CT,Rochester,360315 Santos Stream,14901
+786,Parker-Pennington,5,Public,High,CT,Rochester,222438 Cedar Lane,10540
+787,Miller-Hansen,1,Public,Elementary,CT,Rochester,236887 Elm Circle,10540
+788,"Carroll, Scott and Yoder",0,Private,Pre-K,CT,Rochester,739144 Pine Drive,14230
+789,White-Phillips,0,Private,Elementary,CT,Rochester,728247 Omar Park,14230
+790,"Davis, Cline and Riley",5,Public,High,CT,Jersey City,622520 Alison Bridge,7254
+791,West LLC,9,Private,Elementary,CT,Jersey City,186676 Alison Bridge,7254
+792,Waller-Kelley,10,Private,Pre-K,CT,Jersey City,464112 Maple Street,7254
+793,Ramirez-Myers,6,Public,Pre-K,CT,Trenton,356850 Elm Circle,8016
+794,Copeland-Moreno,10,Private,Pre-K,CT,Trenton,119100 Santos Stream,8016
+795,Chase Inc,3,Public,High,CT,Trenton,292560 Elm Circle,8016
+796,Roberson PLC,9,Public,High,NY,New York,639984 Oak Avenue,10659
+797,"Buck, Robinson and Rios",3,Public,Middle,NY,New York,255040 Alison Bridge,10659
+798,"Oneal, Long and West",6,Public,High,NY,New York,165984 Santos Stream,10659
+799,Nash Group,10,Public,Pre-K,CT,Bridgeport,58327 Maple Street,6176
+800,Webster Ltd,3,Public,Pre-K,CT,Newark,540000 Omar Park,8446
+801,Mccullough Ltd,9,Public,High,CT,Newark,620775 Pine Drive,8446
+802,"Davis, Strickland and Burnett",8,Private,Elementary,CT,Newark,56140 Elm Circle,8446
+803,Anderson PLC,4,Public,High,CT,Hartford,652839 Pine Drive,6029
+804,Morris-Moreno,6,Public,High,CT,Hartford,571644 Pine Drive,6029
+805,Young-Wilkerson,5,Private,Pre-K,CT,Bridgeport,173075 Pine Drive,6186
+806,Steele-Stewart,7,Private,Middle,CT,Bridgeport,623844 Dawson Terrace,6186
+807,Crosby-Hammond,2,Private,Pre-K,CT,Newark,105717 Dawson Terrace,8624
+808,Warner PLC,6,Public,Middle,CT,Newark,637512 Pine Drive,8624
+809,Clark Group,4,Private,Pre-K,CT,Newark,4854 Pine Drive,8624
+810,Barnett-Ramirez,9,Public,High,CT,Bridgeport,461700 Pine Drive,6232
+811,"Ibarra, Graham and Bailey",9,Public,Pre-K,CT,Bridgeport,351974 Santos Stream,6232
+812,Shaw Group,8,Public,Pre-K,CT,Bridgeport,248472 Alison Bridge,6103
+813,"Thompson, Mcintyre and Jackson",5,Public,Pre-K,CT,Bridgeport,309753 Pine Drive,6103
+814,"Wright, Wilson and Adams",2,Private,High,CT,Bridgeport,96052 Alison Bridge,6103
+815,Taylor PLC,6,Private,High,CT,Paterson,242870 Alison Bridge,8199
+816,"Pham, Williams and Richardson",0,Public,High,CT,Paterson,93024 Maple Street,8199
+817,Le-Curtis,2,Public,High,CT,Paterson,523697 Alison Bridge,8199
+818,"Torres, Baldwin and Smith",1,Public,Middle,CT,Paterson,26176 Omar Park,8212
+819,"Lyons, Joseph and Ford",5,Private,Middle,NJ,Elizabeth,295659 Santos Stream,7434
+820,White-Gutierrez,0,Public,Elementary,NJ,Elizabeth,628940 Chad Valley,7760
+821,"Macias, Calderon and Lopez",7,Public,High,NJ,Elizabeth,19704 Cedar Lane,7760
+822,Griffith-Walters,3,Private,Middle,NY,Buffalo,409356 Omar Park,11124
+823,Martinez and Sons,8,Private,Pre-K,CT,Hartford,764567 Omar Park,6294
+824,Hernandez PLC,10,Public,High,CT,Hartford,15656 Chad Valley,6294
+825,"Mendez, Graves and Mcknight",10,Private,Elementary,CT,Hartford,321750 Chad Valley,6294
+826,"Cruz, Jimenez and Bright",10,Private,Elementary,CT,Jersey City,14868 Chad Valley,7568
+827,Christensen Ltd,2,Public,Elementary,CT,Jersey City,387863 Santos Stream,7568
+828,Hebert-Martin,4,Private,Pre-K,CT,Jersey City,375084 Elm Circle,7568
+829,"Perkins, Long and Morris",5,Public,Middle,CT,Trenton,281031 Cedar Lane,7750
+830,"Rice, Sullivan and Higgins",10,Private,Pre-K,CT,Trenton,351920 Pine Drive,7750
+831,"Alexander, Hancock and Moss",7,Public,High,CT,Trenton,533502 Omar Park,7750
+832,Medina Group,2,Public,Elementary,CT,New Haven,96512 Pine Drive,6281
+833,Green-Wilkins,8,Public,Pre-K,CT,New Haven,538951 Santos Stream,6281
+834,Thomas Ltd,6,Private,Pre-K,CT,New Haven,564618 Elm Circle,6281
+835,"Thomas, Olson and Wells",2,Public,Middle,CT,Waterbury,568635 Elm Circle,6259
+836,"Walker, Scott and Hill",4,Private,Middle,CT,Waterbury,575168 Omar Park,6259
+837,Herrera-Fletcher,7,Public,Elementary,NY,Buffalo,835326 Maple Street,13253
+838,Morris PLC,9,Public,Pre-K,NY,Buffalo,470118 Cedar Lane,13253
+839,"Morris, Ramirez and Daniels",7,Private,Pre-K,NY,Buffalo,526892 Santos Stream,13253
+840,Clark and Sons,6,Public,Middle,CT,Bridgeport,234360 Chad Valley,6009
+841,Petty and Sons,3,Public,Pre-K,CT,Paterson,346492 Maple Street,7645
+842,Mcmahon Ltd,8,Private,Pre-K,CT,Paterson,537196 Dawson Terrace,7645
+843,Harrison Inc,7,Public,Pre-K,CT,Paterson,653325 Dawson Terrace,7645
+844,Smith LLC,4,Public,Middle,CT,Trenton,692924 Chad Valley,7052
+845,Sanders LLC,8,Public,Elementary,NJ,Elizabeth,368420 Chad Valley,8260
+846,Gonzales PLC,10,Public,High,NJ,Elizabeth,811314 Pine Drive,8260
+847,Bauer PLC,6,Private,Elementary,CT,Syracuse,50820 Cedar Lane,10072
+848,Joseph and Sons,10,Private,High,CT,Syracuse,691968 Elm Circle,14389
+849,Williams Inc,9,Public,Pre-K,CT,Syracuse,484779 Elm Circle,14389
+850,Stone PLC,7,Private,Elementary,CT,New Haven,266900 Chad Valley,6306
+851,Allen-Robertson,2,Public,High,CT,New Haven,374440 Dawson Terrace,6306
+852,Ayala PLC,7,Private,Middle,CT,New Haven,15336 Pine Drive,6306
+853,Morris-Shaw,0,Public,Middle,CT,Albany,522889 Chad Valley,13661
+854,"Wood, Medina and Garcia",4,Public,Elementary,CT,Albany,432978 Chad Valley,13661
+855,Spencer Ltd,9,Public,Elementary,CT,Albany,58995 Dawson Terrace,13661
+856,Gonzalez PLC,1,Public,Pre-K,NY,New York,488776 Oak Avenue,10783
+857,Boyle Inc,3,Public,Elementary,NY,New York,803009 Oak Avenue,10783
+858,"Weaver, Collins and Johnson",8,Public,Pre-K,NY,Buffalo,385242 Alison Bridge,13713
+859,Chan-Lynn,0,Private,Pre-K,NY,Buffalo,341023 Maple Street,13713
+860,Garcia-Gutierrez,7,Public,Middle,CT,Hartford,3440 Oak Avenue,6028
+861,Wolfe Ltd,6,Private,Middle,NY,New York,37884 Chad Valley,14770
+862,"Smith, Taylor and Thornton",10,Public,High,NY,New York,833554 Maple Street,14770
+863,Warren Inc,9,Private,Middle,NY,Buffalo,303776 Dawson Terrace,10694
+864,"Sweeney, Brown and Riddle",3,Private,Middle,NY,New York,851904 Omar Park,14591
+865,Banks-Perez,9,Private,Elementary,NY,New York,114180 Alison Bridge,14591
+866,"Willis, Lewis and Patel",4,Public,Middle,CT,Newark,425206 Alison Bridge,8611
+867,"Middleton, Jennings and Frazier",5,Public,High,CT,Newark,482919 Cedar Lane,8611
+868,"Hughes, Torres and Green",0,Private,Elementary,CT,Newark,320292 Cedar Lane,8611
+869,Bryant-Mitchell,0,Public,High,NJ,Elizabeth,762982 Cedar Lane,7133
+870,Stevens-Sullivan,6,Private,Middle,NJ,Elizabeth,371490 Cedar Lane,7912
+871,Buckley and Sons,8,Public,High,CT,Albany,744705 Cedar Lane,10919
+872,Martinez Inc,6,Private,Elementary,CT,Albany,539768 Elm Circle,10919
+873,"King, Miller and Rodriguez",0,Private,Pre-K,CT,New Haven,631179 Chad Valley,6019
+874,Brock PLC,1,Public,High,CT,New Haven,287546 Pine Drive,6019
+875,Stokes PLC,2,Private,High,CT,New Haven,728000 Pine Drive,6019
+876,"Watts, Baxter and Estrada",5,Public,Elementary,NY,New York,242652 Omar Park,11721
+877,Hicks-Page,9,Private,Elementary,NY,New York,252576 Alison Bridge,11721
+878,Crawford-Hernandez,6,Private,High,NY,New York,734008 Alison Bridge,11721
+879,Dawson-Smith,8,Public,Middle,CT,Stamford,726054 Santos Stream,6228
+880,Myers-Cortez,3,Public,High,CT,Stamford,186560 Elm Circle,6228
+881,Aguilar-Smith,7,Public,Elementary,CT,Waterbury,260776 Elm Circle,6370
+882,Campbell-Robinson,8,Private,Pre-K,CT,Waterbury,528318 Elm Circle,6370
+883,Taylor PLC,8,Public,Pre-K,CT,Bridgeport,832669 Chad Valley,6248
+884,Potter LLC,3,Private,Middle,CT,Paterson,781456 Pine Drive,8430
+885,"Lloyd, Powell and Durham",1,Private,High,CT,Bridgeport,483210 Dawson Terrace,6304
+886,Torres Inc,2,Public,Pre-K,CT,Bridgeport,177200 Dawson Terrace,6304
+887,Manning PLC,3,Public,High,CT,Hartford,143694 Santos Stream,6127
+888,"Sullivan, Adams and Clark",6,Private,Elementary,NY,Buffalo,422688 Elm Circle,11517
+889,Cortez and Sons,3,Private,Pre-K,NY,Buffalo,136906 Cedar Lane,11517
+890,Lewis-Park,7,Public,Middle,CT,Stamford,723570 Oak Avenue,6372
+891,Curry Ltd,2,Public,Elementary,CT,Albany,206712 Elm Circle,14034
+892,Moody-Lynch,0,Public,Middle,CT,Albany,794772 Santos Stream,14034
+893,"Carpenter, Boyd and Lin",4,Public,Elementary,CT,Bridgeport,845671 Omar Park,6284
+894,"Gray, Ford and Fischer",10,Public,Pre-K,CT,Bridgeport,520308 Santos Stream,6284
+895,Carroll-Acevedo,1,Private,Middle,CT,Bridgeport,528050 Cedar Lane,6284
+896,"Mills, Davis and Alvarez",9,Private,Middle,CT,Bridgeport,474880 Elm Circle,6112
+897,Santiago-Lin,0,Private,Elementary,CT,Bridgeport,138138 Maple Street,6112
+898,Baird Group,3,Private,Middle,CT,Stamford,50288 Maple Street,6002
+899,"Grimes, Mccoy and Peters",4,Public,Elementary,CT,Hartford,578057 Maple Street,6296
+900,Dickerson-Hawkins,7,Public,Elementary,CT,Syracuse,496800 Pine Drive,13947
+901,Brooks-Pierce,7,Public,Elementary,CT,Syracuse,503659 Dawson Terrace,13947
+902,Gilmore LLC,8,Private,Elementary,CT,Syracuse,598928 Chad Valley,13947
+903,Miller Group,9,Private,Pre-K,CT,Paterson,292572 Omar Park,7795
+904,"Bennett, Smith and Smith",7,Public,Elementary,CT,Stamford,434824 Dawson Terrace,6207
+905,Anderson Inc,8,Public,High,CT,Stamford,218105 Oak Avenue,6207
+906,"Walters, Patterson and Wheeler",2,Private,Middle,CT,Stamford,190260 Santos Stream,6207
+907,Orozco PLC,3,Private,High,CT,Waterbury,590457 Elm Circle,6286
+908,Rodriguez LLC,2,Public,Pre-K,CT,Waterbury,391348 Elm Circle,6286
+909,"Castillo, Thomas and Hayes",5,Public,High,CT,Waterbury,456318 Elm Circle,6286
+910,"Page, Hernandez and Stevenson",3,Private,Middle,CT,Newark,722540 Omar Park,7822
+911,Pineda PLC,5,Public,High,NJ,Elizabeth,158514 Elm Circle,8036
+912,Black-Gardner,4,Public,Pre-K,CT,Waterbury,232560 Cedar Lane,6092
+913,Bryant Inc,2,Public,Elementary,CT,Waterbury,596189 Dawson Terrace,6092
+914,Huang-Ramirez,0,Private,High,CT,Waterbury,540174 Santos Stream,6092
+915,Wood Ltd,2,Private,Pre-K,CT,Waterbury,696315 Alison Bridge,6010
+916,Warren-Schroeder,5,Private,Pre-K,CT,Waterbury,306860 Elm Circle,6010
+917,Powell-Ferguson,5,Private,Middle,CT,Waterbury,346626 Cedar Lane,6010
+918,Banks PLC,0,Private,Middle,CT,Stamford,151470 Oak Avenue,6120
+919,"Drake, Wright and Lewis",3,Private,High,CT,Waterbury,66168 Chad Valley,6221
+920,Thomas Ltd,3,Private,Elementary,CT,Waterbury,419520 Dawson Terrace,6221
+921,Ramos LLC,2,Public,Pre-K,CT,Waterbury,406161 Cedar Lane,6142
+922,Hodge LLC,8,Public,High,CT,Waterbury,299650 Omar Park,6142
+923,Roberts-Malone,0,Public,Pre-K,CT,Stamford,726401 Omar Park,6009
+924,Gomez Group,4,Public,Pre-K,CT,Stamford,418572 Pine Drive,6009
+925,Graham-Beasley,0,Public,Elementary,CT,Paterson,441225 Pine Drive,7966
+926,Morales Inc,2,Public,Elementary,CT,Paterson,247242 Elm Circle,7966
+927,Hubbard-Jones,4,Public,High,CT,Paterson,453303 Elm Circle,7966
+928,"Vance, Hensley and Williams",3,Private,Elementary,CT,Waterbury,584640 Oak Avenue,6304
+929,Bailey Inc,5,Private,Elementary,CT,Waterbury,74320 Omar Park,6304
+930,Allen LLC,10,Public,High,CT,Jersey City,909540 Pine Drive,8732
+931,Hester LLC,9,Public,Elementary,NY,New York,911449 Maple Street,14675
+932,Harrington-Castillo,8,Private,Middle,NY,New York,251640 Dawson Terrace,14675
+933,Bean-Williamson,3,Public,Pre-K,CT,Paterson,31722 Maple Street,8759
+934,Smith Inc,6,Public,Pre-K,CT,Paterson,536116 Omar Park,8759
+935,Johnson Group,0,Private,Pre-K,CT,Paterson,778855 Alison Bridge,8759
+936,"Griffin, Dunn and Ellis",3,Public,Pre-K,CT,Jersey City,328536 Pine Drive,8926
+937,Deleon Ltd,3,Private,High,CT,Jersey City,453508 Santos Stream,8926
+938,Barber and Sons,1,Public,Pre-K,CT,Newark,767284 Alison Bridge,7915
+939,"Young, Blankenship and West",4,Private,Pre-K,CT,Newark,596265 Elm Circle,7915
+940,"Rogers, Mclaughlin and Booth",0,Private,Pre-K,CT,Newark,338400 Oak Avenue,7915
+941,Carney-Hill,1,Private,Pre-K,CT,Rochester,682225 Dawson Terrace,14270
+942,"Harrison, Rocha and Simmons",4,Public,Middle,CT,Rochester,600054 Dawson Terrace,14270
+943,Pratt and Sons,2,Private,Pre-K,CT,Waterbury,678960 Chad Valley,6014
+944,Singleton Group,4,Public,Middle,CT,Waterbury,27376 Maple Street,6014
+945,"Roberts, Hines and Smith",9,Public,High,CT,New Haven,79380 Dawson Terrace,6169
+946,Caldwell Ltd,10,Public,Elementary,CT,Trenton,590304 Dawson Terrace,7353
+947,Rice Ltd,0,Public,Pre-K,CT,Trenton,523691 Chad Valley,7353
+948,Moran-Garcia,1,Private,Elementary,CT,Waterbury,393420 Alison Bridge,6296
+949,Moss Ltd,10,Private,Elementary,CT,Jersey City,181259 Cedar Lane,7542
+950,"Moreno, Mann and Klein",2,Public,High,CT,Jersey City,653600 Elm Circle,7542
+951,"Sims, Henderson and Stone",5,Public,Elementary,NY,Buffalo,86541 Maple Street,13276
+952,"Lee, Booker and Stephenson",1,Private,Middle,NY,Buffalo,90440 Elm Circle,13276
+953,Clark Ltd,0,Public,Elementary,CT,Albany,66710 Omar Park,13597
+954,Estes and Sons,7,Private,Elementary,CT,Albany,706914 Chad Valley,13597
+955,Haynes and Sons,4,Public,Elementary,CT,Albany,546260 Omar Park,13597
+956,Gallagher Group,10,Public,Pre-K,CT,Syracuse,661552 Chad Valley,11516
+957,"Barnes, Richardson and Harris",4,Private,Pre-K,CT,Syracuse,578985 Chad Valley,11516
+958,"Arellano, Hernandez and Obrien",6,Public,Middle,CT,Rochester,455050 Chad Valley,14492
+959,"Mitchell, Salinas and Anderson",3,Private,Middle,CT,Rochester,505393 Elm Circle,14492
+960,Martinez Group,3,Public,Pre-K,CT,Rochester,906240 Maple Street,14492
+961,Galloway PLC,4,Public,Middle,CT,Bridgeport,324818 Santos Stream,6227
+962,Sutton Group,4,Public,Pre-K,CT,Bridgeport,609908 Elm Circle,6227
+963,"Young, Ramirez and Long",10,Private,High,CT,Bridgeport,864774 Dawson Terrace,6227
+964,"Johnson, Sullivan and Richards",5,Public,Elementary,NY,Buffalo,750956 Dawson Terrace,11263
+965,Calhoun LLC,3,Public,Elementary,NY,Buffalo,527855 Santos Stream,11263
+966,Massey Ltd,1,Public,Middle,NY,Buffalo,234738 Oak Avenue,12170
+967,Rodriguez LLC,8,Public,Pre-K,NY,Buffalo,917683 Oak Avenue,12170
+968,Bowers PLC,0,Private,Pre-K,NY,Buffalo,326216 Santos Stream,12170
+969,"Hicks, Price and Allen",10,Private,Middle,CT,Syracuse,546516 Cedar Lane,10355
+970,"Morgan, Wagner and Carney",4,Public,Pre-K,CT,Stamford,265780 Dawson Terrace,6002
+971,Rangel-Jones,5,Private,High,CT,Stamford,271880 Elm Circle,6002
+972,Burke Group,8,Public,Elementary,CT,Stamford,90396 Maple Street,6002
+973,"Smith, Adkins and Crawford",0,Public,Middle,NY,Buffalo,377524 Oak Avenue,13582
+974,"Rivera, Walker and Byrd",4,Public,Middle,CT,Albany,245448 Maple Street,10084
+975,"Snow, Mooney and Smith",5,Private,Pre-K,CT,Albany,576225 Cedar Lane,10084
+976,Sutton LLC,9,Private,Middle,CT,Jersey City,805200 Pine Drive,8355
+977,Adams Ltd,4,Private,High,CT,Jersey City,772807 Elm Circle,8355
+978,Brown and Sons,9,Private,Pre-K,CT,Syracuse,687534 Pine Drive,12960
+979,Howard-Cook,1,Private,Pre-K,CT,Syracuse,3916 Maple Street,12960
+980,Watkins-Johnson,6,Private,Pre-K,CT,Paterson,352800 Elm Circle,7010
+981,"Gill, Santiago and Lewis",2,Private,Pre-K,CT,Paterson,423792 Omar Park,7010
+982,Lester-Thompson,9,Private,High,CT,Paterson,915224 Pine Drive,7010
+983,"Ramos, Turner and May",4,Private,Pre-K,CT,Rochester,735284 Santos Stream,11312
+984,Owens-Taylor,3,Public,Middle,CT,Rochester,146616 Cedar Lane,11312
+985,"Smith, Bean and Palmer",7,Private,High,NY,Buffalo,946585 Elm Circle,14267
+986,Thompson-Daniel,4,Private,Elementary,NY,Buffalo,796688 Santos Stream,14267
+987,Curtis-Crawford,8,Private,Elementary,NJ,Elizabeth,668199 Maple Street,8930
+988,"Gutierrez, Robinson and Acevedo",9,Private,Middle,NJ,Elizabeth,735072 Omar Park,8930
+989,Thompson Group,3,Private,Middle,NJ,Elizabeth,308568 Omar Park,8930
+990,Curry-Davis,7,Private,High,NY,Buffalo,237600 Alison Bridge,13124
+991,Ali-Roman,8,Private,Elementary,NY,Buffalo,990009 Pine Drive,13124
+992,French Inc,2,Private,Elementary,NY,Buffalo,121024 Santos Stream,13124
+993,Rangel Group,1,Private,Elementary,CT,Newark,578919 Pine Drive,8699
+994,Navarro and Sons,8,Private,Elementary,CT,Newark,552664 Cedar Lane,8699
+995,Ramsey-Hutchinson,1,Private,Elementary,CT,Newark,845750 Oak Avenue,7819
+996,Cooper-Chapman,5,Public,Pre-K,CT,Newark,743016 Chad Valley,7819
+997,Bailey Group,2,Public,Middle,CT,Newark,477563 Pine Drive,7819
+998,"Johnston, Blevins and Park",10,Private,Pre-K,CT,Trenton,835326 Santos Stream,7576
+999,Scott Inc,6,Private,Elementary,CT,Trenton,334665 Alison Bridge,7576
+1000,"Rodriguez, Fuller and Pierce",3,Public,High,CT,Trenton,94000 Maple Street,7576
+1001,Patterson and Sons,10,Private,High,CT,Newark,491491 Cedar Lane,8180
+1002,Williams-Weaver,4,Public,Elementary,CT,Newark,41082 Maple Street,8180
+1003,Fitzpatrick Inc,0,Public,Elementary,CT,Rochester,938808 Pine Drive,11277
+1004,Silva-Johnson,2,Public,High,CT,Rochester,637540 Omar Park,11277
+1005,Howell-Berry,9,Public,Pre-K,CT,Rochester,574860 Maple Street,11919
+1006,"Norris, Howe and Pitts",0,Public,Pre-K,CT,Rochester,696152 Cedar Lane,11919
+1007,Morgan LLC,9,Private,Elementary,CT,Rochester,926440 Pine Drive,11919
+1008,Mason Group,7,Public,Pre-K,CT,Newark,483840 Oak Avenue,8872
+1009,"Francis, Wilkins and Chandler",9,Private,High,CT,Rochester,111999 Pine Drive,11503
+1010,"Martinez, Garza and Thomas",5,Private,Pre-K,CT,Rochester,483790 Maple Street,11503
+1011,"Jordan, Acosta and David",2,Public,Elementary,CT,Rochester,850251 Maple Street,11503
+1012,"Matthews, Howell and Barrera",0,Public,High,NY,New York,10120 Santos Stream,13909
+1013,Payne PLC,1,Private,Pre-K,NY,New York,777984 Santos Stream,13909
+1014,"Hernandez, Jones and White",8,Public,Middle,CT,Paterson,430950 Oak Avenue,8785
+1015,Montoya LLC,3,Public,High,NY,Buffalo,22330 Oak Avenue,12528
+1016,"Baker, Miller and Torres",7,Private,High,NY,Buffalo,558800 Omar Park,12528
+1017,Yates PLC,5,Private,Middle,CT,Bridgeport,912249 Oak Avenue,6086
+1018,Robinson and Sons,10,Public,Middle,CT,Stamford,751284 Chad Valley,6210
+1019,Thomas-Massey,2,Private,High,CT,Waterbury,936461 Omar Park,6384
+1020,"Stout, Mills and Ayala",1,Public,Middle,CT,Waterbury,914940 Pine Drive,6384
+1021,Casey-Wright,8,Public,Elementary,NY,Buffalo,164381 Chad Valley,12261
+1022,Fox-French,10,Public,Elementary,CT,Paterson,430262 Dawson Terrace,7651
+1023,"King, Mueller and Scott",6,Private,Elementary,NJ,Elizabeth,970827 Dawson Terrace,7332
+1024,Shea Inc,3,Private,High,NJ,Elizabeth,891904 Santos Stream,7332
+1025,"Owens, Morales and Day",0,Private,Middle,NJ,Elizabeth,597575 Pine Drive,7365
+1026,"Murphy, Patel and Hebert",10,Private,Middle,NJ,Elizabeth,916218 Omar Park,7365
+1027,Anderson Group,8,Private,Pre-K,CT,Bridgeport,804141 Omar Park,6370
+1028,Turner Ltd,8,Public,Pre-K,CT,Bridgeport,691844 Santos Stream,6370
+1029,Smith LLC,6,Public,Middle,CT,Albany,655473 Maple Street,13343
+1030,Mays-Jackson,5,Public,Middle,NY,Buffalo,801340 Maple Street,10805
+1031,"Mcmillan, Fox and Horton",5,Public,Middle,CT,Bridgeport,896970 Cedar Lane,6307
+1032,Mcgee-Harris,7,Private,High,CT,Stamford,613008 Santos Stream,6119
+1033,Smith PLC,5,Public,Middle,CT,Stamford,806773 Pine Drive,6119
+1034,"Hale, Williams and Summers",1,Private,Pre-K,CT,Syracuse,735174 Dawson Terrace,11439
+1035,"Wright, Price and Sanchez",10,Public,High,NY,New York,215280 Chad Valley,10130
+1036,"Lee, Riddle and Contreras",6,Private,Middle,CT,New Haven,545972 Maple Street,6292
+1037,Scott Inc,9,Private,Pre-K,CT,Paterson,943670 Chad Valley,8171
+1038,Smith-Scott,9,Public,High,CT,Paterson,618648 Elm Circle,8171
+1039,Bryant-Jenkins,0,Public,Middle,CT,Rochester,95588 Pine Drive,10061
+1040,Glenn-Jacobson,8,Public,Middle,CT,Rochester,952640 Chad Valley,10061
+1041,Scott-Mitchell,2,Public,Middle,CT,Rochester,1037877 Cedar Lane,10061
+1042,Dunn LLC,0,Private,High,CT,New Haven,798172 Elm Circle,6335
+1043,Smith PLC,9,Public,Pre-K,CT,New Haven,116816 Santos Stream,6335
+1044,White-Jacobs,1,Public,Pre-K,CT,New Haven,914544 Elm Circle,6335
+1045,"Hamilton, Tucker and Edwards",2,Private,Elementary,CT,Waterbury,150480 Pine Drive,6331
+1046,"Rangel, Howard and Taylor",8,Public,Middle,CT,Waterbury,235350 Maple Street,6331
+1047,Cook PLC,3,Public,Elementary,CT,Waterbury,776874 Maple Street,6331
+1048,"Clark, Griffin and Carney",3,Public,Elementary,CT,Hartford,563824 Maple Street,6312
+1049,Martinez PLC,3,Public,Pre-K,NY,Buffalo,991305 Maple Street,13019
+1050,Murray-Martinez,2,Public,High,NY,Buffalo,748650 Elm Circle,13019
+1051,Martinez LLC,10,Private,High,NY,Buffalo,682099 Maple Street,13019
+1052,"Graham, Hammond and Hernandez",3,Public,Pre-K,CT,Jersey City,493388 Omar Park,7623
+1053,Brooks Group,4,Public,High,CT,Jersey City,261144 Maple Street,7623
+1054,"Smith, Edwards and Dunn",1,Public,Elementary,CT,Jersey City,876928 Cedar Lane,7623
+1055,"Williams, Freeman and Bell",10,Public,Middle,CT,Hartford,989590 Cedar Lane,6237
+1056,"Bennett, Allen and Harper",2,Public,Pre-K,CT,Bridgeport,408672 Pine Drive,6276
+1057,Mason and Sons,7,Private,Middle,CT,Bridgeport,590863 Maple Street,6276
+1058,Jones and Sons,8,Public,High,CT,Bridgeport,341734 Chad Valley,6276
+1059,Carter PLC,8,Private,Middle,CT,Paterson,917094 Chad Valley,8068
+1060,Hill LLC,8,Private,High,CT,Paterson,743060 Chad Valley,8068
+1061,Patton LLC,7,Public,High,CT,Paterson,401058 Chad Valley,8068
+1062,Price PLC,10,Public,Elementary,NY,New York,198594 Pine Drive,14557
+1063,"Foster, Jones and Thompson",7,Public,High,NY,New York,873786 Alison Bridge,14557
+1064,Carson-Smith,10,Public,Elementary,NY,New York,985264 Alison Bridge,14557
+1065,Fleming LLC,5,Private,Elementary,NY,Buffalo,982995 Cedar Lane,14003
+1066,Davis-Williams,4,Public,Elementary,CT,Bridgeport,851734 Alison Bridge,6059
+1067,Cantu-Ramsey,3,Public,Pre-K,CT,Bridgeport,956032 Maple Street,6059
+1068,"Stevens, Orr and Daniels",8,Public,Pre-K,NY,Buffalo,1039164 Pine Drive,12071
+1069,"Chambers, Martin and Wise",0,Public,High,CT,Albany,427600 Maple Street,14461
+1070,Brown-Nicholson,6,Public,Elementary,CT,Albany,1055020 Dawson Terrace,14461
+1071,Daniels Inc,10,Public,Pre-K,CT,Jersey City,973539 Santos Stream,8205
+1072,Bautista PLC,4,Private,Elementary,CT,Jersey City,940144 Alison Bridge,8205
+1073,Smith Ltd,9,Private,Middle,NY,New York,831575 Elm Circle,13555
+1074,Hunter-Chandler,7,Public,Middle,CT,Stamford,699174 Omar Park,6173
+1075,Sharp LLC,1,Public,Middle,CT,Trenton,1044900 Chad Valley,7322
+1076,Rodgers-Torres,10,Public,High,CT,Hartford,24748 Chad Valley,6240
+1077,"Franco, Foster and Anderson",3,Private,Elementary,CT,Hartford,876678 Omar Park,6240
+1078,"Calderon, Contreras and Vazquez",7,Public,Middle,CT,New Haven,919534 Oak Avenue,6162
+1079,"Mayo, Parker and Jimenez",9,Private,Pre-K,CT,Stamford,617188 Omar Park,6150
+1080,Wilson Ltd,2,Public,Middle,CT,Stamford,831600 Dawson Terrace,6150
+1081,Hill-Howell,7,Public,Middle,CT,Stamford,728594 Dawson Terrace,6150
+1082,"Davis, Miller and Padilla",10,Public,Middle,CT,Albany,782286 Alison Bridge,14281
+1083,Johnson-Shaw,6,Public,High,CT,Albany,191691 Santos Stream,14281
+1084,Alexander-Williams,7,Private,Pre-K,CT,Albany,635224 Dawson Terrace,14281
+1085,Ray-Herman,3,Private,Elementary,CT,Waterbury,24955 Alison Bridge,6196
+1086,Morris-Morgan,0,Public,Pre-K,CT,Waterbury,73848 Santos Stream,6196
+1087,Martin-Greene,1,Public,Elementary,CT,Waterbury,1068521 Chad Valley,6196
+1088,Ortiz and Sons,10,Private,High,CT,Hartford,917184 Elm Circle,6344
+1089,Rojas-Cameron,9,Private,High,CT,Paterson,680625 Dawson Terrace,8726
+1090,"Miller, Vasquez and Wright",7,Private,High,CT,Paterson,1063840 Elm Circle,8726
+1091,Ross-Gonzales,7,Private,High,NY,New York,438582 Maple Street,14195
+1092,"Curtis, Livingston and Bailey",5,Public,Elementary,NY,New York,121212 Dawson Terrace,14195
+1093,Romero Group,2,Private,Middle,NY,New York,261227 Alison Bridge,14195
+1094,Adams Group,1,Public,Elementary,NY,Buffalo,992258 Elm Circle,12926
+1095,Dalton PLC,9,Private,Pre-K,NY,Buffalo,981120 Pine Drive,12926
+1096,Harding-Johnson,1,Private,High,NY,Buffalo,868032 Pine Drive,12926
+1097,Jackson-Frost,8,Private,High,CT,Stamford,465128 Santos Stream,6278
+1098,Schneider-Reyes,7,Private,Pre-K,CT,Stamford,1092510 Omar Park,6278
+1099,"Cuevas, Reed and Lopez",4,Private,Elementary,CT,Stamford,957229 Oak Avenue,6278
+1100,"Sanchez, Quinn and Flores",7,Public,Middle,CT,Rochester,563200 Dawson Terrace,14903
+1101,"Stephens, Khan and Levine",8,Public,Middle,CT,Bridgeport,624267 Dawson Terrace,6355
+1102,"Lowe, Adams and Cunningham",6,Private,Pre-K,CT,Bridgeport,239134 Elm Circle,6355
+1103,"Mejia, Summers and Williams",2,Private,Middle,CT,Bridgeport,274647 Pine Drive,6355
+1104,"Powell, Yang and Aguilar",8,Public,Elementary,CT,Bridgeport,226320 Pine Drive,6349
+1105,Fleming-Willis,2,Private,Elementary,CT,Bridgeport,528190 Elm Circle,6349
+1106,Lee-Black,10,Private,Pre-K,NY,Buffalo,589498 Maple Street,11202
+1107,"Bowen, Walker and Thompson",8,Public,Elementary,NY,Buffalo,649809 Cedar Lane,11202
+1108,Reed Inc,9,Private,High,CT,Bridgeport,1090272 Maple Street,6048
+1109,Murphy-Miller,3,Private,Pre-K,CT,Bridgeport,948195 Santos Stream,6048
+1110,"Dominguez, Moore and Davis",4,Public,Elementary,CT,Bridgeport,400710 Maple Street,6048
+1111,Farley Group,5,Public,Pre-K,CT,Newark,571054 Dawson Terrace,7204
+1112,Humphrey and Sons,7,Public,Middle,CT,Newark,970776 Alison Bridge,8592
+1113,Jenkins and Sons,8,Private,Elementary,CT,Newark,40068 Oak Avenue,8592
+1114,"Guerra, Fritz and Butler",1,Public,High,CT,Newark,515782 Maple Street,8592
+1115,"Strickland, Thompson and Kline",7,Public,Elementary,NY,New York,964475 Chad Valley,10458
+1116,Mayo-Hurley,0,Public,Pre-K,NY,New York,366048 Alison Bridge,10458
+1117,Lee-Jones,4,Public,Pre-K,CT,Syracuse,497065 Santos Stream,13526
+1118,Small-Chavez,0,Public,Elementary,CT,Syracuse,42484 Omar Park,13526
+1119,"Coleman, Charles and Rivas",7,Public,High,CT,Trenton,1022766 Chad Valley,7328
+1120,Henry-Thomas,2,Private,High,CT,Trenton,518560 Omar Park,7328
+1121,Jordan-Hansen,10,Private,High,CT,Waterbury,664753 Maple Street,6163
+1122,"King, Cox and Lopez",8,Public,Pre-K,CT,Waterbury,37026 Pine Drive,6163
+1123,"Valdez, Ochoa and Miranda",3,Public,Elementary,CT,Syracuse,150482 Cedar Lane,13047
+1124,Carter-Howard,8,Public,Middle,CT,Syracuse,347316 Elm Circle,13047
+1125,Valdez-Payne,1,Private,Pre-K,CT,Stamford,797625 Pine Drive,6247
+1126,Dunn Ltd,0,Private,High,CT,Stamford,109222 Oak Avenue,6247
+1127,"Buchanan, Johnson and Osborne",9,Private,Elementary,NY,Buffalo,578151 Elm Circle,14643
+1128,"Mills, Brown and Miles",5,Private,High,CT,Paterson,776064 Oak Avenue,8166
+1129,"Patel, Romero and Marquez",6,Private,Middle,CT,Paterson,718044 Omar Park,8166
+1130,Ellis-Mejia,6,Private,High,CT,Paterson,517540 Dawson Terrace,8166
+1131,Cox-Ryan,4,Private,High,NY,New York,225069 Santos Stream,11113
+1132,Davis-Richardson,3,Private,Middle,NY,New York,212816 Dawson Terrace,11113
+1133,"Livingston, Williamson and Levine",10,Private,Elementary,NY,New York,246994 Santos Stream,12504
+1134,"Webster, Walters and Johnson",5,Public,Pre-K,NY,New York,862974 Alison Bridge,12504
+1135,"Wood, Herrera and Wright",1,Public,Elementary,NY,New York,1063495 Alison Bridge,12504
+1136,Medina-Reyes,5,Public,Middle,NY,New York,1095104 Chad Valley,12038
+1137,"Guerra, Miller and Caldwell",3,Public,High,NY,New York,486636 Dawson Terrace,12038
+1138,Ford-Walters,8,Private,Elementary,CT,Waterbury,1128896 Elm Circle,6361
+1139,"Morrison, Meyer and Ward",3,Private,Pre-K,CT,Waterbury,799578 Alison Bridge,6361
+1140,Mcdonald-Freeman,3,Public,Middle,CT,Waterbury,541500 Chad Valley,6361
+1141,Espinoza-Kennedy,8,Private,Elementary,CT,Jersey City,67319 Oak Avenue,8135
+1142,"Hudson, Davis and Miller",0,Public,Pre-K,CT,Jersey City,87934 Maple Street,8135
+1143,Weber Inc,10,Private,Middle,CT,Stamford,268605 Chad Valley,6372
+1144,Baker-Fernandez,7,Public,Pre-K,CT,Stamford,815672 Alison Bridge,6372
+1145,Miller-Drake,1,Private,Middle,CT,Trenton,1051110 Elm Circle,8662
+1146,Davis-Bishop,5,Private,High,CT,Trenton,1025670 Pine Drive,8662
+1147,"Willis, Howard and Smith",0,Public,Elementary,CT,Trenton,175491 Omar Park,8662
+1148,Gomez-Hurst,3,Private,Pre-K,CT,Syracuse,746200 Oak Avenue,11277
+1149,Gonzales-Berg,2,Public,Middle,CT,Waterbury,861750 Cedar Lane,6037
+1150,Hood-Bell,2,Public,Pre-K,CT,Waterbury,439300 Maple Street,6037
+1151,Gardner-Dixon,9,Public,Pre-K,CT,Waterbury,387887 Elm Circle,6037
+1152,Harrison Inc,4,Public,Elementary,CT,Waterbury,741888 Maple Street,6056
+1153,Eaton-Allen,0,Private,High,CT,Waterbury,453129 Alison Bridge,6056
+1154,"Beltran, Cooper and Torres",2,Private,Pre-K,CT,Waterbury,338122 Cedar Lane,6056
+1155,"Jacobs, Kemp and Pacheco",6,Private,Middle,CT,Syracuse,1061445 Omar Park,13974
+1156,Daniels-Rivera,6,Public,Middle,CT,Syracuse,379168 Alison Bridge,13974
+1157,Mcfarland LLC,8,Private,High,CT,Newark,688415 Pine Drive,7866
+1158,"Gordon, Wiley and Carlson",9,Public,Middle,CT,Newark,497940 Oak Avenue,7866
+1159,Morton-Booker,0,Private,High,NJ,Elizabeth,417240 Santos Stream,7573
+1160,"Jackson, Hebert and Bradley",8,Private,Middle,CT,Waterbury,1001080 Maple Street,6060
+1161,Smith LLC,3,Private,Elementary,CT,Stamford,156735 Chad Valley,6359
+1162,Johnson Ltd,4,Public,Pre-K,CT,Stamford,424130 Maple Street,6359
+1163,"Rose, Mccoy and Lara",7,Private,Elementary,CT,Paterson,694311 Cedar Lane,8590
+1164,Phillips Group,10,Private,Pre-K,CT,Paterson,768240 Chad Valley,8590
+1165,Freeman-Gonzalez,6,Public,Pre-K,CT,Hartford,560365 Oak Avenue,6285
+1166,Brown-Landry,9,Private,Pre-K,CT,Hartford,701932 Alison Bridge,6285
+1167,"Mcmahon, Wilson and Munoz",4,Public,Elementary,CT,Hartford,256740 Pine Drive,6285
+1168,Diaz Group,1,Private,Pre-K,CT,Bridgeport,182208 Maple Street,6085
+1169,"Mitchell, Hernandez and Hale",9,Public,Elementary,CT,Bridgeport,923510 Dawson Terrace,6085
+1170,Stein-Johnston,8,Public,High,CT,Bridgeport,742950 Santos Stream,6085
+1171,Maddox PLC,5,Private,Middle,CT,Trenton,745927 Cedar Lane,8835
+1172,"Alvarado, Donovan and Black",9,Public,Middle,CT,Trenton,1071208 Dawson Terrace,8835
+1173,Walters PLC,0,Public,Pre-K,NY,New York,539580 Santos Stream,14694
+1174,"Hanson, Gutierrez and Hall",8,Public,Elementary,NY,New York,412074 Oak Avenue,14694
+1175,Moore PLC,5,Public,Middle,CT,Trenton,875375 Pine Drive,7224
+1176,"Roberts, Fletcher and Martinez",10,Public,Elementary,CT,Trenton,1078392 Maple Street,7224
+1177,Smith-Gibson,6,Public,Elementary,CT,Hartford,755634 Oak Avenue,6003
+1178,Richardson Ltd,3,Private,Pre-K,CT,Hartford,438216 Chad Valley,6003
+1179,Hernandez-Mitchell,6,Public,Middle,CT,Newark,805257 Pine Drive,8287
+1180,"Taylor, Bentley and Anthony",10,Public,Pre-K,CT,Newark,390580 Cedar Lane,8287
+1181,Dixon and Sons,10,Private,Pre-K,CT,Jersey City,807804 Chad Valley,7322
+1182,Mcdaniel Inc,4,Private,Middle,CT,Jersey City,940872 Omar Park,7322
+1183,Jackson Inc,10,Private,Middle,CT,Jersey City,1132131 Chad Valley,7322
+1184,"Walker, Ortiz and Good",1,Private,High,CT,Newark,1069152 Alison Bridge,8608
+1185,Robinson Group,9,Private,High,CT,Newark,519030 Elm Circle,8608
+1186,Ramirez Ltd,4,Private,Elementary,CT,Newark,659416 Cedar Lane,8608
+1187,Pratt PLC,2,Private,Middle,NY,Buffalo,193481 Dawson Terrace,11932
+1188,Sullivan PLC,7,Public,High,CT,Paterson,608256 Cedar Lane,8289
+1189,"Stone, Larson and Ellis",7,Public,Elementary,CT,Paterson,416150 Pine Drive,8289
+1190,Mcguire Inc,5,Private,Elementary,CT,Paterson,604520 Maple Street,8289
+1191,Nguyen-Edwards,8,Public,Elementary,CT,Trenton,400176 Santos Stream,8076
+1192,Jackson-Anderson,7,Public,High,CT,Trenton,48872 Chad Valley,8076
+1193,"Nguyen, Wells and Williams",9,Public,Middle,CT,Trenton,99019 Elm Circle,8076
+1194,Webb-Fuller,2,Private,Pre-K,CT,Albany,88356 Pine Drive,10011
+1195,"Ewing, Sanders and Robbins",8,Private,Elementary,CT,Paterson,322650 Oak Avenue,7375
+1196,Barajas Ltd,9,Public,High,CT,Paterson,270296 Santos Stream,7375
+1197,Long-Fields,5,Private,High,CT,Syracuse,531468 Pine Drive,11701
+1198,"Lee, Johnson and Hill",1,Public,Pre-K,CT,Jersey City,337836 Alison Bridge,8559
+1199,Moore PLC,10,Public,Pre-K,CT,Jersey City,1070707 Oak Avenue,8559
+1200,"Burton, Johnson and Jones",10,Public,High,CT,Jersey City,702000 Omar Park,8559
+1201,"Wright, Pope and Marshall",2,Public,Middle,NY,Buffalo,838298 Santos Stream,11359
+1202,Warren-King,4,Private,Pre-K,NY,Buffalo,2404 Santos Stream,11359
+1203,Patterson and Sons,4,Private,High,CT,Bridgeport,716988 Alison Bridge,6067
+1204,Alvarez Group,4,Private,Pre-K,CT,Bridgeport,632100 Oak Avenue,6067
+1205,"Bird, Reid and Zhang",4,Public,Middle,CT,Bridgeport,1125470 Alison Bridge,6067
+1206,"Oconnor, Cisneros and Morris",10,Private,Elementary,CT,Newark,343710 Santos Stream,7582
+1207,Erickson LLC,9,Public,Pre-K,CT,Newark,362100 Oak Avenue,7582
+1208,Kaiser-Flowers,8,Private,Middle,CT,Newark,977272 Chad Valley,7582
+1209,Bryant-Sullivan,2,Public,High,CT,Syracuse,940602 Elm Circle,10495
+1210,Smith-Cherry,4,Public,Pre-K,CT,Syracuse,463430 Maple Street,10495
+1211,Hubbard LLC,7,Public,Pre-K,CT,Jersey City,197393 Elm Circle,8386
+1212,Mitchell Ltd,10,Private,High,CT,Trenton,135744 Cedar Lane,8974
+1213,Hopkins Ltd,3,Private,Elementary,NJ,Elizabeth,726587 Omar Park,8488
+1214,Robinson Inc,8,Private,High,NJ,Elizabeth,847372 Elm Circle,8488
+1215,Bender-Estes,10,Private,Pre-K,CT,Hartford,600210 Elm Circle,6101
+1216,"Morgan, Henry and Howell",9,Public,High,CT,Hartford,278464 Cedar Lane,6101
+1217,"Anderson, Estrada and Osborne",5,Private,Middle,CT,Hartford,855551 Omar Park,6101
+1218,Davidson Ltd,7,Private,High,CT,Syracuse,1180242 Maple Street,10089
+1219,Howe-Smith,5,Public,Pre-K,CT,Syracuse,415679 Pine Drive,10089
+1220,Davis Ltd,5,Public,High,NY,Buffalo,819840 Pine Drive,13667
+1221,Nelson-Nguyen,6,Public,Elementary,CT,Syracuse,69597 Oak Avenue,11969
+1222,Davis-Gillespie,4,Private,High,NY,New York,173524 Alison Bridge,12911
+1223,"Ray, Davis and Williams",8,Public,Elementary,NY,New York,1150843 Chad Valley,12911
+1224,Hughes-Williams,4,Public,Middle,NY,New York,232560 Santos Stream,12911
+1225,Pena-Woodward,6,Public,Elementary,NY,Buffalo,701925 Elm Circle,12547
+1226,"Hill, James and Zavala",2,Private,High,NY,Buffalo,697594 Omar Park,12547
+1227,Wheeler Group,1,Public,Pre-K,NY,Buffalo,46626 Pine Drive,12547
+1228,Huffman-Williams,9,Private,Elementary,CT,Hartford,284896 Santos Stream,6246
+1229,Coleman and Sons,4,Private,Middle,CT,Hartford,4916 Pine Drive,6246
+1230,Berg-Yoder,9,Public,Elementary,CT,Hartford,661740 Cedar Lane,6246
+1231,Edwards Group,6,Public,Elementary,CT,Syracuse,349604 Cedar Lane,11553
+1232,Kelly-Avery,10,Private,Elementary,CT,Syracuse,852544 Pine Drive,11553
+1233,Randolph-Scott,0,Public,Middle,CT,Waterbury,19728 Elm Circle,6242
+1234,King LLC,4,Public,High,CT,Waterbury,973626 Omar Park,6242
+1235,Fletcher and Sons,10,Private,Elementary,CT,Waterbury,179075 Santos Stream,6242
+1236,Hall-Jackson,6,Private,Elementary,CT,Bridgeport,774972 Dawson Terrace,6040
+1237,Garcia-Cantu,2,Public,Pre-K,CT,Bridgeport,1044028 Dawson Terrace,6040
+1238,Lee and Sons,3,Private,Middle,CT,Albany,689566 Elm Circle,10245
+1239,Hall-Williams,8,Public,Elementary,CT,Newark,690123 Maple Street,8397
+1240,Perry Inc,8,Public,Middle,CT,Hartford,565440 Pine Drive,6103
+1241,"Raymond, Kelley and Maxwell",9,Public,Elementary,CT,Albany,1047404 Elm Circle,11391
+1242,"Cantrell, Harrison and Jones",10,Private,High,CT,Albany,216108 Maple Street,11391
+1243,"Wood, Hicks and White",8,Public,High,CT,Waterbury,1209439 Alison Bridge,6343
+1244,Watson-Guzman,6,Public,Elementary,CT,Waterbury,1051180 Maple Street,6343
+1245,"Villegas, Barnes and Kelley",1,Public,High,CT,Waterbury,734550 Maple Street,6343
+1246,Brown Ltd,3,Private,Elementary,CT,Syracuse,995554 Oak Avenue,10986
+1247,Montgomery-Bishop,10,Private,High,CT,Syracuse,483836 Cedar Lane,10986
+1248,Stanton-Martinez,6,Private,Pre-K,CT,Syracuse,358176 Dawson Terrace,10986
+1249,Brewer PLC,2,Private,Pre-K,NY,New York,726918 Pine Drive,11336
+1250,Boone-Rodriguez,10,Private,Pre-K,NY,New York,478750 Oak Avenue,11336
+1251,"Carr, Lee and Tucker",9,Public,Middle,CT,Hartford,519165 Maple Street,6239
+1252,"Carr, Conrad and Montgomery",8,Private,Middle,CT,Hartford,507060 Alison Bridge,6239
+1253,Hoffman and Sons,9,Private,Pre-K,NY,New York,130312 Alison Bridge,14377
+1254,"Day, Mcintosh and Weber",1,Private,Middle,CT,Hartford,930468 Maple Street,6102
+1255,Anderson and Sons,7,Public,High,NY,New York,1247470 Cedar Lane,12015
+1256,"Torres, Murphy and Wood",1,Private,Elementary,CT,New Haven,636792 Dawson Terrace,6246
+1257,Gomez Ltd,9,Private,Elementary,CT,New Haven,50280 Oak Avenue,6246
+1258,Hernandez Inc,2,Public,Elementary,CT,Hartford,730898 Santos Stream,6027
+1259,Mckay-Mccoy,2,Private,Pre-K,CT,Hartford,591730 Dawson Terrace,6027
+1260,Werner PLC,2,Public,Middle,CT,Newark,1224720 Chad Valley,8271
+1261,"Gilbert, Rodriguez and Scott",5,Public,High,CT,Newark,1197950 Chad Valley,8271
+1262,Aguilar-Benjamin,7,Public,High,NY,Buffalo,1024744 Chad Valley,12828
+1263,Jacobs-Henderson,9,Public,Pre-K,CT,Jersey City,1187220 Dawson Terrace,8012
+1264,"White, Jordan and Tran",4,Public,High,CT,Jersey City,765984 Cedar Lane,8012
+1265,"Carroll, Smith and Rodriguez",4,Private,High,NJ,Elizabeth,163185 Maple Street,7872
+1266,Bird-Horn,7,Public,High,CT,Hartford,873540 Pine Drive,6354
+1267,Black LLC,3,Public,High,CT,Hartford,324352 Santos Stream,6354
+1268,Brown-Orr,10,Private,Middle,NY,New York,708812 Omar Park,12451
+1269,Santiago-Young,1,Public,High,NY,New York,1115451 Oak Avenue,12451
+1270,Matthews Inc,2,Private,Elementary,NY,New York,454660 Dawson Terrace,11751
+1271,Marshall PLC,7,Private,Pre-K,CT,Newark,71176 Alison Bridge,8455
+1272,Garcia Group,1,Private,Middle,CT,Jersey City,560952 Alison Bridge,8080
+1273,Ayala Ltd,9,Public,High,CT,Jersey City,570304 Santos Stream,8080
+1274,"Sharp, Lewis and Simon",8,Public,Middle,NY,Buffalo,847210 Alison Bridge,12078
+1275,Brock and Sons,1,Public,High,NY,New York,369750 Omar Park,14118
+1276,Mcclain-Bradley,8,Private,Elementary,CT,Hartford,299860 Santos Stream,6294
+1277,Meyer-Gomez,6,Public,Pre-K,NY,Buffalo,888792 Maple Street,10817
+1278,Jones Ltd,7,Public,High,CT,Stamford,853704 Chad Valley,6128
+1279,Lopez and Sons,0,Public,High,CT,Stamford,200803 Alison Bridge,6128
+1280,Harris-Scott,8,Private,High,CT,Stamford,611840 Chad Valley,6128
+1281,Kelly-Mosley,3,Private,High,CT,Waterbury,844179 Oak Avenue,6016
+1282,"Hutchinson, Fernandez and Johnson",3,Public,Pre-K,CT,Waterbury,932014 Chad Valley,6016
+1283,"Hughes, Rogers and Smith",3,Public,Pre-K,CT,Waterbury,106489 Dawson Terrace,6016
+1284,Brown LLC,6,Public,Elementary,NY,New York,1164588 Omar Park,13412
+1285,"Reynolds, Guerra and Hernandez",4,Public,Pre-K,NY,New York,323820 Omar Park,13412
+1286,Pratt-Willis,10,Private,High,CT,Bridgeport,945210 Elm Circle,6120
+1287,Tate-Reed,9,Private,Elementary,CT,Bridgeport,652509 Dawson Terrace,6120
+1288,Rivera and Sons,0,Private,Elementary,NY,New York,627256 Alison Bridge,11053
+1289,Zamora Ltd,10,Private,Elementary,NY,New York,232020 Omar Park,11053
+1290,Hubbard-Morrison,5,Public,High,NY,New York,51600 Chad Valley,11053
+1291,Walsh Ltd,6,Public,Middle,CT,Rochester,804293 Dawson Terrace,10795
+1292,Buckley LLC,0,Public,High,CT,Rochester,536180 Chad Valley,10795
+1293,"Martin, Ramirez and Roberts",4,Private,Pre-K,CT,Rochester,724080 Alison Bridge,10795
+1294,Wright LLC,9,Public,Pre-K,CT,Waterbury,292444 Omar Park,6160
+1295,Williams Group,3,Private,High,CT,Paterson,303030 Chad Valley,7304
+1296,"Montoya, Alvarez and Wilson",0,Private,High,CT,Paterson,816480 Alison Bridge,7304
+1297,"Jones, Hood and Hernandez",1,Public,Elementary,CT,Paterson,1022036 Alison Bridge,7304
+1298,Lin-Tate,1,Public,High,CT,Newark,1114982 Pine Drive,7018
+1299,Johnston-Smith,5,Public,Elementary,CT,Newark,906702 Maple Street,7018
+1300,"Bennett, Duran and Torres",4,Private,Pre-K,CT,Stamford,127400 Elm Circle,6006
+1301,Higgins and Sons,10,Public,Elementary,CT,Stamford,948429 Chad Valley,6006
+1302,Hamilton-Dixon,8,Private,High,CT,Stamford,312480 Dawson Terrace,6111
+1303,"Moore, Ramirez and Goodman",6,Public,Pre-K,CT,Stamford,157663 Santos Stream,6111
+1304,Hamilton-Castillo,9,Private,Middle,CT,Paterson,844992 Santos Stream,7664
+1305,Evans Ltd,1,Private,Elementary,CT,Bridgeport,647280 Elm Circle,6363
+1306,Johnson-Williams,3,Public,Pre-K,CT,New Haven,936402 Cedar Lane,6033
+1307,"Summers, Garcia and Powell",1,Private,Elementary,CT,New Haven,595992 Maple Street,6033
+1308,"Robinson, Jones and Riley",8,Private,Pre-K,CT,New Haven,847584 Maple Street,6033
+1309,"Wilson, Park and Moore",5,Public,Pre-K,CT,Rochester,1117886 Santos Stream,11718
+1310,Phillips-Esparza,2,Private,Elementary,CT,Rochester,721810 Chad Valley,11718
+1311,Williams Ltd,1,Public,Middle,CT,Trenton,975384 Elm Circle,7855
+1312,Stephens-Evans,10,Private,Pre-K,CT,Waterbury,1053536 Pine Drive,6217
+1313,Austin-Collins,2,Public,Pre-K,NY,Buffalo,22321 Maple Street,10807
+1314,Stone PLC,1,Public,Pre-K,CT,Jersey City,997326 Oak Avenue,8731
+1315,"Murphy, Reynolds and Price",6,Private,Middle,CT,Jersey City,1059890 Alison Bridge,8731
+1316,Smith-Green,1,Private,Middle,CT,Jersey City,379008 Dawson Terrace,8731
+1317,Thomas-Douglas,5,Private,High,NJ,Elizabeth,592650 Oak Avenue,8099
+1318,Miller-Ibarra,1,Private,Elementary,NJ,Elizabeth,578602 Oak Avenue,8099
+1319,Gilbert-Walker,10,Private,Middle,NJ,Elizabeth,440546 Omar Park,8099
+1320,Johnson-Webb,10,Public,Elementary,CT,Paterson,1148400 Omar Park,8859
+1321,Malone Inc,5,Private,High,CT,Paterson,50198 Elm Circle,8859
+1322,Lewis Inc,6,Public,Elementary,CT,Rochester,1107836 Alison Bridge,14705
+1323,Cole-Smith,2,Public,Middle,CT,Rochester,231525 Chad Valley,14705
+1324,Flowers and Sons,2,Private,Elementary,CT,Rochester,644788 Maple Street,14869
+1325,Martinez-Robertson,5,Public,Middle,CT,Syracuse,132500 Cedar Lane,11908
+1326,"Ellison, Fox and Costa",3,Public,Elementary,CT,Syracuse,583440 Oak Avenue,11908
+1327,"Thomas, Lee and Williams",4,Public,Middle,CT,Paterson,885109 Alison Bridge,7585
+1328,James and Sons,6,Public,Middle,CT,Paterson,573696 Chad Valley,7585
+1329,Miller-Martin,1,Private,Elementary,CT,Paterson,1192113 Maple Street,7585
+1330,White-Howard,8,Public,High,NJ,Elizabeth,692930 Alison Bridge,8281
+1331,Padilla PLC,0,Private,Pre-K,CT,Newark,1052821 Maple Street,7076
+1332,"Jenkins, Williamson and Gomez",0,Private,High,CT,Hartford,1318680 Oak Avenue,6167
+1333,Calderon Inc,6,Public,Elementary,CT,Hartford,673165 Alison Bridge,6167
+1334,Marquez Inc,3,Private,High,CT,Hartford,672336 Maple Street,6167
+1335,Bates-Williams,6,Private,Middle,CT,Albany,209595 Maple Street,10246
+1336,Stone Group,10,Private,Pre-K,CT,Albany,777552 Cedar Lane,10246
+1337,Weiss-Kelly,1,Public,Elementary,CT,Albany,631064 Cedar Lane,10246
+1338,Melendez LLC,0,Private,Elementary,CT,Newark,196686 Oak Avenue,7659
+1339,"Parker, Cordova and Mccoy",5,Private,Elementary,CT,Newark,1103336 Dawson Terrace,7659
+1340,Mckay-Butler,9,Private,Pre-K,CT,Jersey City,1179200 Dawson Terrace,7534
+1341,Dennis-Williams,6,Public,Middle,CT,Jersey City,146169 Oak Avenue,7534
+1342,"Day, Miller and York",10,Private,Elementary,CT,Rochester,555588 Oak Avenue,13373
+1343,"Perez, Elliott and Mcfarland",4,Public,High,CT,Stamford,88638 Santos Stream,6067
+1344,Johnston PLC,4,Public,Elementary,CT,Jersey City,1166592 Chad Valley,8938
+1345,"Delgado, Rodriguez and Collier",8,Public,Elementary,CT,Jersey City,812380 Cedar Lane,8938
+1346,"Holt, Smith and Thomas",10,Public,Elementary,CT,Syracuse,205938 Chad Valley,12135
+1347,Evans-Wells,7,Public,Elementary,NJ,Elizabeth,239766 Maple Street,7894
+1348,"Smith, Liu and Morgan",2,Public,Middle,NJ,Elizabeth,295212 Chad Valley,7894
+1349,Bauer Inc,3,Private,High,CT,Bridgeport,661010 Omar Park,6323
+1350,Clark-Willis,7,Public,Middle,CT,Bridgeport,1282500 Pine Drive,6323
+1351,Moore-Davis,4,Private,High,CT,Bridgeport,784931 Dawson Terrace,6323
+1352,Gonzales-Cole,8,Private,Elementary,CT,Hartford,352872 Dawson Terrace,6241
+1353,Garcia-Webster,9,Public,Pre-K,CT,Hartford,634557 Dawson Terrace,6241
+1354,"Brooks, Ellis and Long",9,Private,Middle,CT,New Haven,353394 Maple Street,6160
+1355,Anderson-Simmons,6,Private,Pre-K,CT,New Haven,750670 Oak Avenue,6160
+1356,Macdonald-Campbell,2,Private,Middle,CT,New Haven,334932 Pine Drive,6160
+1357,Evans and Sons,8,Private,Elementary,CT,Paterson,1274223 Elm Circle,7104
+1358,Williams PLC,2,Public,Middle,CT,Paterson,1261582 Cedar Lane,7104
+1359,Stevens-Cobb,4,Private,Elementary,CT,Rochester,1005660 Pine Drive,12931
+1360,Mack-Allison,10,Public,Middle,CT,Rochester,1164160 Cedar Lane,12931
+1361,"Campbell, Ochoa and Garcia",10,Private,Elementary,CT,Rochester,340250 Elm Circle,12931
+1362,James-Jensen,7,Private,Elementary,CT,Waterbury,163440 Omar Park,6177
+1363,"Hanson, Martinez and Butler",7,Public,High,CT,New Haven,791903 Chad Valley,6045
+1364,Hopkins-Johnson,6,Private,Elementary,CT,New Haven,1158036 Dawson Terrace,6045
+1365,Norton-Simmons,7,Private,High,CT,New Haven,192465 Cedar Lane,6045
+1366,Smith Group,1,Private,Elementary,CT,Waterbury,797744 Elm Circle,6251
+1367,Lucas Group,0,Public,Pre-K,CT,New Haven,590544 Santos Stream,6375
+1368,Sellers-Martin,0,Private,Elementary,CT,New Haven,603288 Omar Park,6375
+1369,Compton-Hurley,9,Public,Pre-K,CT,Waterbury,105413 Cedar Lane,6004
+1370,"Perry, Camacho and Cortez",7,Private,Pre-K,CT,Waterbury,184950 Omar Park,6004
+1371,Owens and Sons,9,Public,Elementary,CT,Waterbury,876069 Santos Stream,6004
+1372,Mcmahon-Cook,4,Public,Pre-K,NJ,Elizabeth,1282820 Omar Park,8542
+1373,"Coleman, Mitchell and Sanchez",2,Private,High,NJ,Elizabeth,774372 Omar Park,8542
+1374,Hayden-Chavez,2,Private,Middle,NJ,Elizabeth,244572 Dawson Terrace,8542
+1375,"Soto, Gonzales and Martin",10,Public,Elementary,CT,Stamford,50875 Oak Avenue,6045
+1376,Oneill LLC,0,Public,Pre-K,CT,Hartford,787072 Cedar Lane,6152
+1377,"Medina, Rodriguez and Davis",10,Private,Elementary,CT,Hartford,820692 Pine Drive,6152
+1378,Harrington-Lewis,9,Public,High,NY,Buffalo,1216774 Alison Bridge,14151
+1379,Lopez-Thompson,9,Private,Elementary,NY,Buffalo,110320 Santos Stream,14151
+1380,"Dominguez, Campbell and Thomas",5,Private,Elementary,NY,Buffalo,474720 Alison Bridge,14151
+1381,"Clark, Lee and Valdez",1,Private,Pre-K,CT,Albany,1173850 Maple Street,14446
+1382,Lane-Barker,8,Private,High,NJ,Elizabeth,345500 Oak Avenue,8279
+1383,Fuller-Cox,4,Public,Middle,NJ,Elizabeth,71916 Maple Street,8279
+1384,"Santos, Rhodes and Christensen",9,Private,Middle,NJ,Elizabeth,1303728 Chad Valley,8279
+1385,"Weaver, Peck and Garcia",10,Public,Pre-K,CT,Stamford,831000 Omar Park,6318
+1386,Torres-Valencia,4,Private,Elementary,CT,New Haven,148302 Chad Valley,6309
+1387,Wagner LLC,3,Public,Pre-K,CT,New Haven,1022219 Oak Avenue,6309
+1388,"Clarke, Thomas and Hunter",5,Private,Pre-K,CT,New Haven,809204 Elm Circle,6309
+1389,"Williams, Murphy and Dodson",6,Public,Pre-K,CT,New Haven,619494 Omar Park,6103
+1390,Gray Ltd,7,Public,Elementary,CT,New Haven,1143970 Maple Street,6103
+1391,Griffin LLC,5,Private,High,CT,New Haven,685763 Elm Circle,6103
+1392,Leon Ltd,7,Private,Pre-K,NJ,Elizabeth,494160 Alison Bridge,7349
+1393,"Brooks, Mueller and Hill",2,Private,Elementary,NJ,Elizabeth,1306634 Alison Bridge,7349
+1394,Hale LLC,4,Private,High,NJ,Elizabeth,920040 Dawson Terrace,7349
+1395,"Reynolds, Hill and Robinson",5,Public,Pre-K,CT,Paterson,647280 Omar Park,7533
+1396,Mckenzie and Sons,1,Private,Middle,CT,New Haven,526292 Elm Circle,6041
+1397,"Schmidt, Anderson and Harris",4,Public,High,CT,Hartford,1209802 Pine Drive,6193
+1398,"Washington, Bruce and Schwartz",2,Public,Pre-K,CT,Hartford,459942 Alison Bridge,6193
+1399,"Aguirre, Wilson and Davis",0,Private,High,CT,Hartford,265810 Pine Drive,6193
+1400,Coleman-Sweeney,0,Public,High,CT,New Haven,1289400 Alison Bridge,6207
+1401,"Turner, Williams and Thomas",0,Public,High,NY,New York,472137 Maple Street,11826
+1402,Suarez Ltd,7,Public,High,NY,New York,315450 Santos Stream,11826
+1403,"Perez, Jimenez and Miller",3,Public,High,CT,Hartford,681858 Chad Valley,6239
+1404,Carr-Brown,2,Private,High,CT,Hartford,627588 Oak Avenue,6239
+1405,Weber-Hansen,9,Private,Pre-K,CT,Hartford,709525 Santos Stream,6239
+1406,"Lee, Williams and Hernandez",5,Private,Middle,CT,Waterbury,1039034 Omar Park,6346
+1407,Khan-Brown,1,Private,Elementary,CT,Waterbury,270144 Chad Valley,6346
+1408,James Ltd,9,Public,High,CT,Newark,1019392 Elm Circle,7793
+1409,Evans and Sons,8,Public,Elementary,CT,Jersey City,803130 Chad Valley,8473
+1410,"Thompson, Pacheco and Stevens",0,Private,Pre-K,CT,Stamford,634500 Maple Street,6183
+1411,"Lee, Floyd and Garcia",1,Private,High,CT,Stamford,454342 Cedar Lane,6183
+1412,"Nichols, Torres and Jackson",1,Private,Middle,CT,Stamford,1083004 Dawson Terrace,6183
+1413,Moreno Ltd,4,Public,Elementary,NY,Buffalo,500202 Pine Drive,14109
+1414,Gilbert PLC,4,Private,High,NY,Buffalo,35350 Cedar Lane,14383
+1415,Perez Inc,7,Private,Pre-K,CT,Hartford,530625 Alison Bridge,6362
+1416,Dawson-Zamora,2,Private,Middle,CT,Hartford,433296 Cedar Lane,6362
+1417,Lamb Group,2,Public,Elementary,NY,New York,1115179 Cedar Lane,12289
+1418,Jones Group,6,Public,Elementary,CT,Bridgeport,1254930 Pine Drive,6235
+1419,Hawkins LLC,5,Public,High,NY,Buffalo,110682 Pine Drive,14642
+1420,Mendez-Meyer,4,Public,Middle,NY,Buffalo,391920 Oak Avenue,14642
+1421,Coleman-Parsons,4,Public,Middle,NY,Buffalo,75313 Cedar Lane,14642
+1422,"Hicks, Terry and Jones",10,Public,Middle,CT,Paterson,995400 Elm Circle,8892
+1423,"Smith, Moore and Davis",7,Public,Middle,CT,Paterson,412670 Pine Drive,8892
+1424,Schmidt PLC,10,Public,Pre-K,CT,Trenton,254896 Chad Valley,8609
+1425,Brown-West,5,Private,Middle,CT,Bridgeport,889200 Chad Valley,6373
+1426,Rocha-Davis,1,Private,Elementary,CT,Stamford,115506 Dawson Terrace,6274
+1427,Knight-Sanchez,0,Public,Elementary,CT,Syracuse,89901 Dawson Terrace,11008
+1428,Sullivan Inc,7,Public,Pre-K,CT,Waterbury,951048 Elm Circle,6264
+1429,Quinn LLC,6,Private,Elementary,CT,Waterbury,161477 Santos Stream,6264
+1430,Wood Inc,5,Public,Elementary,NY,Buffalo,989560 Pine Drive,12913
+1431,Long Ltd,7,Public,Middle,NY,Buffalo,465075 Alison Bridge,12913
+1432,Rice PLC,4,Public,Elementary,NY,Buffalo,1089752 Chad Valley,12913
+1433,Brown Inc,8,Private,Pre-K,NY,New York,137568 Alison Bridge,10121
+1434,Blair-Mckee,4,Private,Middle,NY,New York,434502 Cedar Lane,10121
+1435,Hudson Ltd,10,Private,High,NY,New York,520905 Omar Park,10121
+1436,"Wu, Gomez and Richards",8,Private,Middle,CT,Waterbury,749592 Chad Valley,6194
+1437,Williams-Miller,0,Private,Pre-K,CT,Waterbury,1349343 Maple Street,6194
+1438,"Brown, Hayes and Keller",0,Public,Middle,CT,Newark,484606 Oak Avenue,8498
+1439,Fleming-Holloway,10,Private,Middle,CT,New Haven,466236 Cedar Lane,6228
+1440,"Thomas, Acosta and Freeman",7,Public,Pre-K,CT,New Haven,178560 Dawson Terrace,6228
+1441,English LLC,5,Public,Middle,CT,Bridgeport,185889 Chad Valley,6048
+1442,Washington Ltd,9,Private,Pre-K,CT,Jersey City,545076 Alison Bridge,8886
+1443,Huff PLC,1,Private,Pre-K,NJ,Elizabeth,1139970 Chad Valley,7198
+1444,"Rush, Murphy and Johnson",0,Public,High,CT,Syracuse,909720 Pine Drive,12860
+1445,Garcia-Tran,4,Public,Elementary,NJ,Elizabeth,1400205 Cedar Lane,7239
+1446,"Robinson, Perkins and Wright",1,Public,Elementary,NJ,Elizabeth,921102 Maple Street,7239
+1447,Smith-Adkins,3,Private,Middle,NJ,Elizabeth,62221 Maple Street,7239
+1448,"Aguilar, Meyer and Hebert",5,Private,Middle,CT,Hartford,78192 Oak Avenue,6307
+1449,"Stevens, Clark and Hill",2,Private,High,CT,Hartford,1389591 Maple Street,6307
+1450,"Perkins, Todd and Ford",5,Private,High,CT,Hartford,716300 Elm Circle,6307
+1451,Thomas LLC,5,Private,High,CT,Hartford,651499 Oak Avenue,6004
+1452,"Spears, Lee and Gomez",9,Public,Pre-K,CT,Hartford,1351812 Cedar Lane,6004
+1453,Shepherd-Walton,3,Private,High,NY,Buffalo,398122 Dawson Terrace,12809
+1454,Lopez-Love,8,Public,High,NY,Buffalo,786614 Oak Avenue,12809
+1455,Thomas PLC,6,Public,Middle,NY,Buffalo,469965 Pine Drive,12809
+1456,Schroeder-Willis,4,Public,High,NY,Buffalo,760032 Chad Valley,11426
+1457,Howard Inc,8,Private,Pre-K,NY,Buffalo,42253 Oak Avenue,11426
+1458,"Ferguson, Harris and Erickson",6,Private,Pre-K,NY,Buffalo,1162026 Chad Valley,11426
+1459,"Haynes, Watson and Rogers",5,Private,Middle,NY,Buffalo,332652 Pine Drive,14347
+1460,"Thompson, Johnson and Smith",5,Public,High,NY,Buffalo,1224940 Cedar Lane,14347
+1461,Bell Inc,10,Public,High,CT,New Haven,574173 Chad Valley,6332
+1462,"Lucas, Johnson and Krause",3,Public,Pre-K,CT,Rochester,1267554 Omar Park,11709
+1463,White-Warren,4,Public,High,CT,Rochester,450604 Cedar Lane,11709
+1464,Rodgers PLC,0,Public,High,CT,Hartford,1240008 Maple Street,6027
+1465,"Boone, Nichols and Anderson",6,Public,High,CT,Hartford,638740 Alison Bridge,6027
+1466,Tucker-Weeks,1,Private,Elementary,NY,Buffalo,1464534 Omar Park,13796
+1467,Gonzales and Sons,6,Private,Middle,NY,Buffalo,940347 Chad Valley,13796
+1468,Noble-Clark,9,Private,Elementary,NY,Buffalo,569584 Pine Drive,13796
+1469,Young-Parker,2,Private,Middle,CT,Jersey City,1085591 Dawson Terrace,7908
+1470,Carter Ltd,3,Public,Pre-K,CT,Jersey City,1250970 Maple Street,7908
+1471,"Trujillo, Moore and Walker",3,Public,High,NY,New York,432474 Oak Avenue,12324
+1472,"Walker, Cowan and Page",2,Private,Middle,NY,New York,1449920 Cedar Lane,12324
+1473,Herrera LLC,3,Public,Elementary,NY,New York,458103 Maple Street,12324
+1474,Horne Ltd,9,Private,High,CT,Waterbury,1440098 Elm Circle,6309
+1475,Ortiz and Sons,0,Private,Pre-K,CT,Rochester,901225 Santos Stream,10188
+1476,Schmidt LLC,1,Private,Middle,NJ,Elizabeth,857556 Santos Stream,8398
+1477,Trujillo-Ponce,2,Public,Middle,NJ,Elizabeth,1258404 Cedar Lane,8398
+1478,Carson-Sanchez,0,Private,Middle,NJ,Elizabeth,215788 Omar Park,8398
+1479,"Marquez, Murphy and Pope",2,Private,High,CT,Bridgeport,964308 Omar Park,6243
+1480,Mcconnell-Mcdonald,2,Private,Elementary,CT,Bridgeport,1422280 Pine Drive,6243
+1481,"Hamilton, Moreno and Mason",4,Public,Elementary,CT,Syracuse,907853 Cedar Lane,14520
+1482,"Schmidt, Gentry and Rodriguez",8,Public,Middle,CT,Paterson,892164 Pine Drive,7871
+1483,"Guzman, Reid and Hooper",0,Private,Pre-K,CT,Paterson,35592 Alison Bridge,7871
+1484,Lee-Davis,6,Public,Pre-K,CT,Paterson,636636 Oak Avenue,7871
+1485,Scott Inc,0,Public,Elementary,CT,Albany,190080 Pine Drive,14615
+1486,Haney-Pitts,5,Public,Pre-K,CT,Albany,814328 Alison Bridge,11748
+1487,"Soto, Robertson and Garcia",6,Public,Elementary,CT,Albany,939784 Pine Drive,11748
+1488,Davis Inc,8,Public,Middle,CT,Albany,534192 Santos Stream,11748
+1489,"Lee, Reynolds and Garcia",4,Public,Elementary,NY,New York,23824 Pine Drive,12814
+1490,Gray Inc,3,Public,Elementary,NY,New York,449980 Santos Stream,12814
+1491,"Dixon, Horn and Baker",9,Public,Middle,CT,Albany,1417941 Oak Avenue,11302
+1492,Taylor PLC,1,Public,Pre-K,CT,Albany,34316 Oak Avenue,11302
+1493,"Pineda, Davis and Kennedy",8,Public,Elementary,CT,Hartford,1068988 Omar Park,6337
+1494,Sanchez LLC,10,Private,Elementary,CT,Syracuse,1162332 Pine Drive,10187
+1495,Esparza-Fischer,8,Private,Middle,CT,Syracuse,321425 Santos Stream,10187
+1496,Zimmerman-Lewis,5,Public,Pre-K,CT,Syracuse,185504 Chad Valley,10187
+1497,Roberts-Booker,4,Private,Elementary,CT,Paterson,670656 Oak Avenue,7239
+1498,"Wilson, Perkins and Casey",1,Private,Middle,CT,Paterson,852362 Omar Park,7239
+1499,"Baker, Petersen and Tucker",4,Public,Elementary,CT,Paterson,178381 Maple Street,7239
+1500,Gilmore-Andrews,3,Public,High,CT,Trenton,531000 Pine Drive,8670
+1501,Harrison LLC,8,Public,Middle,CT,Trenton,794029 Maple Street,8670
+1502,Klein-Cervantes,6,Private,Pre-K,CT,Hartford,808076 Santos Stream,6007
+1503,Smith-Goodwin,5,Private,Pre-K,CT,Hartford,551601 Elm Circle,6191
+1504,Wright-Williams,7,Public,Pre-K,CT,Hartford,440672 Cedar Lane,6191
+1505,"Edwards, Hughes and King",0,Public,Pre-K,CT,Hartford,180600 Pine Drive,6295
+1506,"King, Collins and Griffin",3,Public,Elementary,CT,Hartford,521076 Omar Park,6295
+1507,"Shaffer, Richardson and Dalton",0,Private,Elementary,CT,Hartford,1217656 Oak Avenue,6295
+1508,Dillon Ltd,7,Private,Pre-K,NY,Buffalo,102544 Omar Park,10684
+1509,"Wright, Holmes and Fowler",10,Private,Pre-K,CT,Bridgeport,276147 Pine Drive,6196
+1510,Rodriguez-Myers,0,Private,Pre-K,NY,New York,437900 Omar Park,12158
+1511,Wright-Mclean,9,Public,Elementary,CT,Waterbury,1151382 Chad Valley,6177
+1512,"Pope, Perez and Harris",1,Public,Pre-K,CT,Waterbury,148176 Chad Valley,6300
+1513,"Torres, Sweeney and Smith",1,Public,Pre-K,CT,Waterbury,329834 Elm Circle,6300
+1514,"Smith, Maxwell and Morris",4,Public,High,CT,Stamford,831186 Cedar Lane,6271
+1515,"Miller, Reeves and Pennington",8,Private,High,CT,Rochester,524190 Pine Drive,11706
+1516,Hardy-Simmons,4,Private,Pre-K,CT,Rochester,1324984 Cedar Lane,11706
+1517,Hunt-Christensen,6,Public,Middle,CT,Waterbury,1025492 Maple Street,6288
+1518,"Campbell, Alexander and Nunez",5,Public,Pre-K,CT,Paterson,1047420 Omar Park,7044
+1519,Sanders-Gonzalez,1,Private,High,CT,Paterson,820260 Omar Park,7044
+1520,Anderson-Hart,7,Public,Middle,CT,Hartford,1279840 Maple Street,6197
+1521,Spears Inc,0,Private,Middle,CT,Hartford,883701 Pine Drive,6197
+1522,"Riley, Thompson and Moon",7,Public,Pre-K,CT,Hartford,902546 Cedar Lane,6197
+1523,Collins-Acosta,8,Public,High,CT,Newark,1384407 Alison Bridge,7752
+1524,"Rogers, King and Webb",6,Public,High,CT,Newark,1510284 Dawson Terrace,7752
+1525,Curtis PLC,5,Public,Middle,CT,Hartford,805200 Omar Park,6165
+1526,"Lloyd, Andersen and Johnson",6,Public,Pre-K,CT,Hartford,65618 Maple Street,6165
+1527,Robertson-Escobar,8,Public,Elementary,NY,Buffalo,896349 Alison Bridge,14154
+1528,Garcia-Henry,9,Public,Elementary,NY,Buffalo,470624 Pine Drive,14154
+1529,"Spencer, Fox and Lambert",3,Private,High,CT,Newark,1236961 Dawson Terrace,7216
+1530,Matthews Group,2,Private,Elementary,CT,Newark,1433610 Santos Stream,7216
+1531,Davis-Brown,7,Private,High,CT,Trenton,1142126 Maple Street,8203
+1532,Lewis-Lang,5,Private,High,CT,Trenton,516284 Omar Park,8203
+1533,Mcdaniel-Velasquez,1,Private,High,NY,Buffalo,591738 Dawson Terrace,12645
+1534,Cox and Sons,7,Public,Elementary,CT,Bridgeport,1434290 Dawson Terrace,6184
+1535,Hodges Inc,8,Public,High,CT,Bridgeport,397565 Pine Drive,6184
+1536,Mercado Group,10,Private,Middle,NY,New York,339456 Oak Avenue,12273
+1537,Larson-Hurley,6,Public,Pre-K,CT,Stamford,1189638 Chad Valley,6099
+1538,"Brown, Adkins and Becker",1,Private,Pre-K,CT,Jersey City,795146 Cedar Lane,7420
+1539,Davis PLC,8,Private,High,CT,Jersey City,674082 Maple Street,7420
+1540,"Reid, Smith and Wilson",2,Public,Pre-K,CT,Jersey City,993300 Omar Park,7420
+1541,"Salinas, Douglas and Abbott",8,Public,Elementary,CT,Rochester,1439294 Pine Drive,11778
+1542,Hill LLC,1,Public,Elementary,CT,Rochester,1511160 Alison Bridge,11778
+1543,"Hamilton, Melton and Mitchell",8,Private,Pre-K,CT,Rochester,1218970 Cedar Lane,11778
+1544,Russell Group,1,Public,Elementary,CT,Hartford,1080800 Alison Bridge,6224
+1545,"Martin, Collins and Love",2,Private,Pre-K,CT,Hartford,466590 Pine Drive,6224
+1546,Young Inc,7,Private,Pre-K,CT,Stamford,377224 Cedar Lane,6142
+1547,Gutierrez Inc,2,Private,Pre-K,CT,Syracuse,1505231 Omar Park,10898
+1548,Reyes-Chambers,6,Public,High,CT,Bridgeport,294120 Pine Drive,6014
+1549,Woodard-Graham,1,Public,Pre-K,CT,Bridgeport,805480 Chad Valley,6014
+1550,Joseph-Ramirez,3,Private,High,CT,Trenton,35650 Alison Bridge,8653
+1551,Ewing LLC,8,Public,Pre-K,CT,Albany,1146189 Omar Park,10438
+1552,Baldwin LLC,8,Public,Pre-K,CT,Albany,1222976 Maple Street,10438
+1553,Lambert LLC,9,Public,Pre-K,CT,Albany,745440 Oak Avenue,10438
+1554,Patterson PLC,7,Private,Elementary,CT,Albany,306138 Santos Stream,12168
+1555,Wagner Group,3,Private,High,CT,Albany,510040 Oak Avenue,12168
+1556,"Jenkins, Murray and Hobbs",3,Public,High,NY,New York,742212 Chad Valley,12848
+1557,Stewart Group,9,Private,Pre-K,NY,New York,555849 Chad Valley,12848
+1558,Johnson-Singh,1,Public,Pre-K,NY,New York,1439592 Alison Bridge,12848
+1559,Pacheco PLC,10,Public,Elementary,CT,Bridgeport,1049207 Maple Street,6012
+1560,Scott Inc,9,Public,Elementary,CT,Bridgeport,627120 Pine Drive,6012
+1561,"Williams, Saunders and Reed",6,Public,Elementary,CT,Paterson,875721 Pine Drive,7085
+1562,Burton and Sons,9,Private,High,CT,Bridgeport,118712 Chad Valley,6033
+1563,"Hoover, Oconnor and Wu",5,Private,High,CT,Jersey City,153174 Santos Stream,7884
+1564,"Fernandez, Deleon and Roman",10,Private,High,CT,Newark,552092 Omar Park,8773
+1565,"Kelly, Perry and Perez",9,Public,Pre-K,NY,New York,145545 Oak Avenue,10608
+1566,Rogers and Sons,4,Public,High,NY,New York,28188 Omar Park,10608
+1567,"Arnold, Stevens and Buck",4,Public,Middle,CT,Paterson,311833 Pine Drive,8723
+1568,Fisher Ltd,8,Private,Middle,CT,Stamford,980000 Pine Drive,6160
+1569,Adams Group,7,Public,Elementary,CT,Paterson,513063 Oak Avenue,7002
+1570,Greer-Heath,2,Private,High,CT,Paterson,455300 Omar Park,7002
+1571,"Carter, Flowers and Moody",5,Private,Middle,CT,Paterson,361330 Elm Circle,7002
+1572,Collins-Nash,3,Private,Elementary,CT,Trenton,1100400 Pine Drive,8772
+1573,Hurley LLC,10,Private,High,CT,Trenton,475046 Alison Bridge,8772
+1574,"Bennett, Estrada and Green",6,Private,Pre-K,CT,Trenton,399796 Alison Bridge,8772
+1575,Davenport LLC,8,Private,Middle,NY,New York,965475 Pine Drive,11725
+1576,"Baker, Johnson and Jimenez",6,Public,Pre-K,NY,New York,1514536 Cedar Lane,11725
+1577,"Lawson, Day and Hamilton",9,Public,High,NY,New York,258628 Cedar Lane,11725
+1578,"Johnson, Webb and Snyder",6,Private,Middle,CT,Albany,440262 Omar Park,12852
+1579,Poole-Sanchez,2,Private,High,CT,Albany,1332676 Pine Drive,12852
+1580,Gomez-Thomas,1,Public,Pre-K,CT,Newark,115340 Dawson Terrace,7106
+1581,Meyer PLC,2,Private,Middle,CT,Hartford,1125672 Chad Valley,6364
+1582,Hicks-Williams,5,Private,Pre-K,CT,Rochester,341712 Santos Stream,14702
+1583,Hernandez-Martinez,2,Public,High,CT,Rochester,758257 Pine Drive,14702
+1584,Miller-Ruiz,9,Private,High,CT,Trenton,1580832 Maple Street,7470
+1585,"Smith, Stark and Bryan",7,Private,Pre-K,CT,Trenton,196540 Omar Park,7470
+1586,Bishop LLC,9,Private,Middle,CT,Trenton,662948 Dawson Terrace,7470
+1587,Jones-Nelson,5,Public,Pre-K,CT,Albany,336444 Omar Park,10766
+1588,"Montoya, Barnes and Rasmussen",0,Public,High,CT,Bridgeport,1033788 Dawson Terrace,6105
+1589,"Washington, Jenkins and Garcia",0,Public,Pre-K,CT,Waterbury,147777 Omar Park,6282
+1590,"Leach, Benton and Diaz",2,Private,High,CT,Syracuse,119250 Santos Stream,12797
+1591,Miller-Sullivan,10,Private,Pre-K,CT,Syracuse,407296 Santos Stream,12797
+1592,Lee-Wagner,7,Public,Middle,CT,Albany,886744 Omar Park,10911
+1593,Anderson PLC,10,Private,Middle,CT,Albany,22302 Santos Stream,10911
+1594,"Shepherd, Howell and Howard",7,Private,Pre-K,CT,Albany,165776 Pine Drive,10911
+1595,Cook-Brooks,8,Private,Pre-K,CT,Trenton,149930 Maple Street,7511
+1596,"Carr, Rose and Clark",2,Private,Middle,CT,Trenton,1066128 Elm Circle,7511
+1597,Harrison Inc,1,Private,High,NY,Buffalo,333773 Oak Avenue,13731
+1598,Stephens and Sons,4,Public,Middle,NY,New York,733482 Santos Stream,10100
+1599,Ryan-Harris,5,Private,High,NY,New York,1215240 Santos Stream,10100
+1600,"Price, Sharp and White",1,Public,Pre-K,CT,Waterbury,460800 Alison Bridge,6156
+1601,"Mills, Anderson and Martin",1,Private,Pre-K,CT,Waterbury,1224765 Oak Avenue,6156
+1602,"Black, Morris and Hudson",7,Public,High,CT,Waterbury,1089360 Cedar Lane,6156
+1603,Mason and Sons,7,Private,Pre-K,CT,Waterbury,1376977 Pine Drive,6036
+1604,"Bender, Moran and Ferguson",8,Public,High,CT,Waterbury,341652 Chad Valley,6036
+1605,Johnson-Gonzales,8,Private,Elementary,CT,Waterbury,251985 Cedar Lane,6036
+1606,White Group,8,Public,Middle,CT,Paterson,173448 Pine Drive,7190
+1607,"Brown, Diaz and Wyatt",3,Private,Elementary,CT,Paterson,1439872 Pine Drive,7190
+1608,Johns-Shaffer,1,Public,High,CT,Paterson,992136 Pine Drive,7190
+1609,Bradley PLC,5,Private,Middle,CT,Stamford,241350 Maple Street,6188
+1610,Lee LLC,3,Public,High,CT,Waterbury,727720 Chad Valley,6004
+1611,Scott-Martin,3,Public,Middle,CT,Waterbury,989154 Chad Valley,6004
+1612,"Brooks, White and Murphy",10,Private,Middle,CT,Waterbury,535184 Alison Bridge,6373
+1613,Adams-Garner,5,Private,Middle,CT,Rochester,9678 Omar Park,14002
+1614,Willis Inc,4,Public,Middle,CT,Stamford,4842 Oak Avenue,6350
+1615,Lewis-Campbell,5,Private,High,CT,Stamford,1106275 Oak Avenue,6350
+1616,"Cisneros, Hood and Keller",10,Public,Middle,CT,Stamford,1557824 Alison Bridge,6350
+1617,Dominguez-Nelson,2,Public,Middle,CT,Rochester,918456 Maple Street,11553
+1618,"Hanna, Meadows and Higgins",7,Public,Elementary,CT,Newark,540412 Elm Circle,8248
+1619,Higgins and Sons,0,Private,Pre-K,CT,Newark,1219107 Elm Circle,8248
+1620,Saunders and Sons,9,Public,Pre-K,CT,Albany,1108080 Santos Stream,11794
+1621,Buchanan-Erickson,5,Public,Elementary,CT,Albany,1617758 Santos Stream,11794
+1622,Rivera Group,9,Private,Elementary,CT,Syracuse,1197036 Santos Stream,14894
+1623,Martin-Wright,1,Private,High,CT,Syracuse,194760 Santos Stream,14894
+1624,Lewis-Reed,5,Private,High,CT,Stamford,1002008 Dawson Terrace,6195
+1625,"Ramirez, Jennings and Buckley",5,Private,High,CT,Bridgeport,823875 Maple Street,6109
+1626,Macias Inc,8,Public,Elementary,CT,Bridgeport,653652 Maple Street,6109
+1627,"Patel, Fox and Villanueva",5,Public,Elementary,CT,Bridgeport,252185 Maple Street,6109
+1628,Perkins-Prince,5,Public,Middle,CT,Hartford,1628 Santos Stream,6170
+1629,Stout LLC,0,Public,High,CT,Newark,1427004 Cedar Lane,7198
+1630,Kelly-Newton,6,Private,High,CT,Syracuse,914430 Santos Stream,12737
+1631,Farley-Garcia,7,Public,High,CT,Newark,1099294 Oak Avenue,8754
+1632,"Khan, Moore and Hubbard",6,Public,Pre-K,CT,Newark,321504 Maple Street,8754
+1633,Garcia-Williamson,8,Private,Middle,CT,Newark,955305 Oak Avenue,8754
+1634,Wagner-Reed,0,Public,High,CT,Syracuse,472226 Chad Valley,13279
+1635,Stewart Inc,4,Public,High,CT,Trenton,186390 Chad Valley,7853
+1636,Raymond-Deleon,8,Public,High,CT,Trenton,930884 Omar Park,7853
+1637,Patel Inc,4,Public,Pre-K,NY,Buffalo,1578068 Maple Street,13391
+1638,Deleon and Sons,8,Public,Pre-K,NY,Buffalo,904176 Alison Bridge,13391
+1639,"Hart, Holland and Webster",1,Public,Elementary,CT,Bridgeport,867031 Santos Stream,6201
+1640,"Shaw, Lowe and Moss",0,Private,Middle,CT,Bridgeport,1129960 Dawson Terrace,6201
+1641,Palmer-Love,6,Private,Elementary,CT,Bridgeport,1230750 Chad Valley,6201
+1642,Garza-Marshall,6,Public,Middle,CT,Syracuse,1285686 Chad Valley,11915
+1643,Stone Inc,8,Public,Pre-K,CT,Trenton,49290 Alison Bridge,8487
+1644,"Barrera, Copeland and Cameron",6,Private,High,CT,Trenton,271260 Chad Valley,8487
+1645,Becker-Roberson,4,Public,Elementary,CT,Trenton,590555 Maple Street,8487
+1646,Sullivan LLC,1,Public,High,NY,New York,477340 Chad Valley,10894
+1647,Hicks and Sons,6,Public,Elementary,NY,New York,370575 Chad Valley,10894
+1648,Barnes-Potter,5,Private,Pre-K,NY,New York,28016 Santos Stream,10894
+1649,"Orr, Wang and Avila",8,Public,Pre-K,NY,New York,1167492 Maple Street,14204
+1650,Sanchez PLC,5,Private,Pre-K,NY,New York,1024650 Elm Circle,14204
+1651,"Wallace, Vargas and Hill",10,Public,Elementary,NY,New York,28067 Pine Drive,14204
+1652,Thompson Ltd,4,Private,Middle,CT,Rochester,270928 Chad Valley,13110
+1653,"Thomas, Fleming and Spence",3,Private,Elementary,CT,Rochester,1031472 Pine Drive,14731
+1654,Scott Inc,0,Public,Middle,CT,Waterbury,693026 Chad Valley,6210
+1655,Black Inc,2,Private,Elementary,NJ,Elizabeth,1608660 Omar Park,8976
+1656,West and Sons,9,Public,Elementary,NJ,Elizabeth,369288 Omar Park,8976
+1657,Smith PLC,4,Private,Pre-K,NJ,Elizabeth,425849 Chad Valley,8976
+1658,Anderson-Matthews,2,Public,High,NJ,Elizabeth,830658 Pine Drive,7756
+1659,"James, Travis and Barrett",6,Public,High,NJ,Elizabeth,1226001 Santos Stream,7756
+1660,Hernandez-Lynch,6,Private,Middle,CT,Newark,378480 Cedar Lane,8227
+1661,Johns and Sons,10,Public,High,CT,Newark,1342088 Cedar Lane,8227
+1662,Pollard-Frost,6,Public,Elementary,CT,Newark,383922 Santos Stream,8227
+1663,Brown-Russell,9,Private,Elementary,CT,Hartford,681830 Elm Circle,6323
+1664,Stevens PLC,9,Public,Pre-K,CT,Hartford,1549184 Cedar Lane,6323
+1665,Roberts Ltd,0,Public,Pre-K,CT,Hartford,1245420 Santos Stream,6323
+1666,Jones-Kemp,8,Private,High,CT,Syracuse,961282 Dawson Terrace,14739
+1667,"Allen, Reyes and Morgan",5,Private,Middle,NY,New York,438421 Elm Circle,14704
+1668,"Kelly, Patel and Miller",1,Public,High,CT,Jersey City,1446156 Oak Avenue,8858
+1669,Turner-Kramer,10,Public,High,CT,Jersey City,887908 Alison Bridge,8858
+1670,Wilson Ltd,2,Private,High,CT,Stamford,1215760 Pine Drive,6239
+1671,"Rivera, Moss and Campbell",3,Private,High,CT,Stamford,1054401 Alison Bridge,6219
+1672,Phillips-Weber,4,Public,Elementary,CT,Stamford,190608 Santos Stream,6219
+1673,"Gutierrez, Holland and Smith",9,Private,Middle,CT,Stamford,1224636 Elm Circle,6219
+1674,"Ward, Brown and Johnson",10,Public,Elementary,CT,Jersey City,955854 Omar Park,7514
+1675,Ryan-Perez,9,Public,Middle,CT,Jersey City,1465625 Pine Drive,7514
+1676,"Robinson, Garner and Hicks",2,Public,Pre-K,CT,Stamford,881576 Alison Bridge,6389
+1677,Terry-Burch,3,Public,High,CT,Stamford,1613274 Cedar Lane,6389
+1678,"Coleman, Smith and Bullock",0,Public,Elementary,CT,Stamford,1605846 Oak Avenue,6389
+1679,Campbell-Goodman,3,Private,Middle,NY,New York,649773 Pine Drive,11984
+1680,Garcia Inc,9,Private,Pre-K,NY,New York,688800 Maple Street,11984
+1681,"Jackson, Cardenas and Chavez",1,Private,Pre-K,NY,New York,1292689 Cedar Lane,11984
+1682,Rowe and Sons,6,Private,High,CT,Newark,292668 Maple Street,7392
+1683,Petersen Ltd,9,Public,Middle,CT,Newark,927333 Dawson Terrace,7392
+1684,Garrett Group,8,Public,Elementary,CT,Waterbury,161664 Maple Street,6113
+1685,"Marshall, Hunt and Ward",3,Public,High,NY,New York,503815 Pine Drive,12012
+1686,"Morales, Brown and Orr",7,Public,Elementary,NY,New York,731724 Oak Avenue,12012
+1687,Thomas Ltd,4,Private,Pre-K,NJ,Elizabeth,1614459 Santos Stream,8309
+1688,"Watson, Smith and Hunter",5,Public,Elementary,CT,Waterbury,1282880 Santos Stream,6348
+1689,"Camacho, Espinoza and Scott",2,Public,Elementary,CT,Waterbury,658710 Cedar Lane,6348
+1690,Morales Group,1,Private,High,CT,Waterbury,927810 Santos Stream,6348
+1691,Henry Ltd,10,Private,Elementary,CT,Rochester,1225975 Cedar Lane,11200
+1692,Hawkins-Dean,9,Private,High,CT,Waterbury,722484 Pine Drive,6231
+1693,"Cross, Huff and Walters",4,Private,Pre-K,NJ,Elizabeth,233634 Cedar Lane,7668
+1694,Kennedy-Silva,2,Public,High,NJ,Elizabeth,782628 Pine Drive,7668
+1695,Sanford and Sons,9,Public,High,NJ,Elizabeth,679695 Maple Street,7668
+1696,Diaz-Baker,4,Private,Middle,CT,Syracuse,393472 Oak Avenue,14284
+1697,Simmons-Rogers,5,Public,Elementary,CT,Syracuse,118790 Maple Street,13463
+1698,Reeves PLC,3,Public,Pre-K,CT,Rochester,237720 Alison Bridge,10929
+1699,Collins-Holloway,8,Public,High,CT,Rochester,23786 Alison Bridge,10929
+1700,English Group,8,Private,Pre-K,CT,Albany,737800 Cedar Lane,12547
+1701,Jarvis Ltd,8,Public,Middle,CT,Albany,1041012 Alison Bridge,12547
+1702,Day-Hickman,10,Private,Elementary,CT,Albany,297850 Chad Valley,12547
+1703,"Brown, Trevino and Castillo",6,Public,High,CT,Rochester,751023 Omar Park,13743
+1704,Ferguson-Sanders,1,Public,Elementary,CT,Rochester,1133160 Pine Drive,13743
+1705,Vincent-Cuevas,9,Public,Middle,CT,Rochester,736560 Elm Circle,13743
+1706,"Ramos, Rice and Hunter",9,Private,Middle,CT,Waterbury,921240 Pine Drive,6072
+1707,"Martinez, Le and Lopez",9,Public,Pre-K,CT,Waterbury,578673 Dawson Terrace,6072
+1708,"Martinez, Williams and Jones",9,Private,High,CT,Newark,280112 Alison Bridge,7207
+1709,Johnson-Ware,2,Private,Pre-K,CT,Newark,1175792 Santos Stream,7207
+1710,Lozano Inc,2,Private,Middle,NY,Buffalo,1624500 Omar Park,12941
+1711,"Simpson, Goodman and Lozano",6,Public,Elementary,NY,Buffalo,862344 Cedar Lane,12941
+1712,Patton and Sons,6,Public,Pre-K,NY,Buffalo,1006656 Oak Avenue,12941
+1713,Jackson-Anderson,10,Public,Pre-K,CT,Newark,417972 Elm Circle,8790
+1714,Richmond-Scott,8,Public,Elementary,CT,Newark,85700 Elm Circle,8790
+1715,Perez and Sons,9,Private,Pre-K,CT,Waterbury,238385 Omar Park,6124
+1716,Gray-Becker,9,Private,Elementary,CT,Waterbury,53196 Santos Stream,6124
+1717,Medina PLC,9,Private,High,CT,Syracuse,980407 Maple Street,12920
+1718,Bond-Williams,0,Public,Elementary,CT,Syracuse,307522 Santos Stream,12920
+1719,Allen-Martin,0,Private,High,NJ,Elizabeth,221751 Dawson Terrace,7016
+1720,Smith Ltd,6,Public,Elementary,NY,New York,567600 Santos Stream,13313
+1721,Smith-Richards,0,Private,Middle,NJ,Elizabeth,1237399 Pine Drive,7431
+1722,Ayala Group,2,Public,Middle,NJ,Elizabeth,747348 Elm Circle,7431
+1723,Chase LLC,2,Public,High,NJ,Elizabeth,466933 Chad Valley,7431
+1724,Jimenez Ltd,5,Private,High,CT,Stamford,1580908 Oak Avenue,6045
+1725,Miller Ltd,4,Private,Middle,CT,Newark,1699125 Maple Street,8252
+1726,Caldwell Inc,2,Private,High,CT,Newark,1480908 Santos Stream,8252
+1727,Wong-Galvan,10,Private,Elementary,NY,New York,143341 Chad Valley,13525
+1728,Thompson PLC,7,Public,Elementary,CT,Waterbury,1057536 Omar Park,6018
+1729,"Warren, Perry and Brooks",4,Private,Middle,CT,Waterbury,895622 Chad Valley,6018
+1730,Henson-Wright,2,Private,Pre-K,CT,Waterbury,1441090 Maple Street,6018
+1731,Nichols and Sons,9,Private,Elementary,CT,Paterson,1074951 Alison Bridge,8870
+1732,Larson-Young,9,Public,High,CT,Paterson,1702556 Santos Stream,8870
+1733,Taylor and Sons,5,Public,Pre-K,CT,Paterson,45058 Cedar Lane,8870
+1734,Jimenez-Christensen,10,Private,Pre-K,NY,Buffalo,475116 Omar Park,11325
+1735,"Thompson, Noble and Avila",5,Public,Elementary,NY,Buffalo,1124280 Cedar Lane,11325
+1736,"Jacobs, Miller and Bennett",10,Private,Elementary,CT,Stamford,248248 Oak Avenue,6171
+1737,"Patrick, Villarreal and Cobb",3,Public,Pre-K,CT,Stamford,1288854 Omar Park,6171
+1738,"Munoz, Lewis and Moss",6,Public,Pre-K,CT,Hartford,1644148 Maple Street,6337
+1739,"Rodriguez, Mitchell and Evans",4,Public,Middle,CT,Trenton,1318162 Cedar Lane,8245
+1740,"Sims, Myers and Williams",5,Public,High,CT,Trenton,1124040 Maple Street,8245
+1741,Howell Group,1,Private,Middle,CT,Trenton,107942 Elm Circle,8245
+1742,Norris Group,4,Private,Elementary,CT,Paterson,254332 Pine Drive,8625
+1743,Smith PLC,8,Private,Middle,CT,Paterson,599592 Dawson Terrace,8625
+1744,"Clark, Lowe and Ferguson",7,Public,Middle,NJ,Elizabeth,1367296 Maple Street,7475
+1745,"Lane, Wells and Clark",6,Private,Middle,NJ,Elizabeth,342020 Pine Drive,7475
+1746,"Thomas, Lee and Torres",2,Private,Middle,CT,Bridgeport,522054 Cedar Lane,6015
+1747,Garcia-Grant,3,Private,High,CT,Bridgeport,111808 Pine Drive,6015
+1748,"Carroll, Pitts and Turner",3,Public,High,CT,Waterbury,1534744 Dawson Terrace,6351
+1749,Williams Inc,0,Public,Pre-K,CT,Waterbury,342804 Oak Avenue,6351
+1750,Wells-Murray,8,Public,Elementary,CT,Waterbury,1093750 Cedar Lane,6351
+1751,Willis LLC,3,Private,Middle,CT,Hartford,598842 Maple Street,6249
+1752,"Fritz, Perry and Moyer",9,Private,Pre-K,CT,Bridgeport,616704 Santos Stream,6311
+1753,Smith-Kennedy,4,Private,Pre-K,CT,Bridgeport,1717940 Maple Street,6311
+1754,"Bryant, Silva and Williams",4,Public,Pre-K,CT,Bridgeport,45604 Cedar Lane,6311
+1755,Reed LLC,6,Public,High,CT,Bridgeport,191295 Oak Avenue,6281
+1756,"Boyd, Sullivan and Thompson",6,Private,Middle,CT,Bridgeport,309056 Chad Valley,6281
+1757,Rogers Ltd,5,Public,Middle,CT,Newark,363699 Alison Bridge,7512
+1758,"Rios, Rodriguez and Fuentes",7,Public,Elementary,CT,Newark,907128 Alison Bridge,7512
+1759,Cooper Ltd,5,Public,Middle,CT,Paterson,555844 Cedar Lane,8230
+1760,"Turner, Perez and Quinn",10,Public,Middle,CT,Paterson,547360 Maple Street,8230
+1761,Wyatt-Perez,0,Private,Pre-K,CT,Paterson,1037229 Chad Valley,8230
+1762,Hernandez-Baker,9,Public,Elementary,NY,New York,1552322 Cedar Lane,10191
+1763,Acevedo Ltd,10,Public,Middle,NY,New York,1572596 Maple Street,10191
+1764,"Scott, Ruiz and Davis",3,Public,High,NY,New York,1374156 Cedar Lane,10191
+1765,Rodriguez Group,4,Public,Middle,CT,Albany,63540 Elm Circle,14260
+1766,Lopez-Davis,0,Private,Pre-K,CT,Albany,1449886 Oak Avenue,14260
+1767,May LLC,8,Private,High,CT,Albany,595479 Dawson Terrace,14260
+1768,Griffith-Gonzalez,7,Public,Pre-K,CT,Bridgeport,482664 Maple Street,6366
+1769,"Freeman, Porter and Riley",3,Public,Middle,CT,Bridgeport,1231224 Chad Valley,6366
+1770,"Larson, Fitzpatrick and King",5,Public,High,CT,Bridgeport,1605390 Pine Drive,6366
+1771,Carter-Powers,3,Public,Elementary,CT,Syracuse,1494724 Maple Street,11281
+1772,"Garcia, Evans and Powers",6,Public,Elementary,CT,Syracuse,517424 Dawson Terrace,11281
+1773,Morales Inc,8,Public,High,CT,Syracuse,735795 Dawson Terrace,11281
+1774,Williams-Mosley,9,Private,High,CT,Bridgeport,1234704 Alison Bridge,6130
+1775,Reyes-Melton,4,Public,Pre-K,CT,Bridgeport,324825 Oak Avenue,6130
+1776,Mitchell and Sons,1,Private,High,CT,Stamford,497280 Alison Bridge,6358
+1777,Li-Miller,10,Private,Pre-K,CT,Stamford,954249 Cedar Lane,6358
+1778,Morgan and Sons,5,Public,Middle,CT,Albany,519176 Maple Street,12964
+1779,Martinez-Sullivan,8,Private,Pre-K,CT,Albany,1631343 Santos Stream,12964
+1780,"Hall, Zavala and Thomas",8,Private,High,CT,Albany,126380 Alison Bridge,12964
+1781,Webb-Schmitt,0,Private,High,CT,Bridgeport,1423019 Dawson Terrace,6110
+1782,Acosta LLC,2,Private,Middle,NJ,Elizabeth,507870 Santos Stream,8165
+1783,Chaney-Adams,5,Private,High,NJ,Elizabeth,276365 Omar Park,8165
+1784,Richards Inc,9,Private,High,NJ,Elizabeth,881296 Pine Drive,8165
+1785,"Perkins, Anderson and Kelly",10,Public,Elementary,NY,New York,139230 Santos Stream,14448
+1786,"Sullivan, Ball and Boyd",10,Private,Elementary,NY,New York,1307352 Dawson Terrace,14448
+1787,"Warren, Smith and Alexander",0,Private,Middle,CT,Rochester,416371 Oak Avenue,10083
+1788,Richardson PLC,7,Private,Pre-K,CT,Rochester,763476 Maple Street,10083
+1789,Walker-Smith,2,Public,Elementary,CT,Rochester,1177162 Pine Drive,10083
+1790,Taylor-King,10,Private,Pre-K,CT,Bridgeport,959440 Cedar Lane,6215
+1791,Williams Inc,10,Public,High,CT,Bridgeport,37611 Pine Drive,6358
+1792,Lopez-Mullen,3,Private,Elementary,CT,Bridgeport,1440768 Omar Park,6358
+1793,Vasquez and Sons,1,Public,Middle,CT,Bridgeport,1726659 Oak Avenue,6358
+1794,Chandler-Spears,0,Public,Middle,NJ,Elizabeth,321126 Maple Street,8032
+1795,Colon-Jacobs,8,Private,Middle,CT,New Haven,1604730 Oak Avenue,6021
+1796,"Davis, Rodriguez and White",5,Private,Elementary,CT,New Haven,1661300 Elm Circle,6021
+1797,"Mcmillan, Lopez and Smith",9,Public,Pre-K,CT,New Haven,1428615 Maple Street,6262
+1798,Morrison-Montoya,10,Private,High,CT,New Haven,339822 Chad Valley,6262
+1799,Summers and Sons,2,Public,Pre-K,CT,New Haven,320222 Santos Stream,6262
+1800,Lee Ltd,1,Public,Pre-K,CT,Bridgeport,145800 Maple Street,6189
+1801,"Bauer, Rodriguez and Patterson",7,Public,High,CT,Bridgeport,507882 Cedar Lane,6189
+1802,Williams-Payne,0,Public,High,CT,Waterbury,1538908 Pine Drive,6101
+1803,Smith Group,0,Public,Elementary,CT,Waterbury,1644336 Cedar Lane,6101
+1804,Cooper Group,5,Private,Elementary,CT,New Haven,898392 Omar Park,6226
+1805,"Dixon, Garrett and Swanson",7,Public,Elementary,CT,New Haven,1499955 Chad Valley,6226
+1806,"Martinez, Lindsey and Stewart",4,Public,Elementary,CT,New Haven,937314 Chad Valley,6226
+1807,"Scott, Carter and Romero",10,Private,Elementary,CT,Rochester,1266707 Santos Stream,13718
+1808,Shepard Group,1,Public,High,CT,Rochester,573136 Cedar Lane,13718
+1809,Hughes-Myers,6,Private,Pre-K,CT,Rochester,870129 Oak Avenue,13718
+1810,"Evans, Peters and Lopez",10,Private,Elementary,CT,Trenton,1484200 Dawson Terrace,7394
+1811,Hoffman-Parker,3,Private,Elementary,CT,Trenton,985184 Omar Park,7394
+1812,Ward-Martinez,10,Public,Pre-K,CT,Trenton,1422420 Elm Circle,7394
+1813,Sosa-Kim,4,Public,Elementary,CT,Trenton,794094 Elm Circle,8483
+1814,Robbins PLC,8,Public,Pre-K,CT,Trenton,1003142 Santos Stream,8483
+1815,Le-Larsen,7,Private,Pre-K,CT,Albany,1626240 Omar Park,14829
+1816,"Hubbard, Banks and Thompson",5,Public,High,CT,New Haven,557512 Santos Stream,6138
+1817,Johnson Group,7,Private,Middle,CT,New Haven,1528097 Pine Drive,6138
+1818,"Johnson, Gray and Elliott",7,Public,High,CT,New Haven,132714 Dawson Terrace,6138
+1819,Gonzales PLC,10,Private,Middle,CT,Stamford,1547969 Dawson Terrace,6317
+1820,"Price, Stanley and Green",8,Public,Middle,NJ,Elizabeth,726180 Pine Drive,8535
+1821,"Smith, Washington and Montoya",4,Public,Middle,NJ,Elizabeth,222162 Pine Drive,8535
+1822,Riley-Taylor,4,Public,Elementary,NJ,Elizabeth,659564 Alison Bridge,8535
+1823,Hernandez-Lopez,7,Private,High,CT,Rochester,1303445 Alison Bridge,11314
+1824,Perry Group,1,Private,Middle,CT,Rochester,339264 Oak Avenue,12272
+1825,"Burnett, Chapman and Pena",10,Public,Pre-K,CT,Rochester,1618775 Cedar Lane,12272
+1826,"Cox, Williams and Daugherty",1,Public,Elementary,NY,New York,743182 Alison Bridge,14196
+1827,"Frazier, Ross and Price",7,Private,High,CT,Jersey City,1379385 Dawson Terrace,7311
+1828,Russo Group,3,Private,Middle,CT,Jersey City,1597672 Elm Circle,7311
+1829,Duncan-Miller,1,Private,Pre-K,CT,Syracuse,358484 Maple Street,10504
+1830,"Elliott, Christian and Leach",0,Public,High,NY,New York,1480470 Elm Circle,10842
+1831,Lee-Riley,4,Private,High,NY,New York,1184657 Santos Stream,10842
+1832,Lindsey PLC,5,Public,Elementary,NY,New York,1504072 Chad Valley,10842
+1833,Obrien-Snow,6,Private,High,CT,Bridgeport,1374750 Maple Street,6192
+1834,Wright-Wells,7,Public,Elementary,CT,Syracuse,1639596 Chad Valley,10357
+1835,Morris Inc,3,Private,Middle,CT,Syracuse,1728570 Oak Avenue,10357
+1836,Johnson Ltd,6,Private,Elementary,NY,New York,392904 Santos Stream,10923
+1837,"Green, Doyle and Alvarado",0,Private,Pre-K,NY,New York,1274878 Santos Stream,10923
+1838,Reyes and Sons,1,Private,Elementary,NJ,Elizabeth,1391366 Elm Circle,8350
+1839,"Spencer, Smith and Watson",3,Private,Pre-K,NJ,Elizabeth,205968 Maple Street,8350
+1840,Harvey Group,10,Public,Elementary,CT,Syracuse,1569520 Pine Drive,13528
+1841,"Ross, Vazquez and Hooper",6,Private,High,CT,Syracuse,1632967 Pine Drive,13528
+1842,"Walker, Smith and Lee",6,Private,Middle,CT,Syracuse,86574 Omar Park,13528
+1843,Campbell LLC,8,Private,Pre-K,CT,Rochester,868053 Chad Valley,10881
+1844,"Dawson, Mccullough and Nicholson",10,Public,Elementary,CT,New Haven,129080 Santos Stream,6212
+1845,Mccall Inc,4,Private,Elementary,CT,New Haven,1437255 Oak Avenue,6286
+1846,Nixon and Sons,8,Public,Elementary,CT,New Haven,590720 Maple Street,6286
+1847,"Romero, Johnson and Jones",7,Private,High,CT,Hartford,145913 Elm Circle,6245
+1848,Leonard-Kennedy,3,Private,High,CT,Hartford,887040 Alison Bridge,6245
+1849,Williamson-Pierce,7,Public,Pre-K,CT,Trenton,61017 Maple Street,8699
+1850,"Jones, Walton and Perry",8,Private,Pre-K,CT,Trenton,497650 Oak Avenue,8699
+1851,"Robinson, Brown and Tran",1,Public,High,CT,Trenton,770016 Pine Drive,8699
+1852,Ford Ltd,7,Public,Pre-K,CT,Syracuse,1846444 Dawson Terrace,11453
+1853,Lewis LLC,2,Private,Middle,CT,Syracuse,591107 Omar Park,13108
+1854,"Barajas, Murray and Oliver",4,Public,Middle,CT,Hartford,1449828 Dawson Terrace,6337
+1855,"Murphy, Stevens and Martinez",4,Private,High,CT,Hartford,1641675 Pine Drive,6337
+1856,Johnson-Willis,6,Private,Pre-K,CT,Hartford,126208 Omar Park,6337
+1857,"Mccormick, Smith and Wood",5,Public,Elementary,CT,Hartford,471678 Alison Bridge,6323
+1858,Chen-Long,2,Public,Middle,CT,Hartford,1692638 Chad Valley,6323
+1859,Williams-Esparza,5,Public,High,CT,Hartford,1788358 Maple Street,6323
+1860,"Marquez, Garcia and Rojas",4,Public,Pre-K,CT,Waterbury,1571700 Dawson Terrace,6165
+1861,Beasley-Wise,2,Private,High,CT,Waterbury,496887 Santos Stream,6165
+1862,Carter Group,9,Private,Elementary,CT,Waterbury,1422568 Oak Avenue,6165
+1863,Lee-Martinez,5,Public,Middle,CT,Trenton,139725 Pine Drive,8841
+1864,Mcmillan Group,3,Private,High,CT,Trenton,740008 Dawson Terrace,8841
+1865,"Foster, Neal and Decker",8,Private,High,CT,Trenton,1057455 Elm Circle,8841
+1866,Morrow LLC,0,Private,High,CT,Newark,1183044 Maple Street,8139
+1867,Trujillo Ltd,5,Private,Elementary,CT,Newark,659051 Omar Park,8139
+1868,Fowler LLC,2,Public,High,CT,Newark,308220 Maple Street,8139
+1869,"Gutierrez, Castillo and Hurley",1,Public,Elementary,CT,Stamford,743862 Alison Bridge,6095
+1870,Taylor-Paul,8,Private,Elementary,CT,Stamford,86020 Santos Stream,6095
+1871,Lin-Landry,0,Public,Elementary,CT,Stamford,787691 Elm Circle,6095
+1872,"Castaneda, Hill and Johnson",7,Public,Middle,CT,Bridgeport,986544 Pine Drive,6077
+1873,Rodriguez-Richards,8,Public,Middle,CT,Bridgeport,1414115 Santos Stream,6077
+1874,"Lee, Martinez and Gibbs",0,Private,High,CT,Hartford,251116 Elm Circle,6350
+1875,Sutton Ltd,0,Private,High,CT,Paterson,76875 Cedar Lane,8324
+1876,"Crawford, Howard and Hill",6,Private,Middle,CT,Paterson,913612 Omar Park,8324
+1877,Sherman LLC,1,Public,Pre-K,CT,Paterson,1616097 Santos Stream,8324
+1878,Scott Group,0,Private,Middle,CT,Stamford,1616958 Pine Drive,6183
+1879,"Lara, Curry and Lee",2,Private,Elementary,CT,Stamford,1875242 Dawson Terrace,6183
+1880,"Schneider, Wolf and Moore",2,Public,Middle,CT,Stamford,565880 Oak Avenue,6156
+1881,Moody LLC,4,Private,Elementary,CT,Stamford,443916 Cedar Lane,6156
+1882,Thomas-Campbell,8,Private,High,CT,Stamford,1720148 Pine Drive,6156
+1883,"Davis, Berg and Schroeder",2,Public,Pre-K,CT,Rochester,1862287 Chad Valley,14617
+1884,Richard PLC,8,Public,High,CT,Rochester,1228368 Oak Avenue,14617
+1885,Smith PLC,1,Public,Elementary,NJ,Elizabeth,1421290 Maple Street,7521
+1886,"York, Nelson and Sanford",6,Private,Elementary,NY,New York,352682 Oak Avenue,13447
+1887,Coffey PLC,9,Private,Elementary,NY,New York,375513 Chad Valley,13447
+1888,"Bailey, Lewis and Thomas",1,Private,Pre-K,CT,Newark,734432 Chad Valley,7115
+1889,Jenkins Inc,10,Public,Middle,CT,Newark,530809 Cedar Lane,7115
+1890,Jones and Sons,8,Public,High,CT,Newark,657720 Pine Drive,7115
+1891,"Nichols, Cooper and Rosales",2,Private,High,CT,Waterbury,83204 Pine Drive,6050
+1892,"Rhodes, Holland and Farmer",10,Private,Middle,CT,Waterbury,1663068 Omar Park,6050
+1893,Cantu-Perez,3,Public,High,NY,Buffalo,210123 Dawson Terrace,13218
+1894,"Hoffman, Martinez and Wilson",4,Public,Pre-K,CT,Trenton,577670 Pine Drive,7783
+1895,Walters-Mitchell,0,Public,High,CT,Syracuse,1419355 Chad Valley,12776
+1896,"Doyle, Turner and Watson",6,Public,Elementary,CT,Syracuse,747024 Dawson Terrace,12776
+1897,Rojas-Nash,2,Private,Middle,CT,Albany,1530879 Alison Bridge,13613
+1898,Woodward-Good,7,Public,Pre-K,CT,Albany,1182454 Pine Drive,13613
+1899,"Park, Hall and Allen",10,Private,Middle,NJ,Elizabeth,1183077 Alison Bridge,7281
+1900,Shelton Ltd,5,Private,Pre-K,NJ,Elizabeth,389500 Alison Bridge,8280
+1901,Watkins-Shelton,3,Private,Elementary,NJ,Elizabeth,583607 Oak Avenue,8280
+1902,Reid Group,6,Public,Middle,NJ,Elizabeth,758898 Pine Drive,8280
+1903,Thomas Group,2,Public,High,CT,Rochester,666050 Maple Street,12560
+1904,Pham Inc,7,Public,Pre-K,CT,Rochester,776832 Dawson Terrace,12560
+1905,"Lamb, Tran and Olson",6,Public,Middle,CT,Paterson,85725 Alison Bridge,7864
+1906,"Taylor, Flowers and Oneal",7,Private,High,CT,Hartford,26684 Chad Valley,6094
+1907,Jimenez Group,2,Public,Middle,CT,Hartford,1491274 Chad Valley,6094
+1908,"Walker, Schultz and Harper",5,Public,Middle,CT,Jersey City,1679040 Chad Valley,7483
+1909,Patterson Group,2,Private,Middle,CT,Syracuse,1832640 Alison Bridge,14854
+1910,Schultz-Johnson,6,Public,Pre-K,CT,Syracuse,848040 Chad Valley,14854
+1911,Carson LLC,4,Private,High,CT,Syracuse,1901445 Omar Park,14854
+1912,Mitchell-Simpson,3,Private,Elementary,NY,Buffalo,665376 Cedar Lane,10420
+1913,"Williams, Rodriguez and Williams",0,Private,Pre-K,NY,Buffalo,1057889 Maple Street,10420
+1914,Ali LLC,3,Private,Pre-K,NY,Buffalo,401940 Maple Street,10420
+1915,"Gonzales, Smith and Munoz",8,Private,Pre-K,CT,Syracuse,1399865 Pine Drive,11649
+1916,"Mcdaniel, Ellis and Poole",1,Private,Elementary,CT,Syracuse,1467656 Oak Avenue,11649
+1917,Jackson-Williams,4,Private,High,CT,Syracuse,638361 Alison Bridge,11649
+1918,"Smith, Tucker and Forbes",4,Private,High,NY,Buffalo,404698 Pine Drive,14095
+1919,Graham LLC,4,Public,High,NY,Buffalo,784871 Elm Circle,14095
+1920,Powell-Anderson,2,Public,Middle,NY,Buffalo,55680 Maple Street,14095
+1921,Ray LLC,1,Public,Middle,CT,Newark,126786 Chad Valley,8377
+1922,"Davis, Green and Gross",7,Public,Middle,CT,Newark,1574118 Cedar Lane,8377
+1923,Bailey-Fuentes,8,Private,Elementary,CT,Bridgeport,471135 Maple Street,6309
+1924,Rodgers-Meyers,2,Public,Middle,CT,Bridgeport,888888 Dawson Terrace,6309
+1925,Conley PLC,2,Private,Elementary,CT,Bridgeport,433125 Chad Valley,6309
+1926,"Johnson, Acosta and Harris",6,Public,High,CT,Waterbury,1097820 Chad Valley,6306
+1927,"Cooper, Harrison and Jones",7,Public,Middle,CT,Waterbury,738041 Oak Avenue,6306
+1928,"Wells, Leach and Maynard",1,Public,Middle,CT,Waterbury,574544 Pine Drive,6306
+1929,Jimenez-Sullivan,1,Private,Pre-K,CT,Paterson,1425531 Santos Stream,7747
+1930,Smith-Hill,10,Public,Elementary,CT,Paterson,102290 Santos Stream,7747
+1931,Guerra-Gill,2,Private,High,CT,Paterson,1342045 Elm Circle,7747
+1932,Miller-Anderson,0,Private,Pre-K,CT,Syracuse,1499232 Omar Park,12407
+1933,Montoya and Sons,3,Public,Pre-K,CT,Paterson,641756 Cedar Lane,8690
+1934,Ewing Inc,9,Public,High,CT,Stamford,1127522 Cedar Lane,6235
+1935,"Nguyen, Gibson and Mcfarland",9,Public,Pre-K,CT,Stamford,735300 Omar Park,6235
+1936,Thomas-Cooper,8,Private,Elementary,CT,Stamford,619520 Pine Drive,6235
+1937,Parker Group,2,Public,Elementary,NY,New York,195637 Maple Street,12807
+1938,"Anderson, Moody and Deleon",5,Private,Middle,NY,Buffalo,643416 Cedar Lane,12529
+1939,Valentine PLC,8,Private,Pre-K,NY,New York,740698 Chad Valley,14516
+1940,Graham Ltd,5,Public,Middle,NY,New York,221160 Dawson Terrace,14516
+1941,Meyer-Shea,2,Public,Pre-K,NY,New York,1352877 Maple Street,14516
+1942,"Brooks, Mccormick and Graham",3,Private,Elementary,CT,Hartford,1712844 Maple Street,6179
+1943,Obrien Inc,4,Private,Elementary,CT,Bridgeport,1583545 Cedar Lane,6075
+1944,Williamson-Trujillo,7,Private,Elementary,CT,Bridgeport,1936224 Pine Drive,6075
+1945,Stout-May,2,Public,Pre-K,CT,Bridgeport,608785 Pine Drive,6075
+1946,"Barber, Lin and Jackson",2,Private,Elementary,CT,Syracuse,455364 Oak Avenue,12612
+1947,"Mann, Sutton and Brooks",8,Public,Pre-K,CT,Syracuse,566577 Elm Circle,12612
+1948,Terry and Sons,3,Private,Middle,CT,Syracuse,786992 Dawson Terrace,12612
+1949,Brown Group,0,Private,Pre-K,CT,Paterson,1036868 Maple Street,8405
+1950,"Ryan, Estes and Ortiz",7,Public,Middle,CT,Paterson,132600 Oak Avenue,8405
+1951,Morrison Inc,8,Private,Pre-K,CT,Paterson,148276 Santos Stream,8405
+1952,"Watson, Hester and Miller",9,Public,Middle,CT,Hartford,1817312 Alison Bridge,6037
+1953,Edwards-Jones,3,Public,Elementary,CT,Hartford,1140552 Santos Stream,6037
+1954,Jones-Hayes,8,Private,Middle,CT,Paterson,1369754 Omar Park,8779
+1955,Wolfe-Richard,10,Public,Elementary,CT,Syracuse,527850 Santos Stream,11067
+1956,Richardson-Mathis,7,Public,Elementary,CT,Syracuse,379464 Elm Circle,11067
+1957,Juarez Ltd,8,Private,Middle,CT,Waterbury,1720203 Cedar Lane,6385
+1958,Cunningham PLC,6,Public,Pre-K,CT,Waterbury,1233540 Oak Avenue,6385
+1959,Martin PLC,8,Public,Pre-K,CT,Waterbury,1069614 Oak Avenue,6385
+1960,Miles-Moore,4,Public,High,CT,Albany,1526840 Alison Bridge,11286
+1961,Lopez PLC,9,Private,Pre-K,CT,Jersey City,243164 Cedar Lane,7036
+1962,"Roth, Wu and Zavala",1,Public,High,CT,Jersey City,1801116 Pine Drive,7036
+1963,"Gibson, Ferguson and Lozano",3,Private,Pre-K,CT,Jersey City,162929 Oak Avenue,7036
+1964,"Buckley, Juarez and Martin",9,Private,Pre-K,CT,Paterson,119804 Omar Park,8440
+1965,"Woods, Snyder and Christensen",1,Public,Elementary,CT,Paterson,624870 Pine Drive,8440
+1966,Stephens and Sons,3,Public,High,CT,Rochester,786400 Omar Park,11521
+1967,"Johnson, Collins and Perry",4,Public,Pre-K,CT,Rochester,1306088 Elm Circle,11521
+1968,Peterson-Spencer,2,Private,High,CT,Rochester,360144 Pine Drive,11521
+1969,Dunn-Byrd,6,Public,Elementary,CT,Hartford,295350 Pine Drive,6126
+1970,Smith-Wilkins,1,Public,Elementary,CT,Paterson,738750 Omar Park,7447
+1971,"Wood, Turner and Murillo",0,Public,High,CT,Albany,67014 Maple Street,13995
+1972,Smith Ltd,6,Public,Elementary,CT,Albany,151844 Pine Drive,13995
+1973,"Reyes, Logan and Ortiz",8,Public,Middle,CT,Albany,992419 Chad Valley,13995
+1974,"Austin, Hall and Williams",8,Private,Middle,NY,Buffalo,228984 Pine Drive,13924
+1975,"Richards, Kane and Lester",6,Private,Elementary,CT,Rochester,1370650 Omar Park,11584
+1976,"Brown, Dixon and Hicks",0,Public,Middle,CT,Rochester,644176 Oak Avenue,11584
+1977,Perez-Davidson,7,Public,Pre-K,CT,Rochester,743352 Pine Drive,11584
+1978,Johnson-Rios,0,Public,High,NY,New York,1422182 Dawson Terrace,11805
+1979,Mcdowell-Brady,10,Public,Pre-K,NY,New York,1648507 Omar Park,11805
+1980,"Choi, Walter and Bell",2,Private,High,CT,Bridgeport,532620 Maple Street,6264
+1981,"Williams, Pena and Taylor",1,Public,Elementary,CT,Bridgeport,1432263 Dawson Terrace,6264
+1982,"Valencia, Richmond and Campbell",2,Private,Pre-K,CT,Bridgeport,57478 Cedar Lane,6264
+1983,"Smith, Young and Parker",2,Private,Elementary,CT,Syracuse,525495 Alison Bridge,14702
+1984,Goodwin PLC,10,Public,Elementary,CT,Syracuse,261888 Oak Avenue,14702
+1985,King-Jones,4,Private,High,CT,Syracuse,303705 Elm Circle,14702
+1986,Mitchell Group,4,Private,High,NY,New York,1487514 Cedar Lane,13419
+1987,Frost PLC,10,Private,High,CT,Albany,568282 Chad Valley,11950
+1988,Nicholson Inc,10,Private,Pre-K,CT,Albany,91448 Alison Bridge,11950
+1989,Jones-Andrews,1,Public,Middle,CT,Albany,916929 Elm Circle,11950
+1990,Montgomery-Waters,3,Public,High,CT,Syracuse,1012910 Pine Drive,13271
+1991,"Knapp, Jacobson and Valdez",1,Private,High,NY,New York,1821765 Alison Bridge,12965
+1992,Davila and Sons,10,Public,Pre-K,NY,New York,290832 Cedar Lane,12965
+1993,Rodriguez LLC,1,Public,High,NY,Buffalo,141503 Maple Street,11266
+1994,"Miller, Daugherty and Jenkins",4,Public,Pre-K,NY,Buffalo,925216 Maple Street,11266
+1995,"Kelly, Joseph and Washington",8,Public,Elementary,NY,Buffalo,243390 Dawson Terrace,11266
+1996,"Maldonado, Smith and Fernandez",10,Public,High,CT,New Haven,449100 Maple Street,6077
+1997,"Brown, Jackson and Hensley",9,Private,High,CT,New Haven,197703 Omar Park,6077
+1998,Smith-Good,8,Public,Elementary,CT,New Haven,1824174 Dawson Terrace,6056
+1999,Rodriguez PLC,9,Public,Elementary,CT,New Haven,177911 Cedar Lane,6056
+2000,Evans and Sons,6,Public,Elementary,CT,New Haven,896000 Cedar Lane,6056

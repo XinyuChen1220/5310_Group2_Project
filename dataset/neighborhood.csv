@@ -1,0 +1,3032 @@
+Street,City,State,neighborhood_name,crime_rate
+56162 Omar Park,New York,NY,Downtown Manhattan,1.7
+466 Dawson Terrace Apt. 858,New York,NY,South Bronx,3.6
+9026 Chad Valley,Buffalo,NY,Midtown West,6.1
+827 Santos Stream,Elizabeth,NJ,South Trenton,1.0
+3635 Alison Bridge,Stamford,CT,East Hartford,2.7
+47461 Patrick Groves,Rochester,NY,Northern Queens,9.3
+58222 Rodriguez Bridge Apt. 443,Waterbury,CT,Downtown Stamford,9.4
+1148 Christopher Harbors,Hartford,CT,North New Haven,7.1
+83270 Kelley Burg Suite 646,Hartford,CT,Downtown New London,3.2
+518 Brittney Tunnel Apt. 084,Buffalo,NY,South Staten Island,6.3
+580 Diaz Mission,Waterbury,CT,North New Haven,7.1
+1154 Victor Plains,New Haven,CT,North New Haven,7.1
+98933 Mann Islands,New York,NY,Downtown Brooklyn,4.8
+9426 Larry Corner,Stamford,CT,South Norwalk,7.0
+683 Burch Lake,Elizabeth,NJ,South Trenton,1.0
+62537 Jacob Parkway Suite 424,Jersey City,NJ,East Elizabeth,4.5
+7299 Jennifer Estate Suite 768,Buffalo,NY,Lower East Side,6.8
+731 Mccall Crossing Apt. 832,Waterbury,CT,South Norwalk,7.0
+2488 Benjamin Motorway,Buffalo,NY,Downtown Manhattan,1.7
+2235 Amanda Ports Suite 807,Hartford,CT,Downtown New London,3.2
+21835 Thomas Trail,Hartford,CT,Downtown New London,3.2
+47465 Butler Orchard,Paterson,NJ,Mid New Brunswick,7.6
+4011 Smith Oval,Syracuse,NY,Downtown Brooklyn,4.8
+26781 Lane Square Suite 759,Waterbury,CT,South Norwalk,7.0
+513 Lucas Islands Suite 945,Albany,NY,South Bronx,3.6
+1702 Alexander Trail,Newark,NJ,East Elizabeth,4.5
+835 Griffin Pass Suite 053,New York,NY,Northern Queens,9.3
+319 Castro Hollow,Syracuse,NY,Midtown East,2.1
+984 Aaron Garden,Elizabeth,NJ,Downtown Camden,1.3
+584 Anthony Vista Apt. 064,Jersey City,NJ,Mid New Brunswick,7.6
+329 Joseph Rest Apt. 948,Hartford,CT,North New Haven,7.1
+09624 Theresa Oval Apt. 727,Newark,NJ,South Trenton,1.0
+289 Myers Trail Apt. 859,Waterbury,CT,Downtown New London,3.2
+0182 Marissa Groves,Paterson,NJ,Downtown Camden,1.3
+54309 Karen Plains,New Haven,CT,South Norwalk,7.0
+1353 Villegas Courts Suite 207,Albany,NY,Downtown Manhattan,1.7
+011 Cooper Island,Syracuse,NY,Northern Queens,9.3
+1839 Watson Ridges Suite 648,Stamford,CT,North New Haven,7.1
+4304 Susan Centers,Trenton,NJ,Mid New Brunswick,7.6
+23879 Andrew Mews Suite 567,Newark,NJ,South Trenton,1.0
+9813 Michael Manors Apt. 084,Jersey City,NJ,South Trenton,1.0
+8447 Amanda Pines Suite 502,Bridgeport,CT,South Norwalk,7.0
+830 White Orchard,Elizabeth,NJ,South Trenton,1.0
+6211 Richmond Pass Suite 288,Paterson,NJ,East Elizabeth,4.5
+152 Santiago Oval,New Haven,CT,East Hartford,2.7
+799 Howell Pass Apt. 324,Bridgeport,CT,Downtown Stamford,9.4
+36986 Christina Summit Suite 923,Hartford,CT,South Norwalk,7.0
+030 Daniel Isle,Newark,NJ,East Elizabeth,4.5
+42067 Victoria Run Apt. 699,Buffalo,NY,North Staten Island,2.0
+18389 Kendra Harbor,New York,NY,Upper West Side,7.7
+3047 Shannon Road,Albany,NY,West Bronx,1.7
+413 Shawna Inlet,Stamford,CT,South Norwalk,7.0
+29565 Deborah Expressway,Paterson,NJ,Downtown Camden,1.3
+744 Young Street,Rochester,NY,Midtown West,6.1
+4942 Buchanan Turnpike Apt. 925,New York,NY,Midtown West,6.1
+36889 Yolanda Ridge,Buffalo,NY,Downtown Manhattan,1.7
+872 Allison Trace,Trenton,NJ,East Elizabeth,4.5
+280 Hardy Parks Apt. 900,Newark,NJ,Mid New Brunswick,7.6
+7133 Logan Trail,Waterbury,CT,South Norwalk,7.0
+48804 Price Hollow,New York,NY,South Bronx,3.6
+823 Sheryl Coves,Waterbury,CT,Downtown New London,3.2
+439 Matthew Green,Waterbury,CT,East Hartford,2.7
+9540 Steven Mount Suite 229,Elizabeth,NJ,South Trenton,1.0
+83933 Wendy Gardens,New Haven,CT,South Norwalk,7.0
+045 Roger Radial Suite 353,Jersey City,NJ,South Trenton,1.0
+85983 Matthew Terrace,Elizabeth,NJ,South Trenton,1.0
+4491 Stephanie Mill,New Haven,CT,South Norwalk,7.0
+48576 Schmidt Flat Suite 069,Syracuse,NY,East Bronx,5.7
+04615 Elizabeth Harbor,Bridgeport,CT,Downtown Stamford,9.4
+179 Michael Isle,New York,NY,Upper East Side,8.0
+0521 Herman Fields,Waterbury,CT,Downtown New London,3.2
+667 Lowery Club,Bridgeport,CT,Downtown New London,3.2
+8397 Michael Shoal Apt. 670,Newark,NJ,Mid New Brunswick,7.6
+003 Kristina Prairie,Hartford,CT,South Norwalk,7.0
+47277 Smith Ford Suite 091,Bridgeport,CT,Downtown Stamford,9.4
+2946 Lee Groves Apt. 304,Jersey City,NJ,Mid New Brunswick,7.6
+09046 Joseph Corner Suite 756,Rochester,NY,Upper West Side,7.7
+534 Bradley Streets Apt. 676,Buffalo,NY,Northern Queens,9.3
+8041 Jackson Estate Apt. 846,Waterbury,CT,South Norwalk,7.0
+3861 Rios Branch Apt. 135,Newark,NJ,East Elizabeth,4.5
+28839 Joseph Springs,Syracuse,NY,Lower East Side,6.8
+25019 Thomas Creek Suite 704,Hartford,CT,North New Haven,7.1
+1460 White Fords,Waterbury,CT,East Hartford,2.7
+26608 White Ports Suite 161,Newark,NJ,South Trenton,1.0
+7883 William Walk Apt. 308,Bridgeport,CT,Downtown Stamford,9.4
+51049 Misty Circles Suite 438,Stamford,CT,North New Haven,7.1
+287 Jimenez Flats,Elizabeth,NJ,East Elizabeth,4.5
+9741 King Terrace Suite 268,Waterbury,CT,Downtown New London,3.2
+6540 Brooke Junction Suite 152,Paterson,NJ,Mid New Brunswick,7.6
+8606 Sandra Pike,Paterson,NJ,Mid New Brunswick,7.6
+01545 White Lodge Suite 202,Newark,NJ,Mid New Brunswick,7.6
+94797 Lisa Route Apt. 380,Buffalo,NY,South Staten Island,6.3
+489 Bray Fords,Elizabeth,NJ,Mid New Brunswick,7.6
+298 Romero Plains Suite 816,Albany,NY,Lower East Side,6.8
+283 Rachel Fall Apt. 645,Hartford,CT,North New Haven,7.1
+646 Joel Circle,Elizabeth,NJ,East Elizabeth,4.5
+0501 Brenda Rapid Suite 444,Stamford,CT,East Hartford,2.7
+395 Patricia Mount,Paterson,NJ,South Trenton,1.0
+62244 Ewing Groves,New Haven,CT,North New Haven,7.1
+701 Marshall Hollow,Syracuse,NY,Northern Queens,9.3
+835 Michelle Mills Suite 934,Elizabeth,NJ,South Trenton,1.0
+3609 Shane Ramp,Waterbury,CT,North New Haven,7.1
+9861 Forbes Shoal,Stamford,CT,South Norwalk,7.0
+53189 Livingston Shore Apt. 723,Trenton,NJ,Downtown Camden,1.3
+1534 Paula Expressway Apt. 981,Buffalo,NY,Upper East Side,8.0
+8888 Keith Walk Apt. 703,Newark,NJ,South Trenton,1.0
+5669 Hill Ridge Suite 402,Trenton,NJ,East Elizabeth,4.5
+1763 Thomas Heights,New Haven,CT,East Hartford,2.7
+5449 Kemp Dale,Trenton,NJ,Downtown Camden,1.3
+94502 Nancy Mission Apt. 018,Syracuse,NY,Downtown Manhattan,1.7
+59732 Morris Drive Apt. 505,Hartford,CT,North New Haven,7.1
+911 Reyes Heights Apt. 958,Bridgeport,CT,South Norwalk,7.0
+8583 White Forges,Elizabeth,NJ,South Trenton,1.0
+069 Gary Estate Suite 379,Buffalo,NY,Midtown West,6.1
+3419 Andrea Summit,Syracuse,NY,Northern Queens,9.3
+0545 Santana Canyon Apt. 173,Hartford,CT,South Norwalk,7.0
+955 Schultz Ways,Elizabeth,NJ,South Trenton,1.0
+123 Garcia Circle,Paterson,NJ,East Elizabeth,4.5
+08970 Taylor Roads,New Haven,CT,North New Haven,7.1
+286 Jose Roads Suite 724,Rochester,NY,Midtown East,2.1
+96660 Hall Squares,Bridgeport,CT,North New Haven,7.1
+1152 Christopher Corners,New York,NY,Midtown East,2.1
+7382 Amanda Loaf,Rochester,NY,Northern Queens,9.3
+21344 Wallace Well Suite 337,Albany,NY,West Bronx,1.7
+157 Davis Island,Elizabeth,NJ,South Trenton,1.0
+15853 Lisa Tunnel Apt. 298,Paterson,NJ,East Elizabeth,4.5
+624 Daniel Avenue,Bridgeport,CT,East Hartford,2.7
+123 Lawson River Suite 637,Waterbury,CT,Downtown Stamford,9.4
+6498 Samantha Road,Hartford,CT,North New Haven,7.1
+1345 Hanson Falls,Hartford,CT,South Norwalk,7.0
+2673 Robert Place Suite 072,Paterson,NJ,South Trenton,1.0
+8219 Davis Motorway,Rochester,NY,Lower West Side,1.5
+62084 Cassandra Isle,Elizabeth,NJ,South Trenton,1.0
+987 Stephanie Brooks,Elizabeth,NJ,Downtown Camden,1.3
+71426 Barnett Squares,Bridgeport,CT,East Hartford,2.7
+67399 James Mill,Waterbury,CT,North New Haven,7.1
+00950 Brown Cape Apt. 585,Buffalo,NY,Downtown Brooklyn,4.8
+582 Linda Fields Apt. 578,Jersey City,NJ,South Trenton,1.0
+7817 Hannah Manor Suite 043,Newark,NJ,Mid New Brunswick,7.6
+446 Davidson Meadows Apt. 274,Hartford,CT,South Norwalk,7.0
+33862 William Crossing Suite 088,Syracuse,NY,Lower West Side,1.5
+7015 Shari Glen,Albany,NY,Northern Queens,9.3
+0041 Mills Flat Apt. 698,Rochester,NY,South Bronx,3.6
+54477 Jake Turnpike Apt. 815,Stamford,CT,Downtown Stamford,9.4
+104 Samantha Keys Apt. 262,Hartford,CT,Downtown New London,3.2
+48571 Mitchell Valley Suite 546,Elizabeth,NJ,Mid New Brunswick,7.6
+08004 Ramirez Port Suite 575,Stamford,CT,Downtown Stamford,9.4
+606 Jeffrey Tunnel Apt. 204,Paterson,NJ,Mid New Brunswick,7.6
+0860 Walter Mountain Apt. 475,Stamford,CT,Downtown New London,3.2
+9622 Duffy Points Apt. 767,New York,NY,Lower East Side,6.8
+78182 Keith Gardens Apt. 910,New Haven,CT,Downtown Stamford,9.4
+708 Choi Streets,Trenton,NJ,East Elizabeth,4.5
+6216 Nicholas Mews,Syracuse,NY,Upper West Side,7.7
+406 Ramos Ferry,Paterson,NJ,Downtown Camden,1.3
+560 Mark Park,Newark,NJ,Downtown Camden,1.3
+75200 Smith Glen,Albany,NY,Downtown Manhattan,1.7
+7380 Patricia Parkway Apt. 885,Bridgeport,CT,South Norwalk,7.0
+182 Alexandra Isle,Trenton,NJ,South Trenton,1.0
+740 Jennifer Ranch,Trenton,NJ,South Trenton,1.0
+1498 Nicholas Court,Hartford,CT,South Norwalk,7.0
+833 Nash Crescent,Hartford,CT,Downtown New London,3.2
+28997 Scott Points,Elizabeth,NJ,Mid New Brunswick,7.6
+81289 Robert Fort Suite 707,Trenton,NJ,Downtown Camden,1.3
+4471 Bill Spring Apt. 068,Newark,NJ,Downtown Camden,1.3
+2607 Gonzalez Drive Suite 723,Paterson,NJ,Mid New Brunswick,7.6
+03167 Webb Mission Apt. 780,Stamford,CT,South Norwalk,7.0
+98618 Jacqueline Wells,Newark,NJ,Mid New Brunswick,7.6
+42647 Morris Mews Suite 430,Elizabeth,NJ,South Trenton,1.0
+238 Molina Ford,New Haven,CT,East Hartford,2.7
+29426 Lara Fords,Hartford,CT,Downtown New London,3.2
+3138 Erin View,Bridgeport,CT,East Hartford,2.7
+88844 Heather Curve,Elizabeth,NJ,Mid New Brunswick,7.6
+13978 Robert Heights Apt. 755,Stamford,CT,Downtown New London,3.2
+038 Hebert Burg Suite 847,Jersey City,NJ,Downtown Camden,1.3
+316 Potts Parkway,New York,NY,Midtown East,2.1
+966 Lopez Vista,Waterbury,CT,North New Haven,7.1
+7905 Reid Lane Suite 560,Trenton,NJ,Downtown Camden,1.3
+388 Hall Lane Suite 950,New York,NY,West Bronx,1.7
+943 Mclean Trail Apt. 292,Syracuse,NY,East Bronx,5.7
+380 Roberts Cliffs Apt. 351,Trenton,NJ,Mid New Brunswick,7.6
+99135 Cindy Branch,Paterson,NJ,East Elizabeth,4.5
+209 Johnson Shores,New Haven,CT,South Norwalk,7.0
+92799 Gutierrez Wall Apt. 782,Jersey City,NJ,Mid New Brunswick,7.6
+814 Edwards Route Apt. 719,Bridgeport,CT,North New Haven,7.1
+920 Wilson Courts,Jersey City,NJ,Mid New Brunswick,7.6
+83300 James Passage Suite 988,Stamford,CT,Downtown New London,3.2
+6265 Brown Divide,Albany,NY,Lower West Side,1.5
+92580 Michael Island,Bridgeport,CT,North New Haven,7.1
+86312 Mary Fork,Trenton,NJ,South Trenton,1.0
+975 Glover Burg,Jersey City,NJ,Mid New Brunswick,7.6
+299 Butler Garden Suite 525,New York,NY,East Bronx,5.7
+6258 Joseph Mountains Apt. 476,Syracuse,NY,Northern Queens,9.3
+383 Clark Cove Suite 275,Rochester,NY,North Staten Island,2.0
+003 Gabriela Mountains,Newark,NJ,East Elizabeth,4.5
+472 Chang Rest,Syracuse,NY,Upper East Side,8.0
+48386 Stephen Forges,Trenton,NJ,South Trenton,1.0
+76807 Hall Key,Newark,NJ,East Elizabeth,4.5
+9041 Phillips Cliff Suite 644,Buffalo,NY,Upper East Side,8.0
+266 Aaron Skyway,Jersey City,NJ,Mid New Brunswick,7.6
+623 Lisa Highway,Syracuse,NY,Upper East Side,8.0
+4330 Williams Valley Apt. 864,Rochester,NY,Lower East Side,6.8
+6001 Lee Park Suite 539,Waterbury,CT,North New Haven,7.1
+2352 Knight Springs Suite 205,Rochester,NY,Lower West Side,1.5
+474 Aguilar Expressway Apt. 641,New Haven,CT,Downtown New London,3.2
+5192 Monica Lock Apt. 171,Buffalo,NY,Midtown East,2.1
+1254 Dale Throughway Suite 725,Hartford,CT,Downtown New London,3.2
+0557 Ford Springs,Waterbury,CT,East Hartford,2.7
+582 Jessica Roads,Buffalo,NY,West Bronx,1.7
+3200 George Neck,Stamford,CT,Downtown Stamford,9.4
+7320 King Dam,Syracuse,NY,West Bronx,1.7
+683 Wright Station,Waterbury,CT,North New Haven,7.1
+361 Sarah Trace,New York,NY,South Bronx,3.6
+205 Kevin Crescent,Elizabeth,NJ,East Elizabeth,4.5
+22159 Rollins Fields Apt. 367,Paterson,NJ,East Elizabeth,4.5
+07330 Thomas Lakes Suite 349,Hartford,CT,East Hartford,2.7
+254 Smith Crest Apt. 208,Buffalo,NY,South Staten Island,6.3
+2763 Dana Mountains,Rochester,NY,Northern Queens,9.3
+6661 Anderson Route,Buffalo,NY,Downtown Manhattan,1.7
+894 Jessica Isle Apt. 347,Buffalo,NY,Downtown Brooklyn,4.8
+6963 Rodriguez Run Apt. 337,Newark,NJ,South Trenton,1.0
+846 Christine Trail Suite 175,Paterson,NJ,Downtown Camden,1.3
+481 Jones Points,Bridgeport,CT,South Norwalk,7.0
+99303 Jorge Key Apt. 029,Syracuse,NY,South Bronx,3.6
+64827 Lambert Creek,Albany,NY,Lower East Side,6.8
+5177 Waters Square Apt. 838,Syracuse,NY,Upper West Side,7.7
+963 Francisco Stravenue Apt. 994,Jersey City,NJ,Downtown Camden,1.3
+7874 Johnson Curve Suite 390,Newark,NJ,Mid New Brunswick,7.6
+460 Moore Station Apt. 961,Jersey City,NJ,Downtown Camden,1.3
+6088 Christian Drive,Jersey City,NJ,South Trenton,1.0
+001 Hannah Divide,Buffalo,NY,Upper East Side,8.0
+225 Johnson Circle Apt. 289,New York,NY,Lower West Side,1.5
+6199 Sampson Locks,Stamford,CT,North New Haven,7.1
+5470 Maria Gateway,Trenton,NJ,Mid New Brunswick,7.6
+969 Kristi Glens Apt. 737,Syracuse,NY,Midtown West,6.1
+2574 Fitzpatrick Lodge,Bridgeport,CT,East Hartford,2.7
+1915 Jennifer Pass Apt. 611,Waterbury,CT,Downtown New London,3.2
+1689 Kathleen Lake Suite 807,Hartford,CT,South Norwalk,7.0
+990 Matthew Underpass,Stamford,CT,Downtown Stamford,9.4
+09646 Jackson Dam,Syracuse,NY,Lower East Side,6.8
+628 David Views Apt. 020,Syracuse,NY,Upper East Side,8.0
+541 King Streets,Hartford,CT,South Norwalk,7.0
+4764 Shaw Street,Syracuse,NY,Midtown East,2.1
+6114 John Tunnel Suite 599,Albany,NY,Lower West Side,1.5
+6592 Michael Route,New Haven,CT,South Norwalk,7.0
+66147 Gregory Port,Newark,NJ,East Elizabeth,4.5
+033 Jennifer Orchard,Newark,NJ,Mid New Brunswick,7.6
+6299 Robert Knoll,Syracuse,NY,Upper West Side,7.7
+53273 Lisa Harbor,Rochester,NY,Northern Queens,9.3
+641 Perry Cliff,Trenton,NJ,Downtown Camden,1.3
+974 Wendy Pass,Elizabeth,NJ,East Elizabeth,4.5
+4912 Cruz Glen Apt. 365,Hartford,CT,Downtown Stamford,9.4
+482 Christopher Forges,Elizabeth,NJ,Mid New Brunswick,7.6
+0982 Mooney Islands,Elizabeth,NJ,East Elizabeth,4.5
+71607 Jason Mews,Syracuse,NY,Downtown Brooklyn,4.8
+15523 Cook Street,New Haven,CT,Downtown New London,3.2
+0630 Smith Inlet Suite 488,Albany,NY,Downtown Manhattan,1.7
+4370 Guerrero Estates Apt. 392,Jersey City,NJ,Downtown Camden,1.3
+957 Johnson Vista,Waterbury,CT,North New Haven,7.1
+7074 Kurt Extensions Suite 086,Elizabeth,NJ,East Elizabeth,4.5
+1537 Brooke Glen,Rochester,NY,South Bronx,3.6
+600 Taylor Mall Apt. 717,Rochester,NY,North Staten Island,2.0
+75457 John Gardens Suite 771,Stamford,CT,Downtown New London,3.2
+3655 Gregory Rest,Albany,NY,Downtown Manhattan,1.7
+752 Ashley Roads,Rochester,NY,East Bronx,5.7
+23589 Gray Road,Paterson,NJ,Mid New Brunswick,7.6
+2308 Day Street,Buffalo,NY,Lower West Side,1.5
+26075 Chris Parks Suite 840,Jersey City,NJ,Downtown Camden,1.3
+52746 Valerie Junctions Suite 339,Newark,NJ,Downtown Camden,1.3
+39216 Ellen Spring Apt. 846,Bridgeport,CT,Downtown Stamford,9.4
+40745 Tracy Walks,Albany,NY,Northern Queens,9.3
+43884 Hanna Club Apt. 963,Bridgeport,CT,East Hartford,2.7
+697 John Passage,Paterson,NJ,Mid New Brunswick,7.6
+39539 Maria Falls,Jersey City,NJ,Mid New Brunswick,7.6
+47304 Tammy Lakes,Hartford,CT,South Norwalk,7.0
+6054 Joshua Unions Suite 614,New Haven,CT,North New Haven,7.1
+9777 Mitchell Motorway Apt. 339,Waterbury,CT,East Hartford,2.7
+315 Colton Coves,Bridgeport,CT,East Hartford,2.7
+188 Thompson Road Suite 022,Jersey City,NJ,Mid New Brunswick,7.6
+19100 Julia Ford,Elizabeth,NJ,Downtown Camden,1.3
+3709 David Causeway,Jersey City,NJ,South Trenton,1.0
+8626 Eric Islands,Bridgeport,CT,Downtown Stamford,9.4
+592 Sonia Drive,Albany,NY,South Staten Island,6.3
+815 Jasmine Spur Suite 539,Buffalo,NY,Lower East Side,6.8
+795 Morgan Flat,Newark,NJ,East Elizabeth,4.5
+37154 Chelsea Square,Hartford,CT,South Norwalk,7.0
+6604 Lori Island,Syracuse,NY,South Staten Island,6.3
+7176 Andrew Ridges Suite 615,Buffalo,NY,Midtown East,2.1
+2139 Stevenson Wells Apt. 265,Hartford,CT,North New Haven,7.1
+30727 Alyssa Mountain Apt. 496,Rochester,NY,Upper East Side,8.0
+80287 Benjamin Row,Stamford,CT,North New Haven,7.1
+76843 Robertson Grove Apt. 260,New York,NY,East Bronx,5.7
+045 Smith Club Apt. 010,Paterson,NJ,Mid New Brunswick,7.6
+3891 Laurie Tunnel Apt. 175,Paterson,NJ,Mid New Brunswick,7.6
+9678 Steven Junctions,Rochester,NY,East Bronx,5.7
+06608 Shaw Mission Apt. 847,New Haven,CT,North New Haven,7.1
+50818 Cooper Trace,Waterbury,CT,East Hartford,2.7
+5251 Clark Neck,Albany,NY,Lower East Side,6.8
+96765 Krista Hills Apt. 086,Bridgeport,CT,North New Haven,7.1
+52686 Christina Islands,Newark,NJ,Mid New Brunswick,7.6
+17012 Jill Court Suite 277,Bridgeport,CT,North New Haven,7.1
+96215 Brown Island,Newark,NJ,Downtown Camden,1.3
+901 Woods Forks,New Haven,CT,Downtown New London,3.2
+97374 Ramirez Street Apt. 049,Waterbury,CT,South Norwalk,7.0
+41458 Scott Keys,Elizabeth,NJ,Downtown Camden,1.3
+3202 Burton Forge Apt. 434,Newark,NJ,Mid New Brunswick,7.6
+63053 Kevin Crest Suite 954,Elizabeth,NJ,Mid New Brunswick,7.6
+371 Gray Islands Apt. 713,Paterson,NJ,East Elizabeth,4.5
+63937 Oscar Springs,Paterson,NJ,Downtown Camden,1.3
+1077 Wright Run Suite 050,Newark,NJ,East Elizabeth,4.5
+26267 Kelley Meadow,New Haven,CT,East Hartford,2.7
+6017 Martinez Locks,Newark,NJ,South Trenton,1.0
+49916 Sara Springs Apt. 557,Albany,NY,Downtown Brooklyn,4.8
+823 Ana Cliffs,Hartford,CT,Downtown New London,3.2
+2292 Sarah Extensions,New York,NY,Northern Queens,9.3
+02660 Erickson Hills,Newark,NJ,East Elizabeth,4.5
+6606 Smith Track Apt. 876,Trenton,NJ,Mid New Brunswick,7.6
+83985 Mark Mall Suite 080,Bridgeport,CT,North New Haven,7.1
+93695 Scott Forest Suite 886,Rochester,NY,Lower West Side,1.5
+202 Hannah Islands,Rochester,NY,East Bronx,5.7
+94573 Jackson Mill,New Haven,CT,South Norwalk,7.0
+574 Miller Spurs Apt. 999,Paterson,NJ,East Elizabeth,4.5
+415 Jonathan Ways Suite 520,Albany,NY,South Staten Island,6.3
+4380 Anita Crossing Suite 563,Elizabeth,NJ,South Trenton,1.0
+2119 Sara Motorway Apt. 774,Syracuse,NY,Lower East Side,6.8
+40009 Erin Knolls Suite 237,Paterson,NJ,East Elizabeth,4.5
+6033 Macdonald Mount Suite 738,Trenton,NJ,Downtown Camden,1.3
+93717 Williams Curve Suite 133,Rochester,NY,South Staten Island,6.3
+7109 Wallace Roads Suite 079,Buffalo,NY,Downtown Manhattan,1.7
+7063 Kimberly Points Apt. 863,Jersey City,NJ,East Elizabeth,4.5
+52749 Crane Road Suite 312,New Haven,CT,Downtown Stamford,9.4
+425 Blevins Corners Suite 113,New Haven,CT,South Norwalk,7.0
+019 James Meadows,Newark,NJ,East Elizabeth,4.5
+69477 Stewart Orchard Apt. 810,Waterbury,CT,South Norwalk,7.0
+789 Samuel Pine,Trenton,NJ,Downtown Camden,1.3
+952 Madison Trail Suite 248,Paterson,NJ,Downtown Camden,1.3
+068 John Falls,Paterson,NJ,Downtown Camden,1.3
+71617 Amy Pass,Newark,NJ,South Trenton,1.0
+2395 Shannon Road,Jersey City,NJ,East Elizabeth,4.5
+52712 Lisa Well Suite 172,Paterson,NJ,South Trenton,1.0
+92942 John Meadow Apt. 040,Rochester,NY,Northern Queens,9.3
+9053 Jennifer Brooks Apt. 542,Syracuse,NY,Downtown Brooklyn,4.8
+718 Cynthia Plaza,Newark,NJ,South Trenton,1.0
+8530 Perez Plains Apt. 165,Trenton,NJ,Mid New Brunswick,7.6
+2895 Kennedy Cove Apt. 770,Bridgeport,CT,South Norwalk,7.0
+9136 Perkins Plaza,Stamford,CT,North New Haven,7.1
+703 Guzman Ford,Albany,NY,Northern Queens,9.3
+68578 Barker Loop Apt. 195,Hartford,CT,Downtown New London,3.2
+7613 Ferguson Union,Buffalo,NY,Lower East Side,6.8
+99170 Debra Prairie Apt. 246,Hartford,CT,North New Haven,7.1
+485 James Fork Apt. 035,Stamford,CT,Downtown Stamford,9.4
+7908 Christensen Curve Apt. 960,Paterson,NJ,East Elizabeth,4.5
+83538 Harrington Unions,Paterson,NJ,Downtown Camden,1.3
+8244 Mccann Ridges,Waterbury,CT,East Hartford,2.7
+38068 Troy Route Apt. 248,Rochester,NY,North Staten Island,2.0
+7115 Williams Manors Suite 438,Albany,NY,Upper East Side,8.0
+08212 Roberts Courts,Albany,NY,South Bronx,3.6
+239 Peter Junctions Apt. 579,Albany,NY,Midtown East,2.1
+8012 Gavin Prairie,Stamford,CT,Downtown New London,3.2
+733 Flynn Drive Apt. 016,Waterbury,CT,North New Haven,7.1
+8327 Savannah Harbor Suite 754,New Haven,CT,South Norwalk,7.0
+70693 Michael Dale Suite 028,Rochester,NY,Downtown Brooklyn,4.8
+266 Ethan Alley Suite 781,Bridgeport,CT,South Norwalk,7.0
+16361 Benjamin Burgs Suite 510,Rochester,NY,Upper East Side,8.0
+9954 Aaron Isle Apt. 096,Paterson,NJ,Mid New Brunswick,7.6
+9013 Holly Row,New Haven,CT,East Hartford,2.7
+383 Keller Well,Albany,NY,Downtown Manhattan,1.7
+674 Andrew Rest Suite 002,Jersey City,NJ,Mid New Brunswick,7.6
+884 Brenda Greens Apt. 188,Hartford,CT,Downtown New London,3.2
+83849 Swanson Lane Apt. 448,Buffalo,NY,South Bronx,3.6
+889 Fields Crossroad,Paterson,NJ,East Elizabeth,4.5
+1626 James Vista Apt. 998,New Haven,CT,Downtown New London,3.2
+0854 Ashley Haven Apt. 596,Albany,NY,Upper East Side,8.0
+3612 Castro Island Suite 667,Elizabeth,NJ,East Elizabeth,4.5
+58754 Regina Common,Trenton,NJ,Mid New Brunswick,7.6
+00604 Powell Grove,Trenton,NJ,Downtown Camden,1.3
+32901 Dustin Park,Syracuse,NY,Lower East Side,6.8
+474 Christina Street,Paterson,NJ,South Trenton,1.0
+52844 Long Underpass,Trenton,NJ,Downtown Camden,1.3
+930 Patricia Vista,Newark,NJ,Mid New Brunswick,7.6
+85557 Mendoza Inlet Suite 662,Hartford,CT,East Hartford,2.7
+33227 John Turnpike Suite 572,Syracuse,NY,Upper East Side,8.0
+422 Joshua Pass Suite 303,New Haven,CT,Downtown Stamford,9.4
+275 Smith Overpass,Paterson,NJ,Downtown Camden,1.3
+42719 Courtney Gardens,Albany,NY,South Bronx,3.6
+18526 Day Meadows Apt. 855,Waterbury,CT,Downtown Stamford,9.4
+19685 Morgan Wall Apt. 909,Bridgeport,CT,North New Haven,7.1
+37636 Beck Drive,Paterson,NJ,South Trenton,1.0
+0849 Burgess Land,Paterson,NJ,South Trenton,1.0
+886 John Station,Paterson,NJ,Downtown Camden,1.3
+02959 Li Mill Apt. 623,Elizabeth,NJ,Mid New Brunswick,7.6
+060 Hicks Pine,Rochester,NY,North Staten Island,2.0
+87308 Grant Motorway Apt. 073,Stamford,CT,Downtown New London,3.2
+19912 Ricardo Well,New Haven,CT,South Norwalk,7.0
+1087 Jose Loaf Apt. 621,New Haven,CT,North New Haven,7.1
+42577 Preston Pass Apt. 102,Rochester,NY,Downtown Brooklyn,4.8
+54648 Jackson Oval Apt. 381,Rochester,NY,Downtown Manhattan,1.7
+36889 Johnson Corner,Rochester,NY,West Bronx,1.7
+58932 Marshall Drives Suite 096,Jersey City,NJ,Downtown Camden,1.3
+816 Morales Harbor Apt. 372,Trenton,NJ,East Elizabeth,4.5
+7600 Winters Court Apt. 654,New York,NY,Upper West Side,7.7
+350 James Cliff Apt. 247,Bridgeport,CT,North New Haven,7.1
+1388 Weeks Coves,Newark,NJ,Downtown Camden,1.3
+3610 Greer Hills Suite 272,Hartford,CT,North New Haven,7.1
+51727 Munoz Squares,Bridgeport,CT,East Hartford,2.7
+20728 Anderson Cape,Newark,NJ,East Elizabeth,4.5
+199 Roger Terrace,Bridgeport,CT,East Hartford,2.7
+110 Carl Route,Bridgeport,CT,South Norwalk,7.0
+57381 Connor Dam Suite 138,Paterson,NJ,South Trenton,1.0
+4504 Franklin Harbors Apt. 674,Paterson,NJ,Mid New Brunswick,7.6
+2235 Amy Mount Apt. 426,Elizabeth,NJ,Downtown Camden,1.3
+4031 Keith Square,Elizabeth,NJ,Mid New Brunswick,7.6
+076 James Village Apt. 667,Buffalo,NY,South Bronx,3.6
+103 Ryan Junction Suite 320,Hartford,CT,North New Haven,7.1
+227 Johnston Wall,Jersey City,NJ,Downtown Camden,1.3
+21822 Long Fields Apt. 923,Trenton,NJ,Mid New Brunswick,7.6
+73206 Christopher Harbor,New Haven,CT,Downtown New London,3.2
+221 Thompson Knoll,Waterbury,CT,Downtown New London,3.2
+9444 Amber Radial,Buffalo,NY,East Bronx,5.7
+28639 Robert Street,Bridgeport,CT,Downtown New London,3.2
+92104 Morrison Corner,Paterson,NJ,East Elizabeth,4.5
+6679 Baker Passage Suite 631,Trenton,NJ,Downtown Camden,1.3
+303 Andrew Hill,Elizabeth,NJ,Downtown Camden,1.3
+0080 Walker Mountain Suite 704,Syracuse,NY,Lower West Side,1.5
+354 Medina Fields Apt. 684,Syracuse,NY,Upper East Side,8.0
+79475 Ashley Meadow Suite 908,New Haven,CT,Downtown New London,3.2
+48117 Reynolds Loop,Albany,NY,South Staten Island,6.3
+2134 Cervantes Falls,New York,NY,Midtown West,6.1
+41291 Stephen Garden,Buffalo,NY,West Bronx,1.7
+661 Gonzalez Dale,Hartford,CT,Downtown New London,3.2
+38838 Townsend Lock,New York,NY,Midtown West,6.1
+15305 Murphy Lake,Buffalo,NY,West Bronx,1.7
+88714 Weaver Row,New York,NY,Downtown Brooklyn,4.8
+9348 Lauren Wells,Newark,NJ,Mid New Brunswick,7.6
+98590 Anna Shores,Elizabeth,NJ,East Elizabeth,4.5
+8530 Bryant Bridge Apt. 679,Elizabeth,NJ,East Elizabeth,4.5
+90691 Lauren Greens Suite 188,Albany,NY,Lower West Side,1.5
+34164 Anderson Lodge Suite 227,New Haven,CT,South Norwalk,7.0
+65608 Munoz Point Suite 692,New York,NY,Lower West Side,1.5
+920 Espinoza Rest Suite 281,Stamford,CT,East Hartford,2.7
+940 Clark Land Apt. 471,Waterbury,CT,East Hartford,2.7
+4016 Jessica Heights Suite 733,Bridgeport,CT,North New Haven,7.1
+314 John Brook Suite 736,Paterson,NJ,Mid New Brunswick,7.6
+578 Golden Brooks Apt. 293,Bridgeport,CT,East Hartford,2.7
+4577 Tim Extension Suite 072,Hartford,CT,North New Haven,7.1
+511 Steven Stravenue,Buffalo,NY,Upper East Side,8.0
+38002 Marsh Shores,Stamford,CT,Downtown New London,3.2
+1943 Prince Walk,Albany,NY,Upper East Side,8.0
+8697 Mary Canyon Suite 478,Bridgeport,CT,South Norwalk,7.0
+601 Montgomery Extensions Apt. 579,Bridgeport,CT,Downtown New London,3.2
+73775 Gregory Vista,Stamford,CT,Downtown New London,3.2
+4627 Rowe Drives Apt. 327,Hartford,CT,Downtown New London,3.2
+54094 Castro Club,Syracuse,NY,West Bronx,1.7
+23631 Teresa Expressway,Paterson,NJ,South Trenton,1.0
+55104 Brown Court Suite 640,Stamford,CT,South Norwalk,7.0
+5949 Davis Skyway,Waterbury,CT,Downtown New London,3.2
+8383 Roberts Plaza,Newark,NJ,Mid New Brunswick,7.6
+5519 Gonzalez Inlet,Elizabeth,NJ,South Trenton,1.0
+3780 Denise Haven,Waterbury,CT,North New Haven,7.1
+270 Wheeler Hollow Suite 467,Waterbury,CT,Downtown New London,3.2
+480 Alan Extension,Stamford,CT,South Norwalk,7.0
+6931 Courtney Drive,Waterbury,CT,East Hartford,2.7
+7753 Torres Route Suite 687,Waterbury,CT,Downtown New London,3.2
+05634 Misty Alley,Stamford,CT,East Hartford,2.7
+61616 Jodi Loaf,Paterson,NJ,Downtown Camden,1.3
+290 Kelly Wall Suite 290,Waterbury,CT,Downtown Stamford,9.4
+70751 Thomas Spring,Jersey City,NJ,East Elizabeth,4.5
+944 Kristi Neck,New York,NY,Upper East Side,8.0
+252 Cooper Crest Suite 232,Paterson,NJ,Mid New Brunswick,7.6
+36551 Heather Plains Suite 291,Jersey City,NJ,South Trenton,1.0
+7768 John Mall,Newark,NJ,Mid New Brunswick,7.6
+83586 Hines Cape,Rochester,NY,Lower East Side,6.8
+78177 Thomas Wells Apt. 679,Waterbury,CT,East Hartford,2.7
+124 Kenneth Pike,New Haven,CT,Downtown New London,3.2
+4876 Andrew Overpass Suite 018,Trenton,NJ,East Elizabeth,4.5
+470 Wendy Ridge Apt. 942,Waterbury,CT,North New Haven,7.1
+14894 Kaylee Well,Jersey City,NJ,East Elizabeth,4.5
+11971 Carlson Walk Apt. 922,Buffalo,NY,Upper East Side,8.0
+2466 Albert Port Apt. 609,Albany,NY,Upper East Side,8.0
+04516 Gonzalez Road Apt. 521,Syracuse,NY,Lower East Side,6.8
+95175 Brandy Plain Suite 587,Rochester,NY,Northern Queens,9.3
+21683 Thomas Locks Apt. 592,Bridgeport,CT,East Hartford,2.7
+866 Yoder Glen,Buffalo,NY,South Bronx,3.6
+2867 Tyler Freeway,Buffalo,NY,South Staten Island,6.3
+32546 Warren Crossroad,Syracuse,NY,Northern Queens,9.3
+451 Obrien Spur,Stamford,CT,Downtown Stamford,9.4
+53039 Curtis Crest Apt. 849,Buffalo,NY,Midtown West,6.1
+3605 Gavin Hill,Albany,NY,South Staten Island,6.3
+31615 Anthony Spring Apt. 944,Jersey City,NJ,Mid New Brunswick,7.6
+47784 Terry Parkways Apt. 810,Syracuse,NY,Lower East Side,6.8
+34001 Patricia Freeway,Paterson,NJ,Downtown Camden,1.3
+27561 Montes Haven Suite 978,Rochester,NY,Midtown West,6.1
+5581 John Hills,Buffalo,NY,Lower East Side,6.8
+14741 Eduardo Turnpike,Elizabeth,NJ,South Trenton,1.0
+11800 Russell Circles,Buffalo,NY,West Bronx,1.7
+02248 Daniel Mountain,Newark,NJ,East Elizabeth,4.5
+146 Savage Estates,Newark,NJ,Downtown Camden,1.3
+4229 David Forge Suite 853,Trenton,NJ,South Trenton,1.0
+91410 Robert Crescent,Newark,NJ,Mid New Brunswick,7.6
+97298 King Highway Apt. 087,Rochester,NY,North Staten Island,2.0
+2114 Joyce Club Suite 719,Rochester,NY,North Staten Island,2.0
+19233 Davis Route Apt. 892,Newark,NJ,South Trenton,1.0
+695 Haynes Via Suite 487,Rochester,NY,Northern Queens,9.3
+786 Christopher Wells,New York,NY,South Staten Island,6.3
+1064 Jessica Plains Suite 851,Paterson,NJ,Mid New Brunswick,7.6
+64193 Connor Inlet Apt. 801,Buffalo,NY,West Bronx,1.7
+86537 Jimenez Prairie,Bridgeport,CT,East Hartford,2.7
+23015 Jacob Street Suite 385,Stamford,CT,South Norwalk,7.0
+271 Howell Corner,Waterbury,CT,Downtown New London,3.2
+339 Thornton Station,Buffalo,NY,Lower East Side,6.8
+7311 Johnson Stravenue,Paterson,NJ,Downtown Camden,1.3
+72693 Andrew Fort,Elizabeth,NJ,South Trenton,1.0
+14601 Mark Knoll,Elizabeth,NJ,Mid New Brunswick,7.6
+7297 Thomas Shoals,Bridgeport,CT,North New Haven,7.1
+766 Davis Union Apt. 721,Albany,NY,Northern Queens,9.3
+433 Watson Path Apt. 004,Buffalo,NY,Lower East Side,6.8
+208 John Stravenue,Bridgeport,CT,Downtown Stamford,9.4
+60013 Wanda Roads,Stamford,CT,East Hartford,2.7
+160 Eric Fall,Syracuse,NY,Upper East Side,8.0
+191 Vincent Club,New York,NY,East Bronx,5.7
+5230 Brian Lights,New Haven,CT,Downtown Stamford,9.4
+8829 Webster Trace Suite 753,Paterson,NJ,Downtown Camden,1.3
+1354 Adams Gateway Apt. 366,Rochester,NY,West Bronx,1.7
+635 Seth Squares Apt. 166,New Haven,CT,North New Haven,7.1
+9879 Timothy Spurs Apt. 767,Waterbury,CT,North New Haven,7.1
+1319 Kimberly Mountain,Hartford,CT,Downtown New London,3.2
+3998 Christopher Fork,Buffalo,NY,Midtown East,2.1
+105 Jordan Stravenue,Jersey City,NJ,South Trenton,1.0
+358 Lisa Orchard Apt. 241,Hartford,CT,East Hartford,2.7
+15447 Hernandez Valley,Bridgeport,CT,South Norwalk,7.0
+293 Smith Park,Paterson,NJ,East Elizabeth,4.5
+06649 Turner Route Suite 042,New York,NY,North Staten Island,2.0
+542 Amanda Track Apt. 804,Buffalo,NY,South Staten Island,6.3
+12384 Tanya Ferry Apt. 195,Bridgeport,CT,Downtown New London,3.2
+5868 Donna Tunnel,Buffalo,NY,Downtown Manhattan,1.7
+2592 Rebecca Parks Apt. 001,Albany,NY,Lower East Side,6.8
+866 Lopez Views Apt. 401,Jersey City,NJ,East Elizabeth,4.5
+755 Kristina Lodge,New York,NY,Midtown West,6.1
+8751 Johnson Ford,Stamford,CT,South Norwalk,7.0
+0298 Lauren Via,Trenton,NJ,South Trenton,1.0
+2230 Jimenez Road Apt. 703,Hartford,CT,North New Haven,7.1
+3236 Kathleen Branch Apt. 627,New Haven,CT,North New Haven,7.1
+662 Justin Tunnel,Stamford,CT,North New Haven,7.1
+714 Dawn Club,Albany,NY,Upper East Side,8.0
+095 Mary Fields Suite 790,Waterbury,CT,East Hartford,2.7
+2688 Meza Pass,Hartford,CT,South Norwalk,7.0
+5237 Christensen Branch Apt. 857,Paterson,NJ,Mid New Brunswick,7.6
+516 Morgan Inlet Suite 569,New York,NY,Upper West Side,7.7
+870 Thompson Haven,Buffalo,NY,Lower West Side,1.5
+37509 Amy Cliffs Suite 390,Stamford,CT,East Hartford,2.7
+7245 Cruz Forest Suite 499,Rochester,NY,Lower East Side,6.8
+0005 Martinez Crest,Bridgeport,CT,North New Haven,7.1
+5023 Deborah Stravenue,Bridgeport,CT,East Hartford,2.7
+7304 Pugh Camp Suite 334,Buffalo,NY,Northern Queens,9.3
+80467 Richard Isle Suite 420,Bridgeport,CT,North New Haven,7.1
+048 Michael Ville,Newark,NJ,Mid New Brunswick,7.6
+7657 Jessica Crest Apt. 604,Newark,NJ,Downtown Camden,1.3
+3766 Luis Expressway Apt. 755,New York,NY,Midtown West,6.1
+3459 Watkins Ports,Syracuse,NY,Midtown East,2.1
+6731 Angela Fields,Trenton,NJ,South Trenton,1.0
+526 Manning Isle,Waterbury,CT,North New Haven,7.1
+093 Obrien Road Apt. 305,Syracuse,NY,Midtown West,6.1
+70865 Ball Mill,Stamford,CT,East Hartford,2.7
+693 Schwartz Wells,Buffalo,NY,North Staten Island,2.0
+125 Rachel Manors Apt. 266,Paterson,NJ,East Elizabeth,4.5
+7105 Candice Junctions Apt. 256,New York,NY,South Staten Island,6.3
+55936 Greene Spur,New York,NY,Downtown Manhattan,1.7
+597 Vanessa Drive,New York,NY,Upper East Side,8.0
+72024 Eaton Wall,Waterbury,CT,East Hartford,2.7
+74450 Wilkinson Valleys Apt. 977,Jersey City,NJ,South Trenton,1.0
+4958 Black Junction,Stamford,CT,South Norwalk,7.0
+82999 Davis Corners,Trenton,NJ,South Trenton,1.0
+715 Kaitlin Walks Apt. 224,Syracuse,NY,South Staten Island,6.3
+90173 Joseph Shore,Waterbury,CT,Downtown Stamford,9.4
+1918 John Gateway,Waterbury,CT,Downtown Stamford,9.4
+750 Isaac Lodge Apt. 447,Syracuse,NY,Downtown Manhattan,1.7
+056 Susan Manors,Newark,NJ,South Trenton,1.0
+732 Cynthia Springs,Elizabeth,NJ,South Trenton,1.0
+76310 Green Fords,Waterbury,CT,South Norwalk,7.0
+3128 Munoz Cape,Stamford,CT,East Hartford,2.7
+862 Fletcher Row,Paterson,NJ,South Trenton,1.0
+72704 Wilson Port,Hartford,CT,South Norwalk,7.0
+5078 Miranda Forge Suite 552,Bridgeport,CT,South Norwalk,7.0
+66966 Amanda Grove,Trenton,NJ,East Elizabeth,4.5
+1932 Carrillo Turnpike Apt. 539,New York,NY,South Bronx,3.6
+7570 Caroline Station,Trenton,NJ,East Elizabeth,4.5
+560 James Turnpike Suite 233,Hartford,CT,South Norwalk,7.0
+4765 Patricia Causeway Apt. 410,Newark,NJ,Downtown Camden,1.3
+55427 Clarke Pine Suite 686,Jersey City,NJ,South Trenton,1.0
+6091 Dickson Springs Suite 201,Newark,NJ,East Elizabeth,4.5
+28540 Ortiz Rapids Apt. 093,Buffalo,NY,Midtown West,6.1
+8914 Andrew Isle Suite 709,Paterson,NJ,Downtown Camden,1.3
+69598 Long Crescent Apt. 933,Trenton,NJ,Downtown Camden,1.3
+09320 Sutton Expressway Apt. 664,Albany,NY,East Bronx,5.7
+413 Morales Plains Apt. 949,Paterson,NJ,East Elizabeth,4.5
+463 Cannon Camp Suite 434,Syracuse,NY,Lower West Side,1.5
+169 Lauren Mill Suite 940,Jersey City,NJ,Downtown Camden,1.3
+0638 Odom Unions,Buffalo,NY,Midtown East,2.1
+5978 Turner Parkway Suite 691,Bridgeport,CT,South Norwalk,7.0
+934 Cox Crossing,Newark,NJ,Downtown Camden,1.3
+3721 Grace Island Apt. 618,Syracuse,NY,Midtown West,6.1
+0942 Kara Course Apt. 037,Jersey City,NJ,Mid New Brunswick,7.6
+09481 Margaret Manors Apt. 429,Trenton,NJ,Downtown Camden,1.3
+5400 Evan Cliff Suite 630,Elizabeth,NJ,South Trenton,1.0
+1178 Anna Estates Apt. 653,Hartford,CT,East Hartford,2.7
+24673 Moore Falls,Syracuse,NY,Northern Queens,9.3
+31940 Lewis Burg,Buffalo,NY,Lower East Side,6.8
+11382 Harris Alley Suite 029,Syracuse,NY,South Staten Island,6.3
+24302 Sweeney Forge,New York,NY,West Bronx,1.7
+866 Jesse Summit,Buffalo,NY,North Staten Island,2.0
+450 Ellis Drive Suite 537,Hartford,CT,North New Haven,7.1
+21209 Johnson Views Apt. 407,Syracuse,NY,Upper West Side,7.7
+762 Collins Isle,Waterbury,CT,Downtown New London,3.2
+9856 Joseph Port,Bridgeport,CT,Downtown Stamford,9.4
+98174 Young Underpass Apt. 970,Albany,NY,North Staten Island,2.0
+935 Peterson Alley Suite 374,Newark,NJ,Downtown Camden,1.3
+160 Patrick Fort,Hartford,CT,South Norwalk,7.0
+618 Davis Ranch Apt. 789,Albany,NY,Midtown East,2.1
+265 Shannon Radial,Waterbury,CT,North New Haven,7.1
+806 Mitchell Manor Apt. 483,Syracuse,NY,Upper East Side,8.0
+46596 Pena Inlet,New York,NY,Lower East Side,6.8
+24167 Hood Mall Apt. 993,Hartford,CT,Downtown New London,3.2
+8272 Rebecca Shores Apt. 222,New York,NY,South Bronx,3.6
+1853 Heather Plaza,Hartford,CT,South Norwalk,7.0
+41980 Lang Knolls Apt. 253,New York,NY,Northern Queens,9.3
+79288 Chris Causeway Suite 952,New Haven,CT,Downtown New London,3.2
+395 Lee Field,Hartford,CT,South Norwalk,7.0
+331 Nancy Overpass,Newark,NJ,Downtown Camden,1.3
+872 Smith Fields,Buffalo,NY,Downtown Brooklyn,4.8
+813 White Roads,Jersey City,NJ,Mid New Brunswick,7.6
+58873 Salinas Walk,Elizabeth,NJ,South Trenton,1.0
+566 Raymond Port Apt. 892,Hartford,CT,Downtown Stamford,9.4
+1519 Michael Rest,New York,NY,Downtown Manhattan,1.7
+314 Harmon Ranch Suite 976,New York,NY,Lower East Side,6.8
+211 Ellis Causeway Apt. 257,Newark,NJ,South Trenton,1.0
+9212 Fields Corner,Jersey City,NJ,South Trenton,1.0
+77047 Patel Union,Buffalo,NY,North Staten Island,2.0
+4984 Jennifer Harbors Suite 038,New York,NY,Lower East Side,6.8
+64460 Conway Pines Suite 534,Hartford,CT,Downtown New London,3.2
+49827 George Overpass,Buffalo,NY,West Bronx,1.7
+823 Paul Rapids Apt. 181,Stamford,CT,South Norwalk,7.0
+19047 Michael Ford Apt. 215,Waterbury,CT,Downtown New London,3.2
+700 Weiss Walk Apt. 813,New York,NY,North Staten Island,2.0
+8097 Pratt Divide Apt. 577,Bridgeport,CT,East Hartford,2.7
+514 Carla Station,New York,NY,South Staten Island,6.3
+372 Jerry Road,Rochester,NY,Upper East Side,8.0
+5404 Chan Spring Apt. 138,Waterbury,CT,Downtown Stamford,9.4
+601 Elizabeth Trail,Paterson,NJ,South Trenton,1.0
+8045 Amy Prairie,Newark,NJ,South Trenton,1.0
+113 James Orchard,Stamford,CT,Downtown New London,3.2
+305 Reese Walk Suite 051,Stamford,CT,North New Haven,7.1
+7614 Patrick Courts Suite 481,Paterson,NJ,South Trenton,1.0
+57620 Arnold Course,Bridgeport,CT,South Norwalk,7.0
+781 Rodriguez Fork,New Haven,CT,East Hartford,2.7
+09027 Tina Ramp Suite 493,Rochester,NY,Lower East Side,6.8
+8925 Morrison Dam Apt. 384,Trenton,NJ,South Trenton,1.0
+309 Arias Mountain,Waterbury,CT,South Norwalk,7.0
+21088 Morgan Rest Suite 051,Buffalo,NY,West Bronx,1.7
+7996 Christensen Ford Apt. 670,Jersey City,NJ,South Trenton,1.0
+4977 Walsh Knolls Apt. 035,Elizabeth,NJ,South Trenton,1.0
+3582 Christina Burg Apt. 735,Paterson,NJ,South Trenton,1.0
+4003 Anthony Stravenue,Rochester,NY,South Bronx,3.6
+14902 Gardner Locks,Rochester,NY,South Staten Island,6.3
+334 Amanda Mount,Syracuse,NY,South Staten Island,6.3
+33330 Brittany Coves,Paterson,NJ,Downtown Camden,1.3
+014 Steven Mews,Elizabeth,NJ,Mid New Brunswick,7.6
+97974 Brock Pass,Newark,NJ,Downtown Camden,1.3
+385 Shannon Forest,Hartford,CT,Downtown New London,3.2
+743 Katelyn Trace Apt. 281,Albany,NY,South Staten Island,6.3
+6019 Moore Heights,Newark,NJ,Mid New Brunswick,7.6
+0097 Pratt Stream Apt. 289,Jersey City,NJ,Mid New Brunswick,7.6
+031 Brian Mountain,Rochester,NY,West Bronx,1.7
+6020 Graham Cliffs,Stamford,CT,South Norwalk,7.0
+0956 Farmer Drives Suite 717,Jersey City,NJ,East Elizabeth,4.5
+5788 Brenda Valleys,Syracuse,NY,Downtown Manhattan,1.7
+929 John Mills Apt. 457,Elizabeth,NJ,Mid New Brunswick,7.6
+039 Chelsea Square Suite 408,Bridgeport,CT,South Norwalk,7.0
+289 Williams Turnpike Suite 150,Hartford,CT,Downtown Stamford,9.4
+359 Johnathan Roads,New Haven,CT,East Hartford,2.7
+361 Miller Shoal Apt. 927,Paterson,NJ,Downtown Camden,1.3
+03074 Courtney Divide Apt. 641,Rochester,NY,Lower East Side,6.8
+468 Victoria Oval,Waterbury,CT,Downtown Stamford,9.4
+8707 Hughes Station,New Haven,CT,Downtown Stamford,9.4
+799 Bruce Stream,Waterbury,CT,Downtown Stamford,9.4
+7323 Sims Parkways,New Haven,CT,East Hartford,2.7
+04566 Rodriguez Plains Suite 459,Waterbury,CT,Downtown Stamford,9.4
+371 Amy Dam Suite 073,Elizabeth,NJ,Downtown Camden,1.3
+58239 Branch Valley,Stamford,CT,Downtown New London,3.2
+573 Davies Extension,Hartford,CT,North New Haven,7.1
+130 Fox Roads,Buffalo,NY,Upper West Side,7.7
+6023 Andrew Well,Albany,NY,South Bronx,3.6
+3448 Peter Radial Suite 049,Elizabeth,NJ,Downtown Camden,1.3
+7347 Garcia Drives,Stamford,CT,East Hartford,2.7
+0978 Campos Ridges Apt. 012,New Haven,CT,East Hartford,2.7
+3553 Bird Heights,New Haven,CT,South Norwalk,7.0
+4700 Dawn Pine,Elizabeth,NJ,East Elizabeth,4.5
+41900 Gardner Park Apt. 382,Paterson,NJ,Mid New Brunswick,7.6
+985 Watts Lane,New Haven,CT,Downtown Stamford,9.4
+409 Johnson Prairie Suite 242,Hartford,CT,Downtown Stamford,9.4
+435 Armstrong Mount Apt. 817,New Haven,CT,Downtown New London,3.2
+0352 Gina Field,New York,NY,Northern Queens,9.3
+9805 Williams Path Apt. 137,Hartford,CT,South Norwalk,7.0
+0654 Corey Trail,Waterbury,CT,Downtown Stamford,9.4
+905 Riley Squares,Newark,NJ,Mid New Brunswick,7.6
+638 Amy Mill,Jersey City,NJ,Mid New Brunswick,7.6
+6649 Barbara Landing Suite 071,Stamford,CT,South Norwalk,7.0
+0995 Jimenez Mission,Buffalo,NY,Midtown East,2.1
+79108 Griffin Harbors,Buffalo,NY,Upper West Side,7.7
+2571 Doyle Trail Apt. 387,Hartford,CT,Downtown Stamford,9.4
+55216 Lisa Corners Apt. 137,New York,NY,Downtown Brooklyn,4.8
+058 Hoover Circles Suite 175,Bridgeport,CT,East Hartford,2.7
+7132 Tamara Lakes,Buffalo,NY,Midtown East,2.1
+327 Rivera Lakes Apt. 237,Paterson,NJ,Downtown Camden,1.3
+189 Lisa Plaza Suite 761,Trenton,NJ,Mid New Brunswick,7.6
+34970 Nicholas Highway Suite 091,Bridgeport,CT,East Hartford,2.7
+138 Browning Summit,Stamford,CT,East Hartford,2.7
+85204 Jon Mall,Syracuse,NY,Lower West Side,1.5
+892 Kevin Street Suite 322,Waterbury,CT,North New Haven,7.1
+409 Fleming Ramp,Buffalo,NY,Lower West Side,1.5
+55697 Bryan Knolls,New York,NY,West Bronx,1.7
+89247 Kyle Loop Apt. 604,Waterbury,CT,East Hartford,2.7
+4605 Elizabeth Trace,Newark,NJ,South Trenton,1.0
+9146 Matthew Spurs,New Haven,CT,East Hartford,2.7
+621 Katherine Route,Bridgeport,CT,Downtown Stamford,9.4
+265 Colleen Dam,Jersey City,NJ,Mid New Brunswick,7.6
+09601 James Locks Apt. 421,Elizabeth,NJ,South Trenton,1.0
+4885 Catherine Port Suite 125,Syracuse,NY,Upper West Side,7.7
+224 Adam Forge Suite 666,Elizabeth,NJ,Downtown Camden,1.3
+6614 Mahoney Trace Apt. 288,Hartford,CT,South Norwalk,7.0
+9135 Brady Court,Hartford,CT,North New Haven,7.1
+016 Castro Cove Suite 735,Buffalo,NY,Downtown Brooklyn,4.8
+1786 Stanley Locks,Buffalo,NY,South Staten Island,6.3
+880 Christopher Lodge,Buffalo,NY,Midtown East,2.1
+82817 Howell Mills,New Haven,CT,East Hartford,2.7
+7224 Armstrong Grove,Rochester,NY,Midtown East,2.1
+1401 Strickland Junctions Apt. 732,Hartford,CT,East Hartford,2.7
+168 Daniels Centers Suite 518,Buffalo,NY,South Staten Island,6.3
+14485 Odonnell Path,Jersey City,NJ,Downtown Camden,1.3
+7332 Mark Forest,New York,NY,Upper East Side,8.0
+81298 Joshua Street,Waterbury,CT,East Hartford,2.7
+13401 Bobby Pines,Rochester,NY,Downtown Brooklyn,4.8
+97952 Morales Cliff,Elizabeth,NJ,East Elizabeth,4.5
+7303 Doris Garden,Bridgeport,CT,North New Haven,7.1
+52886 Chandler Harbor Apt. 198,Syracuse,NY,Lower East Side,6.8
+2072 Bruce Green,Paterson,NJ,South Trenton,1.0
+21747 Farrell Stravenue,Albany,NY,West Bronx,1.7
+340 Christina Tunnel Suite 821,Albany,NY,South Staten Island,6.3
+77571 Ronnie Gateway Apt. 786,New York,NY,Northern Queens,9.3
+9773 Davis Mission,Albany,NY,Lower West Side,1.5
+90401 Justin Curve,Hartford,CT,East Hartford,2.7
+2698 Timothy Fords,Syracuse,NY,Downtown Brooklyn,4.8
+30074 Nancy Mount,Paterson,NJ,Downtown Camden,1.3
+9115 Williams Glen Apt. 201,Trenton,NJ,South Trenton,1.0
+13315 Jennifer Stream Suite 096,Hartford,CT,Downtown Stamford,9.4
+7182 John Burgs,Hartford,CT,South Norwalk,7.0
+14859 Peterson Forges,Hartford,CT,North New Haven,7.1
+6550 Brown Vista Apt. 190,Buffalo,NY,Northern Queens,9.3
+0907 Williams Junctions Apt. 386,Bridgeport,CT,North New Haven,7.1
+18038 Anthony Islands,New York,NY,Northern Queens,9.3
+500 Gabrielle Brooks Suite 495,Waterbury,CT,North New Haven,7.1
+2140 Ruiz Estates,Waterbury,CT,South Norwalk,7.0
+248 Michael Prairie Suite 352,Stamford,CT,Downtown Stamford,9.4
+867 James Mall,Rochester,NY,Downtown Manhattan,1.7
+5296 Jimmy Cove Apt. 755,Waterbury,CT,Downtown New London,3.2
+39259 William Bypass,Paterson,NJ,Downtown Camden,1.3
+46465 Kevin Junction Apt. 611,Hartford,CT,Downtown Stamford,9.4
+597 Rose Ports,Newark,NJ,South Trenton,1.0
+9459 Brandi Club Apt. 051,Hartford,CT,East Hartford,2.7
+1519 Patterson Square,Buffalo,NY,West Bronx,1.7
+872 Anderson Knoll Suite 636,Newark,NJ,South Trenton,1.0
+835 Howe Row,Trenton,NJ,East Elizabeth,4.5
+20907 Carpenter Path Suite 986,Buffalo,NY,West Bronx,1.7
+8134 Williams Avenue,Bridgeport,CT,Downtown Stamford,9.4
+7060 Nelson Union Suite 956,New York,NY,Lower West Side,1.5
+7529 Tamara Ramp Suite 940,Stamford,CT,East Hartford,2.7
+8083 Kyle Roads,Jersey City,NJ,East Elizabeth,4.5
+38642 Richardson Trafficway Apt. 349,Rochester,NY,South Bronx,3.6
+166 Black Junction Suite 498,Hartford,CT,Downtown New London,3.2
+351 Crystal Hollow Suite 891,Stamford,CT,South Norwalk,7.0
+214 Paige Rapids,Syracuse,NY,Lower West Side,1.5
+94818 Juan Rapids,Bridgeport,CT,Downtown New London,3.2
+660 Kimberly Mills,Trenton,NJ,Downtown Camden,1.3
+219 Kristin Keys,Albany,NY,Midtown West,6.1
+983 Elizabeth Radial Apt. 515,Albany,NY,Downtown Brooklyn,4.8
+699 Daniel Glen,New York,NY,West Bronx,1.7
+6626 Hampton Turnpike,Bridgeport,CT,South Norwalk,7.0
+0022 Bethany Hollow,Paterson,NJ,Mid New Brunswick,7.6
+2377 Marquez Mills,Bridgeport,CT,East Hartford,2.7
+8617 Hodges Meadow Apt. 255,Jersey City,NJ,Mid New Brunswick,7.6
+18971 King Extension Suite 034,Newark,NJ,East Elizabeth,4.5
+0075 Martin Forks Apt. 920,New York,NY,Upper East Side,8.0
+904 Jimenez Avenue Apt. 484,Paterson,NJ,East Elizabeth,4.5
+819 Amber Springs,Stamford,CT,East Hartford,2.7
+068 Heath Inlet Apt. 235,Paterson,NJ,South Trenton,1.0
+711 Lucas Unions Suite 793,Trenton,NJ,South Trenton,1.0
+707 Michael Heights,New York,NY,South Staten Island,6.3
+854 Robinson Coves Apt. 526,Albany,NY,Northern Queens,9.3
+2175 Wilcox Ridges Apt. 774,Newark,NJ,Downtown Camden,1.3
+14008 Nunez Corner Apt. 723,Hartford,CT,North New Haven,7.1
+6928 Weaver Island,Rochester,NY,Lower West Side,1.5
+833 Amber Parkways,Trenton,NJ,South Trenton,1.0
+4817 Bright Spurs Apt. 156,Albany,NY,Upper West Side,7.7
+4795 Robert Landing Apt. 012,Bridgeport,CT,Downtown New London,3.2
+4068 Michael Forks,Waterbury,CT,Downtown Stamford,9.4
+2476 Chambers Trafficway,Syracuse,NY,West Bronx,1.7
+36471 Virginia Courts Apt. 377,Albany,NY,Northern Queens,9.3
+66724 Nicholas Mission,Trenton,NJ,East Elizabeth,4.5
+474 Charles Mountain,Buffalo,NY,South Staten Island,6.3
+60663 Robert Stravenue,New York,NY,West Bronx,1.7
+9597 Hernandez Mount Apt. 587,Waterbury,CT,Downtown Stamford,9.4
+3379 Alexander View,Waterbury,CT,Downtown Stamford,9.4
+94821 Michael Manors,Paterson,NJ,South Trenton,1.0
+6703 Green Isle,Stamford,CT,South Norwalk,7.0
+70239 Jones Crescent Apt. 962,Waterbury,CT,South Norwalk,7.0
+08022 Brown Viaduct,Waterbury,CT,East Hartford,2.7
+19664 Wallace Trafficway Apt. 606,Rochester,NY,South Bronx,3.6
+613 Timothy Vista Apt. 942,Stamford,CT,North New Haven,7.1
+6221 Norton Lane Apt. 142,Rochester,NY,Downtown Manhattan,1.7
+5731 Tran Skyway,Newark,NJ,Downtown Camden,1.3
+4698 Davis Cape,Albany,NY,Lower West Side,1.5
+9396 King Cape,Syracuse,NY,South Staten Island,6.3
+7475 Mcdonald Drives,Stamford,CT,North New Haven,7.1
+899 Brown Brook,Bridgeport,CT,Downtown New London,3.2
+4538 Hanson Manors Apt. 094,Hartford,CT,North New Haven,7.1
+7869 Daniel Pines Apt. 990,Newark,NJ,Downtown Camden,1.3
+88175 Tyrone Unions,Syracuse,NY,Lower East Side,6.8
+2583 Soto Parks,Newark,NJ,Downtown Camden,1.3
+335 Mitchell Alley Suite 290,Syracuse,NY,East Bronx,5.7
+1183 Adrian Cape Apt. 035,Trenton,NJ,East Elizabeth,4.5
+694 Jeremy Streets Suite 799,Buffalo,NY,Upper East Side,8.0
+82689 Jasmine Highway,Bridgeport,CT,Downtown Stamford,9.4
+925 Walsh Vista,Syracuse,NY,South Staten Island,6.3
+040 Marcus Pine Apt. 027,Trenton,NJ,Downtown Camden,1.3
+0607 Ryan Camp,New York,NY,Lower East Side,6.8
+8487 Munoz Station,New York,NY,South Staten Island,6.3
+0774 Bryan Spurs Apt. 314,Rochester,NY,East Bronx,5.7
+2690 Peter Lights Suite 476,Rochester,NY,North Staten Island,2.0
+444 Lee Shoals,Waterbury,CT,East Hartford,2.7
+2310 Luke Tunnel,Elizabeth,NJ,Downtown Camden,1.3
+05372 Stevens Lights,Elizabeth,NJ,Mid New Brunswick,7.6
+8904 Thomas Extension,Newark,NJ,Downtown Camden,1.3
+7868 Sarah Circle,Hartford,CT,Downtown Stamford,9.4
+06923 Brown Squares Apt. 526,Syracuse,NY,Midtown East,2.1
+8218 Henderson Inlet Suite 924,New York,NY,South Bronx,3.6
+8488 Steven Mountains,Jersey City,NJ,Downtown Camden,1.3
+74121 Sherry Heights,Stamford,CT,East Hartford,2.7
+667 Cole Radial,Stamford,CT,Downtown Stamford,9.4
+1760 Donna Knoll Apt. 084,Jersey City,NJ,East Elizabeth,4.5
+4444 Adams Lodge Apt. 931,Stamford,CT,South Norwalk,7.0
+667 Benitez Unions Suite 726,New York,NY,West Bronx,1.7
+5650 Powell Ways,Newark,NJ,East Elizabeth,4.5
+588 Angela Walk,Waterbury,CT,South Norwalk,7.0
+2673 Jennifer Station,New York,NY,Upper East Side,8.0
+36463 Christina Meadows Suite 070,Elizabeth,NJ,Downtown Camden,1.3
+73577 Griffin Fork,Waterbury,CT,East Hartford,2.7
+19776 Amanda Isle,Rochester,NY,Northern Queens,9.3
+40191 Bradley Corners Suite 818,Waterbury,CT,Downtown New London,3.2
+9329 Christensen Walk,Elizabeth,NJ,Mid New Brunswick,7.6
+7585 Nash Mountains Apt. 932,Syracuse,NY,Upper West Side,7.7
+026 Torres River Apt. 242,Syracuse,NY,Northern Queens,9.3
+37623 Kim Shoals,Rochester,NY,Downtown Manhattan,1.7
+1068 Andrea Tunnel,Albany,NY,Downtown Brooklyn,4.8
+58126 Alex Vista Apt. 046,Rochester,NY,North Staten Island,2.0
+59154 Norton Summit Apt. 552,Waterbury,CT,North New Haven,7.1
+57258 Torres Port,Newark,NJ,East Elizabeth,4.5
+90854 Mckee Drive,Buffalo,NY,Midtown East,2.1
+046 Heidi Motorway,Newark,NJ,Mid New Brunswick,7.6
+147 Kelly Lake Apt. 077,Waterbury,CT,Downtown New London,3.2
+78295 Stephen Fork Apt. 707,Syracuse,NY,Midtown West,6.1
+469 Susan Island Apt. 073,Elizabeth,NJ,East Elizabeth,4.5
+924 Brian Shores,New York,NY,Downtown Manhattan,1.7
+440 Jonathan Prairie,Elizabeth,NJ,East Elizabeth,4.5
+683 Jackson Orchard,Stamford,CT,Downtown New London,3.2
+2465 Thompson Branch,Newark,NJ,South Trenton,1.0
+89415 Lindsay Meadow,New York,NY,Upper East Side,8.0
+30159 Maria Burgs Suite 894,Waterbury,CT,South Norwalk,7.0
+7946 Michael Streets Suite 345,Paterson,NJ,East Elizabeth,4.5
+69077 Owens Mill,Buffalo,NY,Downtown Manhattan,1.7
+6973 Mccarthy Isle Suite 082,Stamford,CT,Downtown New London,3.2
+311 Harris Mission Apt. 311,Hartford,CT,East Hartford,2.7
+9473 Katherine Forks,Trenton,NJ,South Trenton,1.0
+74032 Rhonda Overpass Apt. 904,Paterson,NJ,South Trenton,1.0
+25849 Crawford Alley Suite 357,Elizabeth,NJ,Downtown Camden,1.3
+69992 Church Skyway,Bridgeport,CT,Downtown New London,3.2
+73822 Johnson Lock Suite 104,Waterbury,CT,East Hartford,2.7
+651 Preston Pass Apt. 566,Hartford,CT,Downtown New London,3.2
+3963 Linda Forges,Bridgeport,CT,Downtown New London,3.2
+7669 Danielle Prairie,Bridgeport,CT,North New Haven,7.1
+5349 Camacho Crest Apt. 941,Newark,NJ,Mid New Brunswick,7.6
+50006 Day Fields,Paterson,NJ,East Elizabeth,4.5
+87176 Michael Unions,New York,NY,South Staten Island,6.3
+43265 Reynolds Meadow Suite 995,Albany,NY,Midtown West,6.1
+936 Bill Stravenue,Bridgeport,CT,Downtown New London,3.2
+21894 Clifford Way,Syracuse,NY,Downtown Manhattan,1.7
+90605 Veronica Circles Suite 813,Bridgeport,CT,North New Haven,7.1
+278 Melton Valley Suite 435,Stamford,CT,Downtown New London,3.2
+40817 Smith Parkway,Albany,NY,Midtown West,6.1
+9427 Jonathon Shoal,Bridgeport,CT,Downtown Stamford,9.4
+441 Lopez Station Apt. 420,Elizabeth,NJ,East Elizabeth,4.5
+2545 Chavez Cove,New York,NY,Midtown East,2.1
+23864 Amber Square,Rochester,NY,North Staten Island,2.0
+357 Jennifer Corner Apt. 501,Bridgeport,CT,Downtown New London,3.2
+7775 Derek Garden Apt. 708,Bridgeport,CT,East Hartford,2.7
+199 Ian Brook,Elizabeth,NJ,East Elizabeth,4.5
+492 Sullivan Place Apt. 658,New Haven,CT,Downtown Stamford,9.4
+1717 Luis Tunnel,New Haven,CT,East Hartford,2.7
+9844 Lee Gardens Apt. 263,Bridgeport,CT,East Hartford,2.7
+28795 Joyce Plains Apt. 753,Waterbury,CT,North New Haven,7.1
+8190 Fisher Freeway Suite 915,New Haven,CT,North New Haven,7.1
+409 Victoria Dam Suite 033,Rochester,NY,Midtown East,2.1
+0075 Roberts Pike,Trenton,NJ,Downtown Camden,1.3
+195 Garcia Grove,Trenton,NJ,East Elizabeth,4.5
+868 Smith Expressway Suite 712,Albany,NY,Lower West Side,1.5
+4902 Brittany Parkway,New Haven,CT,North New Haven,7.1
+61395 Martin River Suite 066,Stamford,CT,South Norwalk,7.0
+632 Reynolds Pines Apt. 935,Elizabeth,NJ,East Elizabeth,4.5
+97870 Gabriel Spurs,Rochester,NY,South Staten Island,6.3
+5995 Harris Island,Rochester,NY,North Staten Island,2.0
+3085 Rivas Burg,New York,NY,Upper East Side,8.0
+381 Wilson Row,Jersey City,NJ,East Elizabeth,4.5
+65605 Mccoy Mall Suite 668,Syracuse,NY,West Bronx,1.7
+38459 Carey Freeway Suite 988,New York,NY,South Bronx,3.6
+420 Alan Meadows,Bridgeport,CT,North New Haven,7.1
+79860 Aaron Ridges,Syracuse,NY,Midtown West,6.1
+76062 Jordan Falls Apt. 360,New York,NY,Downtown Brooklyn,4.8
+8819 Alexander Spurs Apt. 236,Elizabeth,NJ,East Elizabeth,4.5
+062 Perez Estates Apt. 601,Syracuse,NY,Upper West Side,7.7
+604 Roberson View,Rochester,NY,Northern Queens,9.3
+1768 Holly Grove Apt. 532,New Haven,CT,North New Haven,7.1
+348 Ferrell Pine Apt. 753,New Haven,CT,South Norwalk,7.0
+155 Tran Stravenue Apt. 921,Hartford,CT,Downtown New London,3.2
+10219 Hunt Streets,Trenton,NJ,East Elizabeth,4.5
+848 Nguyen Center Apt. 310,Syracuse,NY,South Staten Island,6.3
+300 Mason Rue Suite 900,Syracuse,NY,East Bronx,5.7
+0049 Snyder Cliff,Hartford,CT,South Norwalk,7.0
+5168 Mitchell Junction,Hartford,CT,East Hartford,2.7
+161 Morgan Cove,Waterbury,CT,North New Haven,7.1
+406 Blackburn Mountains Suite 650,Trenton,NJ,Mid New Brunswick,7.6
+568 Paul Flats Apt. 621,Newark,NJ,South Trenton,1.0
+008 Mays Shores Suite 530,Stamford,CT,South Norwalk,7.0
+76005 Lawson Alley,Bridgeport,CT,Downtown New London,3.2
+9498 Cuevas Rue,Hartford,CT,North New Haven,7.1
+614 Smith Shore Suite 650,Paterson,NJ,Mid New Brunswick,7.6
+7007 Vanessa Fall,Stamford,CT,Downtown Stamford,9.4
+6192 Raymond Roads,Stamford,CT,South Norwalk,7.0
+874 Maria Island Suite 484,Rochester,NY,Northern Queens,9.3
+84970 Buckley Curve Apt. 455,Elizabeth,NJ,South Trenton,1.0
+588 Rich Groves Apt. 167,New York,NY,West Bronx,1.7
+6271 Tyler Valleys Suite 315,Newark,NJ,Downtown Camden,1.3
+39798 Christopher Green Apt. 600,Waterbury,CT,Downtown Stamford,9.4
+066 David Walks Suite 608,Buffalo,NY,Northern Queens,9.3
+7786 Heather Overpass,Trenton,NJ,East Elizabeth,4.5
+4585 Simmons Corner,Syracuse,NY,Midtown West,6.1
+974 Stephanie Mews,Albany,NY,West Bronx,1.7
+475 Lisa Grove Apt. 637,Elizabeth,NJ,South Trenton,1.0
+32748 Taylor Mission Apt. 095,Elizabeth,NJ,Mid New Brunswick,7.6
+21930 Kimberly Port Suite 343,Rochester,NY,Midtown West,6.1
+329 Pennington Street Suite 080,Paterson,NJ,East Elizabeth,4.5
+2789 Martin Cliffs Suite 901,Hartford,CT,East Hartford,2.7
+0308 Baird Lake Apt. 423,Jersey City,NJ,South Trenton,1.0
+971 Andrew Route,Syracuse,NY,South Bronx,3.6
+4794 Mccoy Village Suite 285,Buffalo,NY,East Bronx,5.7
+0857 Ballard Port Apt. 199,Syracuse,NY,Upper West Side,7.7
+0467 Arellano Glens,Buffalo,NY,East Bronx,5.7
+617 White River Suite 674,Newark,NJ,Downtown Camden,1.3
+048 Yang Loaf,Bridgeport,CT,Downtown New London,3.2
+7382 Browning Parkways Apt. 016,Waterbury,CT,South Norwalk,7.0
+65468 Kimberly Glen Suite 293,Paterson,NJ,Mid New Brunswick,7.6
+08093 Doyle Turnpike Apt. 835,Syracuse,NY,Upper East Side,8.0
+75350 Sarah Rapids Apt. 319,Paterson,NJ,South Trenton,1.0
+58653 Wright Hills Apt. 757,Stamford,CT,South Norwalk,7.0
+3496 Rita Haven,New York,NY,West Bronx,1.7
+72248 Christina Bridge Suite 698,Buffalo,NY,North Staten Island,2.0
+12969 Billy Trace Apt. 310,New York,NY,Lower West Side,1.5
+402 Norma Spring,Hartford,CT,Downtown New London,3.2
+034 Travis Circles,Bridgeport,CT,East Hartford,2.7
+9706 Amber Cliff,Syracuse,NY,Midtown West,6.1
+03243 Mary Ways,Paterson,NJ,East Elizabeth,4.5
+183 Louis Gardens Apt. 497,Hartford,CT,South Norwalk,7.0
+988 Megan Shore Apt. 747,Paterson,NJ,South Trenton,1.0
+683 Tracy Gardens,Syracuse,NY,South Staten Island,6.3
+550 Jacob Mount Suite 861,Waterbury,CT,Downtown Stamford,9.4
+3466 Ashley Orchard,Albany,NY,Lower East Side,6.8
+151 Bond Alley,Jersey City,NJ,Mid New Brunswick,7.6
+3192 Cervantes Landing,Paterson,NJ,Mid New Brunswick,7.6
+390 Denise Falls Suite 428,Rochester,NY,Downtown Brooklyn,4.8
+097 Brown Highway Suite 935,Hartford,CT,East Hartford,2.7
+922 Wendy Path,Paterson,NJ,South Trenton,1.0
+08062 Green Divide,Albany,NY,Midtown West,6.1
+493 Jennifer Turnpike Suite 609,Buffalo,NY,North Staten Island,2.0
+94410 Clark Dale Apt. 621,Rochester,NY,South Staten Island,6.3
+9819 Scott Turnpike Suite 740,New York,NY,East Bronx,5.7
+7971 Solis Ports Suite 775,Bridgeport,CT,Downtown New London,3.2
+8752 Elizabeth Locks Apt. 386,Syracuse,NY,West Bronx,1.7
+51520 Meyer Rapids Apt. 165,New York,NY,Midtown East,2.1
+89470 Clark Viaduct Suite 364,Albany,NY,Midtown West,6.1
+28291 Brandon Stravenue,Syracuse,NY,East Bronx,5.7
+13328 Waters Ford Suite 061,New York,NY,Northern Queens,9.3
+033 Wilson Isle Suite 690,Buffalo,NY,Northern Queens,9.3
+7457 Paula Pines,New Haven,CT,North New Haven,7.1
+92007 Michael Corner Apt. 146,New Haven,CT,East Hartford,2.7
+09080 Stone Hill,Bridgeport,CT,Downtown New London,3.2
+93021 Charles Rapid,Albany,NY,Lower West Side,1.5
+9121 Kevin Alley,Bridgeport,CT,Downtown New London,3.2
+45519 Owens Ramp Suite 211,Bridgeport,CT,Downtown Stamford,9.4
+175 Cheryl Cove Apt. 694,Albany,NY,Downtown Manhattan,1.7
+1783 Laura Lakes,Jersey City,NJ,South Trenton,1.0
+207 Morgan Courts Suite 131,Syracuse,NY,North Staten Island,2.0
+0503 Rachel Manor Suite 791,Bridgeport,CT,East Hartford,2.7
+78301 Daugherty Brooks Apt. 072,Hartford,CT,Downtown Stamford,9.4
+5294 Sandra Spring Suite 124,Albany,NY,East Bronx,5.7
+65434 Christopher Street,Paterson,NJ,Mid New Brunswick,7.6
+5228 Kyle Rapids Suite 260,Bridgeport,CT,Downtown New London,3.2
+921 Christopher Turnpike,Syracuse,NY,Lower West Side,1.5
+3824 Burton Meadow,Newark,NJ,Mid New Brunswick,7.6
+73776 Wilson Station Apt. 201,Rochester,NY,East Bronx,5.7
+6200 Kelly View,Albany,NY,West Bronx,1.7
+605 Avila Cliffs,Albany,NY,South Bronx,3.6
+865 Kim Village,Stamford,CT,South Norwalk,7.0
+87735 Heather Station,Hartford,CT,East Hartford,2.7
+5703 Katherine Crossing,Trenton,NJ,East Elizabeth,4.5
+249 Long Light Suite 896,Syracuse,NY,Downtown Manhattan,1.7
+2570 Edward Island Suite 292,Paterson,NJ,South Trenton,1.0
+732 Sean Terrace Suite 820,Bridgeport,CT,East Hartford,2.7
+9705 Gary Roads,Waterbury,CT,East Hartford,2.7
+7706 Gina Summit Suite 417,Trenton,NJ,Downtown Camden,1.3
+801 Moore Spur,Newark,NJ,Downtown Camden,1.3
+34968 Miller Neck Apt. 364,New York,NY,Midtown East,2.1
+5709 Nicholas Drive,New Haven,CT,East Hartford,2.7
+90021 Jerry Forest,Newark,NJ,Mid New Brunswick,7.6
+6087 Romero Skyway,Trenton,NJ,Downtown Camden,1.3
+36136 Wood Stravenue Suite 798,Hartford,CT,East Hartford,2.7
+40298 Perez Drive Suite 835,Buffalo,NY,Midtown West,6.1
+631 Pine Drive,New York,NY,West Bronx,1.7
+380 Chad Valley,New York,NY,East Bronx,5.7
+927 Maple Street,New York,NY,West Bronx,1.7
+1156 Maple Street,New York,NY,Downtown Manhattan,1.7
+1795 Omar Park,Buffalo,NY,Lower West Side,1.5
+3798 Maple Street,Buffalo,NY,Lower West Side,1.5
+5460 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+368 Pine Drive,Elizabeth,NJ,East Elizabeth,4.5
+2394 Omar Park,Stamford,CT,South Norwalk,7.0
+4120 Maple Street,Stamford,CT,North New Haven,7.1
+1375 Oak Avenue,Stamford,CT,East Hartford,2.7
+7116 Oak Avenue,Rochester,CT,East Hartford,2.7
+9932 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+1918 Chad Valley,Hartford,CT,North New Haven,7.1
+10425 Omar Park,Hartford,CT,Downtown New London,3.2
+2672 Elm Circle,Hartford,CT,East Hartford,2.7
+3740 Elm Circle,Buffalo,NY,Midtown West,6.1
+10242 Pine Drive,Buffalo,NY,East Bronx,5.7
+13281 Dawson Terrace,Buffalo,NY,Downtown Brooklyn,4.8
+10840 Cedar Lane,Waterbury,CT,Downtown Stamford,9.4
+5040 Santos Stream,Waterbury,CT,Downtown New London,3.2
+19316 Elm Circle,Waterbury,CT,East Hartford,2.7
+4416 Cedar Lane,New Haven,CT,North New Haven,7.1
+10416 Dawson Terrace,New York,NY,South Bronx,3.6
+11525 Santos Stream,Stamford,CT,East Hartford,2.7
+4160 Cedar Lane,Stamford,CT,South Norwalk,7.0
+20520 Oak Avenue,Stamford,CT,North New Haven,7.1
+3052 Dawson Terrace,Elizabeth,NJ,South Trenton,1.0
+17168 Santos Stream,Jersey City,CT,East Hartford,2.7
+11940 Alison Bridge,Jersey City,CT,Downtown New London,3.2
+16616 Cedar Lane,Jersey City,CT,Downtown Stamford,9.4
+20512 Elm Circle,Buffalo,NY,Northern Queens,9.3
+4323 Pine Drive,Waterbury,CT,North New Haven,7.1
+24208 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+34825 Alison Bridge,Waterbury,CT,Downtown New London,3.2
+8244 Omar Park,Buffalo,NY,Downtown Manhattan,1.7
+11359 Omar Park,Buffalo,NY,Lower West Side,1.5
+35150 Cedar Lane,Hartford,CT,South Norwalk,7.0
+26871 Omar Park,Hartford,CT,North New Haven,7.1
+38680 Alison Bridge,Hartford,CT,Downtown New London,3.2
+2378 Pine Drive,Hartford,CT,East Hartford,2.7
+39816 Omar Park,Paterson,CT,North New Haven,7.1
+35991 Dawson Terrace,Paterson,CT,Downtown Stamford,9.4
+20240 Oak Avenue,Paterson,CT,East Hartford,2.7
+25875 Omar Park,Syracuse,CT,North New Haven,7.1
+42182 Santos Stream,Waterbury,CT,North New Haven,7.1
+27965 Alison Bridge,Albany,CT,South Norwalk,7.0
+5472 Oak Avenue,Newark,CT,East Hartford,2.7
+37779 Santos Stream,Newark,CT,Downtown Stamford,9.4
+4400 Santos Stream,Newark,CT,North New Haven,7.1
+29172 Oak Avenue,New York,NY,Lower East Side,6.8
+31200 Dawson Terrace,Syracuse,CT,Downtown Stamford,9.4
+7526 Maple Street,Syracuse,CT,East Hartford,2.7
+32940 Elm Circle,Syracuse,CT,Downtown Stamford,9.4
+52195 Omar Park,Elizabeth,NJ,Mid New Brunswick,7.6
+53088 Elm Circle,Elizabeth,NJ,Downtown Camden,1.3
+26163 Santos Stream,Jersey City,CT,Downtown Stamford,9.4
+6960 Alison Bridge,Jersey City,CT,East Hartford,2.7
+17287 Maple Street,Jersey City,CT,North New Haven,7.1
+16020 Cedar Lane,Hartford,CT,East Hartford,2.7
+32452 Cedar Lane,Hartford,CT,Downtown Stamford,9.4
+36766 Pine Drive,Newark,CT,Downtown New London,3.2
+56889 Chad Valley,Waterbury,CT,Downtown Stamford,9.4
+39424 Alison Bridge,Paterson,CT,Downtown Stamford,9.4
+13910 Chad Valley,New Haven,CT,Downtown Stamford,9.4
+14256 Dawson Terrace,Albany,CT,Downtown New London,3.2
+11256 Santos Stream,Syracuse,CT,Downtown Stamford,9.4
+56032 Alison Bridge,Stamford,CT,Downtown Stamford,9.4
+20010 Pine Drive,Stamford,CT,North New Haven,7.1
+61460 Santos Stream,Stamford,CT,South Norwalk,7.0
+19454 Omar Park,Trenton,CT,Downtown New London,3.2
+10152 Maple Street,Trenton,CT,Downtown New London,3.2
+35478 Maple Street,Trenton,CT,Downtown Stamford,9.4
+55352 Santos Stream,Newark,CT,Downtown New London,3.2
+63150 Dawson Terrace,Newark,CT,Downtown New London,3.2
+61104 Elm Circle,Newark,CT,East Hartford,2.7
+57134 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+1326 Omar Park,Bridgeport,CT,Downtown New London,3.2
+31047 Alison Bridge,Bridgeport,CT,South Norwalk,7.0
+34880 Oak Avenue,Elizabeth,NJ,East Elizabeth,4.5
+1215 Pine Drive,Elizabeth,NJ,Downtown Camden,1.3
+65682 Oak Avenue,Paterson,CT,North New Haven,7.1
+79514 Cedar Lane,Paterson,CT,South Norwalk,7.0
+76692 Oak Avenue,Paterson,CT,East Hartford,2.7
+57800 Oak Avenue,New Haven,CT,Downtown New London,3.2
+34486 Santos Stream,New Haven,CT,Downtown Stamford,9.4
+39150 Chad Valley,New Haven,CT,Downtown New London,3.2
+12584 Oak Avenue,Bridgeport,CT,Downtown New London,3.2
+72535 Chad Valley,Bridgeport,CT,Downtown New London,3.2
+13500 Omar Park,Bridgeport,CT,South Norwalk,7.0
+49322 Alison Bridge,Hartford,CT,Downtown New London,3.2
+62284 Cedar Lane,Hartford,CT,South Norwalk,7.0
+5673 Alison Bridge,Newark,CT,East Hartford,2.7
+44274 Dawson Terrace,Buffalo,NY,South Staten Island,6.3
+22610 Omar Park,Buffalo,NY,Downtown Brooklyn,4.8
+33696 Cedar Lane,Buffalo,NY,West Bronx,1.7
+36569 Oak Avenue,New York,NY,Midtown West,6.1
+62426 Pine Drive,New York,NY,West Bronx,1.7
+73854 Chad Valley,Albany,CT,Downtown New London,3.2
+19700 Dawson Terrace,Albany,CT,South Norwalk,7.0
+58580 Cedar Lane,Stamford,CT,North New Haven,7.1
+26316 Dawson Terrace,Stamford,CT,East Hartford,2.7
+23278 Elm Circle,Paterson,CT,North New Haven,7.1
+99632 Maple Street,Rochester,CT,Downtown New London,3.2
+19740 Oak Avenue,Rochester,CT,Downtown Stamford,9.4
+21624 Cedar Lane,Rochester,CT,North New Haven,7.1
+49541 Oak Avenue,New York,NY,Upper West Side,7.7
+49356 Omar Park,New York,NY,Upper West Side,7.7
+22890 Dawson Terrace,Buffalo,NY,Northern Queens,9.3
+93060 Maple Street,Trenton,CT,North New Haven,7.1
+41292 Chad Valley,Trenton,CT,North New Haven,7.1
+30688 Pine Drive,Trenton,CT,East Hartford,2.7
+18419 Cedar Lane,Newark,CT,Downtown New London,3.2
+93594 Chad Valley,Waterbury,CT,North New Haven,7.1
+10580 Elm Circle,Waterbury,CT,North New Haven,7.1
+24708 Dawson Terrace,New York,NY,South Bronx,3.6
+102141 Santos Stream,New York,NY,Northern Queens,9.3
+74930 Omar Park,New York,NY,East Bronx,5.7
+103411 Omar Park,Waterbury,CT,Downtown Stamford,9.4
+58800 Alison Bridge,Waterbury,CT,South Norwalk,7.0
+101398 Chad Valley,Waterbury,CT,South Norwalk,7.0
+121268 Cedar Lane,Elizabeth,NJ,Mid New Brunswick,7.6
+70602 Omar Park,New Haven,CT,North New Haven,7.1
+79236 Chad Valley,Jersey City,CT,Downtown Stamford,9.4
+90625 Cedar Lane,Jersey City,CT,Downtown Stamford,9.4
+19908 Maple Street,Jersey City,CT,Downtown New London,3.2
+67818 Dawson Terrace,Elizabeth,NJ,South Trenton,1.0
+56192 Pine Drive,Elizabeth,NJ,Downtown Camden,1.3
+54954 Santos Stream,Elizabeth,NJ,Downtown Camden,1.3
+79950 Chad Valley,New Haven,CT,East Hartford,2.7
+19388 Chad Valley,New Haven,CT,Downtown New London,3.2
+120516 Alison Bridge,New Haven,CT,South Norwalk,7.0
+4788 Maple Street,Syracuse,CT,North New Haven,7.1
+75576 Alison Bridge,Bridgeport,CT,Downtown Stamford,9.4
+116100 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+28016 Oak Avenue,Bridgeport,CT,Downtown Stamford,9.4
+124396 Dawson Terrace,New York,NY,South Staten Island,6.3
+85008 Chad Valley,New York,NY,Northern Queens,9.3
+100358 Cedar Lane,New York,NY,Lower West Side,1.5
+36400 Dawson Terrace,Waterbury,CT,South Norwalk,7.0
+68808 Chad Valley,Waterbury,CT,East Hartford,2.7
+33654 Dawson Terrace,Bridgeport,CT,South Norwalk,7.0
+57915 Elm Circle,Bridgeport,CT,South Norwalk,7.0
+138528 Oak Avenue,Newark,CT,East Hartford,2.7
+19140 Santos Stream,Hartford,CT,East Hartford,2.7
+55626 Pine Drive,Hartford,CT,Downtown New London,3.2
+131124 Chad Valley,Hartford,CT,South Norwalk,7.0
+65712 Omar Park,Bridgeport,CT,North New Haven,7.1
+148404 Pine Drive,Bridgeport,CT,Downtown Stamford,9.4
+13650 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+38354 Pine Drive,Jersey City,CT,North New Haven,7.1
+25536 Chad Valley,Jersey City,CT,North New Haven,7.1
+47889 Cedar Lane,Jersey City,CT,East Hartford,2.7
+4158 Alison Bridge,Rochester,CT,Downtown New London,3.2
+74400 Dawson Terrace,Rochester,CT,South Norwalk,7.0
+95628 Chad Valley,Rochester,CT,East Hartford,2.7
+87920 Elm Circle,Buffalo,NY,Upper West Side,7.7
+107124 Chad Valley,Buffalo,NY,Upper West Side,7.7
+76479 Cedar Lane,Buffalo,NY,Upper West Side,7.7
+159840 Oak Avenue,Waterbury,CT,Downtown New London,3.2
+98049 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+117936 Alison Bridge,Waterbury,CT,Downtown Stamford,9.4
+155828 Santos Stream,Newark,CT,East Hartford,2.7
+8200 Pine Drive,Newark,CT,South Norwalk,7.0
+80685 Oak Avenue,Newark,CT,South Norwalk,7.0
+14940 Alison Bridge,Syracuse,CT,East Hartford,2.7
+151469 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+4704 Omar Park,Hartford,CT,East Hartford,2.7
+59826 Alison Bridge,Hartford,CT,South Norwalk,7.0
+27370 Oak Avenue,Hartford,CT,North New Haven,7.1
+103797 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+151360 Pine Drive,Waterbury,CT,East Hartford,2.7
+51208 Santos Stream,Newark,CT,Downtown New London,3.2
+110316 Santos Stream,Bridgeport,CT,South Norwalk,7.0
+86450 Maple Street,Stamford,CT,East Hartford,2.7
+5456 Maple Street,Stamford,CT,North New Haven,7.1
+109740 Santos Stream,Elizabeth,NJ,Downtown Camden,1.3
+131542 Pine Drive,Elizabeth,NJ,South Trenton,1.0
+168260 Oak Avenue,Elizabeth,NJ,Downtown Camden,1.3
+101160 Maple Street,Waterbury,CT,Downtown Stamford,9.4
+16833 Cedar Lane,Waterbury,CT,East Hartford,2.7
+18382 Elm Circle,Waterbury,CT,East Hartford,2.7
+124440 Omar Park,Paterson,CT,South Norwalk,7.0
+48944 Oak Avenue,Paterson,CT,Downtown New London,3.2
+26455 Oak Avenue,Paterson,CT,North New Haven,7.1
+68262 Cedar Lane,Newark,CT,Downtown New London,3.2
+27863 Elm Circle,Newark,CT,North New Haven,7.1
+38352 Omar Park,Buffalo,NY,Downtown Manhattan,1.7
+19089 Maple Street,Buffalo,NY,South Bronx,3.6
+43890 Santos Stream,Buffalo,NY,Lower West Side,1.5
+97983 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+12096 Chad Valley,Albany,CT,North New Haven,7.1
+131626 Maple Street,Hartford,CT,North New Haven,7.1
+1358 Pine Drive,Elizabeth,NJ,Downtown Camden,1.3
+60060 Elm Circle,Elizabeth,NJ,East Elizabeth,4.5
+157780 Chad Valley,Stamford,CT,North New Haven,7.1
+108547 Alison Bridge,Paterson,CT,Downtown New London,3.2
+96624 Chad Valley,Paterson,CT,South Norwalk,7.0
+12736 Omar Park,New Haven,CT,Downtown Stamford,9.4
+145800 Elm Circle,Syracuse,CT,Downtown New London,3.2
+185121 Santos Stream,Elizabeth,NJ,South Trenton,1.0
+110090 Santos Stream,Elizabeth,NJ,East Elizabeth,4.5
+104545 Maple Street,Waterbury,CT,East Hartford,2.7
+1020 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+156620 Santos Stream,Stamford,CT,North New Haven,7.1
+4532 Cedar Lane,Trenton,CT,South Norwalk,7.0
+179469 Maple Street,Trenton,CT,Downtown New London,3.2
+66560 Elm Circle,Buffalo,NY,Midtown East,2.1
+24871 Cedar Lane,Buffalo,NY,Lower West Side,1.5
+175350 Omar Park,Buffalo,NY,South Bronx,3.6
+64144 Omar Park,Newark,CT,South Norwalk,7.0
+113208 Dawson Terrace,Newark,CT,Downtown New London,3.2
+204906 Pine Drive,Trenton,CT,Downtown Stamford,9.4
+100366 Dawson Terrace,Trenton,CT,Downtown Stamford,9.4
+135450 Omar Park,Trenton,CT,Downtown New London,3.2
+96984 Oak Avenue,New Haven,CT,South Norwalk,7.0
+162967 Alison Bridge,New Haven,CT,Downtown Stamford,9.4
+30520 Santos Stream,New Haven,CT,East Hartford,2.7
+34602 Oak Avenue,Trenton,CT,North New Haven,7.1
+169840 Cedar Lane,Syracuse,CT,Downtown Stamford,9.4
+12155 Dawson Terrace,Syracuse,CT,East Hartford,2.7
+69042 Dawson Terrace,Hartford,CT,South Norwalk,7.0
+18732 Chad Valley,Hartford,CT,Downtown New London,3.2
+177856 Dawson Terrace,Bridgeport,CT,East Hartford,2.7
+89775 Maple Street,Elizabeth,NJ,Downtown Camden,1.3
+169048 Omar Park,Elizabeth,NJ,East Elizabeth,4.5
+49940 Chad Valley,Buffalo,NY,North Staten Island,2.0
+92568 Chad Valley,Syracuse,CT,Downtown New London,3.2
+26564 Elm Circle,Syracuse,CT,East Hartford,2.7
+16560 Chad Valley,Hartford,CT,East Hartford,2.7
+92862 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+204160 Maple Street,Elizabeth,NJ,South Trenton,1.0
+226243 Oak Avenue,Paterson,CT,Downtown Stamford,9.4
+51480 Dawson Terrace,Paterson,CT,Downtown New London,3.2
+37600 Santos Stream,Paterson,CT,North New Haven,7.1
+89444 Chad Valley,New Haven,CT,East Hartford,2.7
+103569 Omar Park,New Haven,CT,North New Haven,7.1
+177072 Oak Avenue,New Haven,CT,East Hartford,2.7
+135513 Omar Park,Rochester,CT,Downtown New London,3.2
+168960 Elm Circle,Rochester,CT,Downtown Stamford,9.4
+26992 Santos Stream,Bridgeport,CT,North New Haven,7.1
+218768 Santos Stream,New York,NY,Lower East Side,6.8
+1215 Cedar Lane,New York,NY,Upper West Side,7.7
+168848 Elm Circle,Rochester,CT,North New Haven,7.1
+6370 Cedar Lane,Albany,CT,East Hartford,2.7
+76506 Cedar Lane,Albany,CT,Downtown Stamford,9.4
+98059 Pine Drive,Albany,CT,East Hartford,2.7
+72168 Elm Circle,Elizabeth,NJ,East Elizabeth,4.5
+246261 Chad Valley,Paterson,CT,East Hartford,2.7
+86750 Santos Stream,Paterson,CT,North New Haven,7.1
+234434 Alison Bridge,Paterson,CT,South Norwalk,7.0
+85680 Oak Avenue,Bridgeport,CT,East Hartford,2.7
+220869 Maple Street,Waterbury,CT,North New Haven,7.1
+22352 Oak Avenue,Waterbury,CT,North New Haven,7.1
+10710 Pine Drive,Waterbury,CT,East Hartford,2.7
+175104 Elm Circle,Hartford,CT,South Norwalk,7.0
+34952 Chad Valley,Hartford,CT,Downtown Stamford,9.4
+185502 Chad Valley,Paterson,CT,North New Haven,7.1
+72261 Santos Stream,Rochester,CT,North New Haven,7.1
+200200 Alison Bridge,Elizabeth,NJ,Downtown Camden,1.3
+215586 Alison Bridge,Elizabeth,NJ,South Trenton,1.0
+221652 Alison Bridge,Elizabeth,NJ,South Trenton,1.0
+194094 Maple Street,Elizabeth,NJ,South Trenton,1.0
+70752 Elm Circle,Elizabeth,NJ,South Trenton,1.0
+113950 Cedar Lane,Bridgeport,CT,East Hartford,2.7
+213332 Oak Avenue,Bridgeport,CT,Downtown Stamford,9.4
+159399 Oak Avenue,Waterbury,CT,East Hartford,2.7
+183044 Santos Stream,Waterbury,CT,South Norwalk,7.0
+172698 Cedar Lane,Buffalo,NY,South Staten Island,6.3
+54270 Alison Bridge,Jersey City,CT,Downtown Stamford,9.4
+34959 Omar Park,Jersey City,CT,Downtown New London,3.2
+59024 Cedar Lane,Jersey City,CT,South Norwalk,7.0
+75075 Oak Avenue,Newark,CT,East Hartford,2.7
+29866 Pine Drive,Hartford,CT,North New Haven,7.1
+165825 Elm Circle,Hartford,CT,East Hartford,2.7
+108192 Chad Valley,Syracuse,CT,East Hartford,2.7
+75621 Oak Avenue,Albany,CT,East Hartford,2.7
+174584 Elm Circle,Rochester,CT,South Norwalk,7.0
+215388 Omar Park,Rochester,CT,Downtown New London,3.2
+87640 Cedar Lane,Rochester,CT,North New Haven,7.1
+230701 Omar Park,Stamford,CT,North New Haven,7.1
+260850 Elm Circle,Stamford,CT,East Hartford,2.7
+56600 Omar Park,Stamford,CT,East Hartford,2.7
+143136 Dawson Terrace,Hartford,CT,East Hartford,2.7
+258210 Chad Valley,Hartford,CT,East Hartford,2.7
+167024 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+13202 Alison Bridge,Elizabeth,NJ,Downtown Camden,1.3
+101952 Elm Circle,Elizabeth,NJ,Mid New Brunswick,7.6
+27744 Omar Park,Stamford,CT,Downtown Stamford,9.4
+224170 Oak Avenue,Stamford,CT,Downtown Stamford,9.4
+22698 Maple Street,Paterson,CT,South Norwalk,7.0
+102200 Santos Stream,Paterson,CT,East Hartford,2.7
+180488 Maple Street,Paterson,CT,North New Haven,7.1
+263424 Chad Valley,Stamford,CT,South Norwalk,7.0
+104725 Elm Circle,Stamford,CT,South Norwalk,7.0
+27528 Santos Stream,New York,NY,Northern Queens,9.3
+206415 Oak Avenue,New Haven,CT,Downtown New London,3.2
+273564 Santos Stream,New Haven,CT,North New Haven,7.1
+274183 Chad Valley,New Haven,CT,North New Haven,7.1
+238200 Alison Bridge,Trenton,CT,Downtown New London,3.2
+149296 Maple Street,Syracuse,CT,Downtown Stamford,9.4
+105700 Maple Street,Paterson,CT,North New Haven,7.1
+106656 Pine Drive,Newark,CT,Downtown Stamford,9.4
+133152 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+47275 Dawson Terrace,Albany,CT,East Hartford,2.7
+182988 Elm Circle,Albany,CT,Downtown New London,3.2
+112669 Oak Avenue,Bridgeport,CT,Downtown New London,3.2
+230076 Oak Avenue,Trenton,CT,East Hartford,2.7
+75396 Elm Circle,Trenton,CT,Downtown Stamford,9.4
+72850 Cedar Lane,Trenton,CT,Downtown Stamford,9.4
+141816 Elm Circle,Trenton,CT,North New Haven,7.1
+42744 Pine Drive,Trenton,CT,Downtown New London,3.2
+269180 Maple Street,Hartford,CT,North New Haven,7.1
+149150 Pine Drive,Hartford,CT,North New Haven,7.1
+247590 Omar Park,Hartford,CT,Downtown New London,3.2
+266704 Dawson Terrace,Hartford,CT,North New Haven,7.1
+27579 Cedar Lane,Elizabeth,NJ,Downtown Camden,1.3
+202884 Santos Stream,Elizabeth,NJ,East Elizabeth,4.5
+45298 Alison Bridge,Elizabeth,NJ,East Elizabeth,4.5
+73280 Maple Street,Trenton,CT,Downtown Stamford,9.4
+6741 Cedar Lane,Trenton,CT,South Norwalk,7.0
+17066 Oak Avenue,Newark,CT,North New Haven,7.1
+158916 Maple Street,Newark,CT,North New Haven,7.1
+302292 Chad Valley,Newark,CT,Downtown New London,3.2
+154050 Cedar Lane,Paterson,CT,North New Haven,7.1
+312634 Chad Valley,Paterson,CT,South Norwalk,7.0
+63438 Pine Drive,Paterson,CT,East Hartford,2.7
+64944 Chad Valley,Stamford,CT,East Hartford,2.7
+209902 Cedar Lane,Stamford,CT,Downtown Stamford,9.4
+297660 Santos Stream,Newark,CT,South Norwalk,7.0
+265793 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+320712 Omar Park,Elizabeth,NJ,South Trenton,1.0
+85914 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+67468 Alison Bridge,Elizabeth,NJ,East Elizabeth,4.5
+32495 Omar Park,New Haven,CT,East Hartford,2.7
+306768 Dawson Terrace,Hartford,CT,Downtown New London,3.2
+203211 Pine Drive,Hartford,CT,South Norwalk,7.0
+292370 Maple Street,Hartford,CT,Downtown Stamford,9.4
+227808 Omar Park,Bridgeport,CT,Downtown Stamford,9.4
+155720 Omar Park,Elizabeth,NJ,Mid New Brunswick,7.6
+99913 Oak Avenue,Stamford,CT,North New Haven,7.1
+161766 Pine Drive,Stamford,CT,South Norwalk,7.0
+39102 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+321296 Alison Bridge,New York,NY,Lower West Side,1.5
+184230 Dawson Terrace,New York,NY,Upper West Side,7.7
+128366 Alison Bridge,Waterbury,CT,North New Haven,7.1
+156497 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+48024 Pine Drive,Waterbury,CT,East Hartford,2.7
+51652 Pine Drive,Trenton,CT,North New Haven,7.1
+316050 Cedar Lane,Trenton,CT,North New Haven,7.1
+255177 Elm Circle,New York,NY,South Staten Island,6.3
+179872 Oak Avenue,Syracuse,CT,Downtown Stamford,9.4
+237216 Maple Street,Trenton,CT,East Hartford,2.7
+146202 Alison Bridge,Paterson,CT,North New Haven,7.1
+106145 Elm Circle,New Haven,CT,Downtown New London,3.2
+187968 Alison Bridge,New Haven,CT,Downtown Stamford,9.4
+225624 Santos Stream,New Haven,CT,Downtown New London,3.2
+208356 Alison Bridge,Jersey City,CT,Downtown New London,3.2
+347871 Alison Bridge,Jersey City,CT,Downtown Stamford,9.4
+353160 Elm Circle,Bridgeport,CT,Downtown New London,3.2
+331037 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+73124 Alison Bridge,Stamford,CT,East Hartford,2.7
+335412 Pine Drive,Stamford,CT,East Hartford,2.7
+353808 Santos Stream,Albany,CT,Downtown New London,3.2
+203305 Oak Avenue,Bridgeport,CT,East Hartford,2.7
+209718 Maple Street,Bridgeport,CT,North New Haven,7.1
+91750 Alison Bridge,Trenton,CT,North New Haven,7.1
+27600 Oak Avenue,Jersey City,CT,East Hartford,2.7
+199629 Cedar Lane,New York,NY,Lower East Side,6.8
+129500 Oak Avenue,New York,NY,Lower East Side,6.8
+256732 Elm Circle,New York,NY,Lower West Side,1.5
+199392 Dawson Terrace,Syracuse,CT,Downtown Stamford,9.4
+342041 Pine Drive,Syracuse,CT,North New Haven,7.1
+143242 Elm Circle,Rochester,CT,East Hartford,2.7
+42000 Chad Valley,Rochester,CT,Downtown New London,3.2
+97760 Chad Valley,Rochester,CT,Downtown Stamford,9.4
+326482 Dawson Terrace,Newark,CT,East Hartford,2.7
+175770 Elm Circle,Newark,CT,South Norwalk,7.0
+92097 Omar Park,Syracuse,CT,East Hartford,2.7
+112860 Cedar Lane,Trenton,CT,South Norwalk,7.0
+141351 Elm Circle,Trenton,CT,Downtown Stamford,9.4
+354496 Pine Drive,Newark,CT,North New Haven,7.1
+91154 Alison Bridge,Newark,CT,South Norwalk,7.0
+234240 Santos Stream,Newark,CT,East Hartford,2.7
+74305 Chad Valley,Buffalo,NY,Lower West Side,1.5
+243952 Cedar Lane,Buffalo,NY,North Staten Island,2.0
+240714 Dawson Terrace,Jersey City,CT,Downtown Stamford,9.4
+176152 Pine Drive,Jersey City,CT,Downtown Stamford,9.4
+26841 Chad Valley,Syracuse,CT,North New Haven,7.1
+212550 Elm Circle,Syracuse,CT,North New Haven,7.1
+68034 Dawson Terrace,Syracuse,CT,South Norwalk,7.0
+301448 Maple Street,Rochester,CT,South Norwalk,7.0
+306147 Alison Bridge,Rochester,CT,South Norwalk,7.0
+5516 Maple Street,Waterbury,CT,Downtown New London,3.2
+389470 Santos Stream,Waterbury,CT,North New Haven,7.1
+354024 Alison Bridge,Rochester,CT,East Hartford,2.7
+377944 Omar Park,Rochester,CT,North New Haven,7.1
+210542 Santos Stream,New Haven,CT,East Hartford,2.7
+278901 Pine Drive,Buffalo,NY,Upper West Side,7.7
+323600 Dawson Terrace,Buffalo,NY,North Staten Island,2.0
+105864 Cedar Lane,Hartford,CT,East Hartford,2.7
+72360 Pine Drive,Waterbury,CT,East Hartford,2.7
+164827 Chad Valley,Buffalo,NY,South Bronx,3.6
+173316 Maple Street,Buffalo,NY,North Staten Island,2.0
+276615 Elm Circle,Buffalo,NY,Upper East Side,8.0
+220458 Pine Drive,Stamford,CT,North New Haven,7.1
+261294 Dawson Terrace,Syracuse,CT,East Hartford,2.7
+290088 Cedar Lane,Syracuse,CT,South Norwalk,7.0
+233130 Dawson Terrace,Syracuse,CT,South Norwalk,7.0
+321850 Alison Bridge,Waterbury,CT,Downtown New London,3.2
+227694 Santos Stream,Waterbury,CT,South Norwalk,7.0
+201880 Chad Valley,Waterbury,CT,South Norwalk,7.0
+198240 Cedar Lane,New York,NY,Lower West Side,1.5
+378810 Dawson Terrace,New York,NY,Midtown East,2.1
+387610 Elm Circle,Elizabeth,NJ,East Elizabeth,4.5
+304512 Chad Valley,Paterson,CT,North New Haven,7.1
+42534 Santos Stream,Paterson,CT,Downtown Stamford,9.4
+16302 Cedar Lane,Paterson,CT,North New Haven,7.1
+26816 Oak Avenue,Hartford,CT,North New Haven,7.1
+338940 Santos Stream,Hartford,CT,Downtown New London,3.2
+155770 Pine Drive,Hartford,CT,Downtown Stamford,9.4
+108454 Santos Stream,Buffalo,NY,North Staten Island,2.0
+197964 Cedar Lane,Rochester,CT,South Norwalk,7.0
+52152 Dawson Terrace,Rochester,CT,Downtown New London,3.2
+155975 Santos Stream,Buffalo,NY,Lower West Side,1.5
+25560 Santos Stream,Buffalo,NY,North Staten Island,2.0
+254065 Chad Valley,Buffalo,NY,Midtown East,2.1
+308160 Chad Valley,Buffalo,NY,Downtown Brooklyn,4.8
+293436 Omar Park,Buffalo,NY,East Bronx,5.7
+344860 Dawson Terrace,Newark,CT,East Hartford,2.7
+80597 Cedar Lane,Newark,CT,South Norwalk,7.0
+339120 Omar Park,Paterson,CT,Downtown Stamford,9.4
+330379 Santos Stream,Paterson,CT,Downtown Stamford,9.4
+341558 Alison Bridge,Bridgeport,CT,East Hartford,2.7
+433695 Dawson Terrace,Bridgeport,CT,East Hartford,2.7
+113796 Cedar Lane,Syracuse,CT,Downtown New London,3.2
+101384 Alison Bridge,Syracuse,CT,South Norwalk,7.0
+266742 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+50485 Pine Drive,Albany,CT,Downtown New London,3.2
+244200 Maple Street,Albany,CT,East Hartford,2.7
+310464 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+321776 Dawson Terrace,Syracuse,CT,Downtown New London,3.2
+315859 Omar Park,Jersey City,CT,South Norwalk,7.0
+68376 Omar Park,Newark,CT,East Hartford,2.7
+11125 Elm Circle,Jersey City,CT,North New Haven,7.1
+446 Omar Park,Jersey City,CT,Downtown New London,3.2
+392466 Pine Drive,Jersey City,CT,East Hartford,2.7
+63616 Cedar Lane,Jersey City,CT,Downtown Stamford,9.4
+26491 Elm Circle,Jersey City,CT,North New Haven,7.1
+411750 Cedar Lane,Buffalo,NY,West Bronx,1.7
+92455 Santos Stream,Buffalo,NY,Lower West Side,1.5
+36160 Chad Valley,Buffalo,NY,South Staten Island,6.3
+107361 Elm Circle,New York,NY,Northern Queens,9.3
+90346 Cedar Lane,New York,NY,Northern Queens,9.3
+419965 Maple Street,Stamford,CT,Downtown New London,3.2
+103512 Alison Bridge,Stamford,CT,Downtown New London,3.2
+300706 Chad Valley,Stamford,CT,East Hartford,2.7
+18320 Dawson Terrace,Trenton,CT,North New Haven,7.1
+139536 Maple Street,Trenton,CT,North New Haven,7.1
+165600 Cedar Lane,Syracuse,CT,North New Haven,7.1
+233727 Dawson Terrace,Syracuse,CT,South Norwalk,7.0
+424116 Cedar Lane,Syracuse,CT,South Norwalk,7.0
+6019 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+179104 Omar Park,Bridgeport,CT,North New Haven,7.1
+140430 Chad Valley,Waterbury,CT,East Hartford,2.7
+351830 Dawson Terrace,Hartford,CT,East Hartford,2.7
+444584 Omar Park,Hartford,CT,East Hartford,2.7
+453024 Omar Park,Hartford,CT,South Norwalk,7.0
+353157 Elm Circle,Stamford,CT,South Norwalk,7.0
+227480 Dawson Terrace,Stamford,CT,Downtown New London,3.2
+357960 Elm Circle,Stamford,CT,North New Haven,7.1
+184080 Chad Valley,Syracuse,CT,North New Haven,7.1
+204809 Maple Street,Syracuse,CT,North New Haven,7.1
+420912 Oak Avenue,Syracuse,CT,Downtown New London,3.2
+76950 Chad Valley,Syracuse,CT,East Hartford,2.7
+246568 Chad Valley,Hartford,CT,East Hartford,2.7
+398295 Santos Stream,Syracuse,CT,Downtown New London,3.2
+245214 Pine Drive,Syracuse,CT,Downtown New London,3.2
+213155 Chad Valley,Syracuse,CT,North New Haven,7.1
+23040 Elm Circle,Albany,CT,Downtown New London,3.2
+244348 Maple Street,Albany,CT,North New Haven,7.1
+365838 Oak Avenue,Albany,CT,Downtown Stamford,9.4
+50232 Chad Valley,New Haven,CT,North New Haven,7.1
+65340 Maple Street,New Haven,CT,Downtown Stamford,9.4
+299245 Chad Valley,Newark,CT,South Norwalk,7.0
+480654 Dawson Terrace,Newark,CT,South Norwalk,7.0
+296583 Pine Drive,Newark,CT,North New Haven,7.1
+436760 Chad Valley,Newark,CT,South Norwalk,7.0
+444012 Omar Park,Newark,CT,North New Haven,7.1
+168560 Oak Avenue,Syracuse,CT,Downtown New London,3.2
+193945 Maple Street,Syracuse,CT,Downtown New London,3.2
+438864 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+131631 Elm Circle,Rochester,CT,South Norwalk,7.0
+125970 Elm Circle,Trenton,CT,North New Haven,7.1
+88110 Pine Drive,Trenton,CT,Downtown Stamford,9.4
+41168 Cedar Lane,Trenton,CT,Downtown Stamford,9.4
+380702 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+235056 Pine Drive,Elizabeth,NJ,Mid New Brunswick,7.6
+206586 Maple Street,Elizabeth,NJ,Mid New Brunswick,7.6
+228000 Cedar Lane,Hartford,CT,East Hartford,2.7
+223947 Chad Valley,Hartford,CT,South Norwalk,7.0
+256522 Chad Valley,Hartford,CT,South Norwalk,7.0
+493946 Pine Drive,Elizabeth,NJ,South Trenton,1.0
+111384 Alison Bridge,Elizabeth,NJ,Downtown Camden,1.3
+464095 Dawson Terrace,Elizabeth,NJ,Mid New Brunswick,7.6
+200376 Maple Street,Elizabeth,NJ,South Trenton,1.0
+446667 Elm Circle,Elizabeth,NJ,Mid New Brunswick,7.6
+493268 Santos Stream,Syracuse,CT,North New Haven,7.1
+317107 Cedar Lane,Syracuse,CT,South Norwalk,7.0
+278460 Alison Bridge,Syracuse,CT,North New Haven,7.1
+379673 Omar Park,New Haven,CT,Downtown Stamford,9.4
+436736 Chad Valley,Albany,CT,Downtown New London,3.2
+189297 Elm Circle,Albany,CT,Downtown New London,3.2
+83782 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+201880 Alison Bridge,Waterbury,CT,Downtown Stamford,9.4
+352428 Dawson Terrace,Elizabeth,NJ,East Elizabeth,4.5
+495286 Santos Stream,Elizabeth,NJ,South Trenton,1.0
+360010 Omar Park,Rochester,CT,Downtown New London,3.2
+481113 Cedar Lane,Rochester,CT,North New Haven,7.1
+464880 Dawson Terrace,Rochester,CT,Downtown New London,3.2
+474110 Oak Avenue,Stamford,CT,South Norwalk,7.0
+443178 Omar Park,Albany,CT,Downtown Stamford,9.4
+488482 Maple Street,Albany,CT,North New Haven,7.1
+239992 Maple Street,Albany,CT,East Hartford,2.7
+112350 Elm Circle,Rochester,CT,South Norwalk,7.0
+386610 Maple Street,Rochester,CT,North New Haven,7.1
+45322 Oak Avenue,Rochester,CT,North New Haven,7.1
+177408 Cedar Lane,Paterson,CT,East Hartford,2.7
+372945 Pine Drive,Paterson,CT,Downtown Stamford,9.4
+40280 Elm Circle,Paterson,CT,East Hartford,2.7
+479493 Oak Avenue,Buffalo,NY,Midtown East,2.1
+175028 Alison Bridge,Buffalo,NY,Lower East Side,6.8
+345384 Dawson Terrace,Jersey City,CT,South Norwalk,7.0
+135636 Dawson Terrace,Jersey City,CT,Downtown New London,3.2
+33170 Dawson Terrace,Newark,CT,North New Haven,7.1
+17152 Cedar Lane,Newark,CT,South Norwalk,7.0
+156267 Maple Street,Newark,CT,North New Haven,7.1
+243176 Elm Circle,Bridgeport,CT,East Hartford,2.7
+57134 Elm Circle,Albany,CT,South Norwalk,7.0
+208440 Chad Valley,Albany,CT,South Norwalk,7.0
+56805 Santos Stream,Bridgeport,CT,East Hartford,2.7
+78590 Dawson Terrace,Paterson,CT,North New Haven,7.1
+90681 Dawson Terrace,Jersey City,CT,North New Haven,7.1
+200736 Oak Avenue,Hartford,CT,Downtown Stamford,9.4
+63220 Elm Circle,New Haven,CT,Downtown Stamford,9.4
+226044 Maple Street,New Haven,CT,Downtown Stamford,9.4
+176134 Omar Park,Waterbury,CT,North New Haven,7.1
+322772 Omar Park,Waterbury,CT,East Hartford,2.7
+516060 Omar Park,Waterbury,CT,Downtown New London,3.2
+253550 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+85956 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+361008 Cedar Lane,Jersey City,CT,South Norwalk,7.0
+28756 Elm Circle,Elizabeth,NJ,East Elizabeth,4.5
+186144 Pine Drive,Jersey City,CT,Downtown New London,3.2
+410700 Cedar Lane,Bridgeport,CT,East Hartford,2.7
+392536 Chad Valley,Bridgeport,CT,Downtown Stamford,9.4
+399369 Elm Circle,Bridgeport,CT,East Hartford,2.7
+50778 Oak Avenue,Albany,CT,South Norwalk,7.0
+334841 Santos Stream,Albany,CT,Downtown Stamford,9.4
+330400 Alison Bridge,Albany,CT,North New Haven,7.1
+558195 Chad Valley,Buffalo,NY,West Bronx,1.7
+409698 Omar Park,Buffalo,NY,Lower East Side,6.8
+318658 Dawson Terrace,Buffalo,NY,East Bronx,5.7
+143256 Dawson Terrace,Newark,CT,East Hartford,2.7
+375160 Santos Stream,Hartford,CT,North New Haven,7.1
+37356 Pine Drive,Hartford,CT,East Hartford,2.7
+451899 Chad Valley,Syracuse,CT,North New Haven,7.1
+2840 Cedar Lane,Syracuse,CT,East Hartford,2.7
+118352 Pine Drive,Syracuse,CT,South Norwalk,7.0
+254790 Dawson Terrace,Buffalo,NY,Midtown East,2.1
+397987 Oak Avenue,Hartford,CT,East Hartford,2.7
+219648 Elm Circle,Hartford,CT,East Hartford,2.7
+425739 Pine Drive,Hartford,CT,Downtown New London,3.2
+398930 Alison Bridge,Rochester,CT,Downtown New London,3.2
+376625 Alison Bridge,Rochester,CT,North New Haven,7.1
+170496 Pine Drive,Rochester,CT,South Norwalk,7.0
+2885 Cedar Lane,Stamford,CT,South Norwalk,7.0
+548522 Omar Park,New York,NY,North Staten Island,2.0
+103062 Pine Drive,Paterson,CT,North New Haven,7.1
+307980 Chad Valley,Paterson,CT,South Norwalk,7.0
+77273 Maple Street,Rochester,CT,South Norwalk,7.0
+520890 Chad Valley,Rochester,CT,East Hartford,2.7
+511874 Santos Stream,Rochester,CT,Downtown New London,3.2
+412304 Pine Drive,New Haven,CT,South Norwalk,7.0
+462150 Omar Park,New Haven,CT,Downtown New London,3.2
+236744 Maple Street,Waterbury,CT,East Hartford,2.7
+487797 Omar Park,Waterbury,CT,Downtown New London,3.2
+68796 Omar Park,Albany,CT,East Hartford,2.7
+18259 Alison Bridge,Bridgeport,CT,South Norwalk,7.0
+590000 Pine Drive,Bridgeport,CT,Downtown Stamford,9.4
+393015 Santos Stream,Newark,CT,South Norwalk,7.0
+179968 Dawson Terrace,Newark,CT,South Norwalk,7.0
+415693 Pine Drive,Newark,CT,East Hartford,2.7
+487674 Alison Bridge,Bridgeport,CT,South Norwalk,7.0
+414715 Omar Park,Bridgeport,CT,Downtown New London,3.2
+82844 Oak Avenue,Bridgeport,CT,South Norwalk,7.0
+84774 Pine Drive,Newark,CT,Downtown New London,3.2
+446108 Dawson Terrace,Newark,CT,Downtown Stamford,9.4
+507952 Maple Street,New Haven,CT,Downtown New London,3.2
+424200 Pine Drive,New Haven,CT,Downtown New London,3.2
+370817 Alison Bridge,New Haven,CT,East Hartford,2.7
+313642 Santos Stream,Waterbury,CT,East Hartford,2.7
+527625 Oak Avenue,Waterbury,CT,East Hartford,2.7
+419176 Cedar Lane,Elizabeth,NJ,East Elizabeth,4.5
+276485 Pine Drive,Newark,CT,South Norwalk,7.0
+444198 Elm Circle,Newark,CT,East Hartford,2.7
+10926 Dawson Terrace,Elizabeth,NJ,South Trenton,1.0
+346560 Elm Circle,Elizabeth,NJ,Downtown Camden,1.3
+372099 Chad Valley,Paterson,CT,South Norwalk,7.0
+594750 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+442975 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+100980 Santos Stream,Paterson,CT,East Hartford,2.7
+483044 Santos Stream,Newark,CT,South Norwalk,7.0
+553828 Omar Park,Newark,CT,Downtown Stamford,9.4
+41820 Santos Stream,New Haven,CT,Downtown New London,3.2
+270424 Dawson Terrace,New Haven,CT,East Hartford,2.7
+507174 Elm Circle,New Haven,CT,North New Haven,7.1
+427038 Chad Valley,Newark,CT,South Norwalk,7.0
+266170 Maple Street,Newark,CT,Downtown New London,3.2
+291400 Alison Bridge,Newark,CT,North New Haven,7.1
+478791 Pine Drive,Albany,CT,North New Haven,7.1
+283632 Alison Bridge,Albany,CT,Downtown New London,3.2
+355733 Pine Drive,Hartford,CT,Downtown Stamford,9.4
+309504 Alison Bridge,Hartford,CT,Downtown New London,3.2
+343125 Maple Street,Hartford,CT,South Norwalk,7.0
+406274 Alison Bridge,New York,NY,South Bronx,3.6
+429495 Santos Stream,New York,NY,South Bronx,3.6
+209752 Dawson Terrace,Newark,CT,North New Haven,7.1
+288711 Elm Circle,Newark,CT,East Hartford,2.7
+137970 Maple Street,Trenton,CT,Downtown Stamford,9.4
+208861 Alison Bridge,Trenton,CT,Downtown New London,3.2
+408904 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+125334 Chad Valley,Rochester,CT,South Norwalk,7.0
+54524 Cedar Lane,Rochester,CT,Downtown New London,3.2
+231775 Chad Valley,Rochester,CT,Downtown Stamford,9.4
+552684 Santos Stream,Rochester,CT,East Hartford,2.7
+424879 Elm Circle,New Haven,CT,South Norwalk,7.0
+416614 Elm Circle,New Haven,CT,East Hartford,2.7
+400014 Alison Bridge,New Haven,CT,North New Haven,7.1
+147840 Omar Park,Paterson,CT,East Hartford,2.7
+106406 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+308802 Cedar Lane,Albany,CT,South Norwalk,7.0
+245626 Santos Stream,Elizabeth,NJ,East Elizabeth,4.5
+261464 Maple Street,Elizabeth,NJ,South Trenton,1.0
+257355 Santos Stream,Syracuse,CT,Downtown Stamford,9.4
+76874 Elm Circle,Paterson,CT,East Hartford,2.7
+62112 Maple Street,Trenton,CT,Downtown New London,3.2
+202824 Oak Avenue,Rochester,CT,South Norwalk,7.0
+532829 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+146900 Maple Street,Rochester,CT,South Norwalk,7.0
+203763 Oak Avenue,Buffalo,NY,South Staten Island,6.3
+468788 Dawson Terrace,Jersey City,CT,Downtown New London,3.2
+60729 Pine Drive,Jersey City,CT,South Norwalk,7.0
+464994 Omar Park,New Haven,CT,East Hartford,2.7
+132965 Chad Valley,New Haven,CT,Downtown New London,3.2
+239440 Cedar Lane,New Haven,CT,North New Haven,7.1
+651744 Maple Street,New Haven,CT,Downtown Stamford,9.4
+141470 Chad Valley,Newark,CT,South Norwalk,7.0
+648456 Elm Circle,Newark,CT,East Hartford,2.7
+385440 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+156657 Maple Street,Trenton,CT,South Norwalk,7.0
+429638 Chad Valley,Trenton,CT,East Hartford,2.7
+280449 Pine Drive,Paterson,CT,Downtown New London,3.2
+314072 Omar Park,Paterson,CT,North New Haven,7.1
+612465 Omar Park,Paterson,CT,South Norwalk,7.0
+390942 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+139403 Maple Street,Paterson,CT,South Norwalk,7.0
+402804 Dawson Terrace,Newark,CT,North New Haven,7.1
+258903 Pine Drive,Newark,CT,South Norwalk,7.0
+120600 Santos Stream,Jersey City,CT,North New Haven,7.1
+270413 Cedar Lane,Paterson,CT,North New Haven,7.1
+207648 Maple Street,Rochester,CT,Downtown New London,3.2
+654829 Dawson Terrace,Rochester,CT,Downtown Stamford,9.4
+227812 Alison Bridge,Rochester,CT,East Hartford,2.7
+165375 Omar Park,Syracuse,CT,North New Haven,7.1
+307580 Oak Avenue,Syracuse,CT,Downtown Stamford,9.4
+491502 Maple Street,Syracuse,CT,North New Haven,7.1
+204078 Elm Circle,Newark,CT,Downtown New London,3.2
+146664 Cedar Lane,Trenton,CT,Downtown New London,3.2
+52360 Santos Stream,Bridgeport,CT,Downtown New London,3.2
+125985 Chad Valley,Bridgeport,CT,Downtown New London,3.2
+21142 Santos Stream,Stamford,CT,Downtown Stamford,9.4
+174165 Chad Valley,Albany,CT,South Norwalk,7.0
+336528 Elm Circle,Hartford,CT,East Hartford,2.7
+280165 Maple Street,Hartford,CT,North New Haven,7.1
+127596 Omar Park,Buffalo,NY,South Bronx,3.6
+228771 Maple Street,Buffalo,NY,Lower West Side,1.5
+482288 Dawson Terrace,Hartford,CT,Downtown Stamford,9.4
+41340 Chad Valley,Hartford,CT,East Hartford,2.7
+64860 Pine Drive,Stamford,CT,East Hartford,2.7
+574221 Chad Valley,Stamford,CT,Downtown New London,3.2
+526612 Santos Stream,Stamford,CT,South Norwalk,7.0
+102564 Alison Bridge,Paterson,CT,Downtown Stamford,9.4
+183910 Chad Valley,Paterson,CT,South Norwalk,7.0
+157765 Elm Circle,Paterson,CT,North New Haven,7.1
+302760 Maple Street,Waterbury,CT,Downtown New London,3.2
+126854 Oak Avenue,Waterbury,CT,South Norwalk,7.0
+416008 Oak Avenue,Rochester,CT,North New Haven,7.1
+319443 Oak Avenue,Rochester,CT,East Hartford,2.7
+271600 Santos Stream,Albany,CT,Downtown New London,3.2
+370829 Chad Valley,Albany,CT,Downtown New London,3.2
+140400 Santos Stream,Albany,CT,North New Haven,7.1
+68894 Cedar Lane,Albany,CT,Downtown New London,3.2
+559680 Oak Avenue,Albany,CT,Downtown Stamford,9.4
+291165 Oak Avenue,Albany,CT,Downtown New London,3.2
+609984 Pine Drive,Albany,CT,South Norwalk,7.0
+87668 Maple Street,Albany,CT,East Hartford,2.7
+615960 Oak Avenue,Albany,CT,South Norwalk,7.0
+462977 Dawson Terrace,Stamford,CT,North New Haven,7.1
+481380 Chad Valley,Stamford,CT,Downtown New London,3.2
+562401 Elm Circle,Stamford,CT,East Hartford,2.7
+623712 Alison Bridge,Waterbury,CT,East Hartford,2.7
+337962 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+158508 Elm Circle,New Haven,CT,South Norwalk,7.0
+225940 Maple Street,Rochester,CT,Downtown Stamford,9.4
+166828 Cedar Lane,Rochester,CT,North New Haven,7.1
+595827 Elm Circle,Rochester,CT,Downtown New London,3.2
+188116 Chad Valley,Bridgeport,CT,Downtown Stamford,9.4
+670827 Elm Circle,Bridgeport,CT,Downtown New London,3.2
+492443 Maple Street,Rochester,CT,North New Haven,7.1
+412984 Chad Valley,Rochester,CT,South Norwalk,7.0
+305829 Alison Bridge,Rochester,CT,South Norwalk,7.0
+18824 Alison Bridge,Paterson,CT,North New Haven,7.1
+577825 Chad Valley,New Haven,CT,North New Haven,7.1
+301290 Cedar Lane,Albany,CT,South Norwalk,7.0
+7997 Elm Circle,Jersey City,CT,South Norwalk,7.0
+719264 Maple Street,Jersey City,CT,Downtown New London,3.2
+584658 Cedar Lane,Hartford,CT,Downtown Stamford,9.4
+649700 Elm Circle,Hartford,CT,Downtown New London,3.2
+420325 Pine Drive,Buffalo,NY,East Bronx,5.7
+338916 Elm Circle,Buffalo,NY,Northern Queens,9.3
+244089 Pine Drive,Buffalo,NY,Lower West Side,1.5
+623166 Cedar Lane,Paterson,CT,North New Haven,7.1
+491715 Chad Valley,Paterson,CT,Downtown New London,3.2
+451168 Alison Bridge,Paterson,CT,Downtown Stamford,9.4
+14003 Pine Drive,New Haven,CT,Downtown Stamford,9.4
+527670 Elm Circle,Albany,CT,North New Haven,7.1
+528385 Santos Stream,Albany,CT,South Norwalk,7.0
+8880 Santos Stream,Albany,CT,East Hartford,2.7
+9633 Omar Park,Elizabeth,NJ,Mid New Brunswick,7.6
+394744 Dawson Terrace,Elizabeth,NJ,East Elizabeth,4.5
+589942 Chad Valley,Trenton,CT,East Hartford,2.7
+405480 Maple Street,Trenton,CT,South Norwalk,7.0
+306195 Dawson Terrace,Trenton,CT,South Norwalk,7.0
+532644 Alison Bridge,Trenton,CT,Downtown New London,3.2
+89640 Cedar Lane,Trenton,CT,Downtown New London,3.2
+249832 Oak Avenue,Trenton,CT,East Hartford,2.7
+247170 Maple Street,Syracuse,CT,East Hartford,2.7
+20250 Santos Stream,Paterson,CT,Downtown Stamford,9.4
+545226 Maple Street,Paterson,CT,Downtown New London,3.2
+302304 Oak Avenue,Trenton,CT,North New Haven,7.1
+684477 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+33930 Chad Valley,Hartford,CT,North New Haven,7.1
+623630 Cedar Lane,Hartford,CT,Downtown New London,3.2
+464940 Elm Circle,Syracuse,CT,South Norwalk,7.0
+578348 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+486636 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+360525 Oak Avenue,New Haven,CT,East Hartford,2.7
+335160 Maple Street,New Haven,CT,Downtown New London,3.2
+613366 Maple Street,New Haven,CT,North New Haven,7.1
+246126 Alison Bridge,Paterson,CT,North New Haven,7.1
+2289 Alison Bridge,Albany,CT,Downtown Stamford,9.4
+391168 Maple Street,Albany,CT,Downtown Stamford,9.4
+192780 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+512454 Elm Circle,Bridgeport,CT,South Norwalk,7.0
+634309 Santos Stream,Bridgeport,CT,Downtown Stamford,9.4
+708864 Elm Circle,Bridgeport,CT,Downtown New London,3.2
+288375 Maple Street,Paterson,CT,South Norwalk,7.0
+705320 Santos Stream,Paterson,CT,East Hartford,2.7
+125673 Dawson Terrace,Paterson,CT,East Hartford,2.7
+694028 Oak Avenue,Paterson,CT,East Hartford,2.7
+597529 Dawson Terrace,Paterson,CT,North New Haven,7.1
+264708 Chad Valley,Paterson,CT,East Hartford,2.7
+672700 Chad Valley,Paterson,CT,Downtown New London,3.2
+545528 Dawson Terrace,Elizabeth,NJ,East Elizabeth,4.5
+305361 Chad Valley,Rochester,CT,South Norwalk,7.0
+24896 Pine Drive,Rochester,CT,Downtown New London,3.2
+518035 Maple Street,Stamford,CT,South Norwalk,7.0
+359580 Alison Bridge,Stamford,CT,Downtown Stamford,9.4
+448294 Alison Bridge,New Haven,CT,North New Haven,7.1
+187680 Dawson Terrace,New Haven,CT,Downtown Stamford,9.4
+697653 Oak Avenue,New Haven,CT,Downtown Stamford,9.4
+743232 Maple Street,Rochester,CT,Downtown Stamford,9.4
+360315 Santos Stream,Rochester,CT,South Norwalk,7.0
+222438 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+236887 Elm Circle,Rochester,CT,Downtown New London,3.2
+739144 Pine Drive,Rochester,CT,East Hartford,2.7
+728247 Omar Park,Rochester,CT,East Hartford,2.7
+622520 Alison Bridge,Jersey City,CT,Downtown New London,3.2
+186676 Alison Bridge,Jersey City,CT,North New Haven,7.1
+464112 Maple Street,Jersey City,CT,East Hartford,2.7
+356850 Elm Circle,Trenton,CT,South Norwalk,7.0
+119100 Santos Stream,Trenton,CT,North New Haven,7.1
+292560 Elm Circle,Trenton,CT,Downtown Stamford,9.4
+639984 Oak Avenue,New York,NY,Downtown Manhattan,1.7
+255040 Alison Bridge,New York,NY,Midtown West,6.1
+165984 Santos Stream,New York,NY,Upper East Side,8.0
+58327 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+540000 Omar Park,Newark,CT,East Hartford,2.7
+620775 Pine Drive,Newark,CT,Downtown Stamford,9.4
+56140 Elm Circle,Newark,CT,North New Haven,7.1
+652839 Pine Drive,Hartford,CT,Downtown Stamford,9.4
+571644 Pine Drive,Hartford,CT,Downtown New London,3.2
+173075 Pine Drive,Bridgeport,CT,Downtown Stamford,9.4
+623844 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+105717 Dawson Terrace,Newark,CT,South Norwalk,7.0
+637512 Pine Drive,Newark,CT,Downtown New London,3.2
+4854 Pine Drive,Newark,CT,North New Haven,7.1
+461700 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+351974 Santos Stream,Bridgeport,CT,North New Haven,7.1
+248472 Alison Bridge,Bridgeport,CT,South Norwalk,7.0
+309753 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+96052 Alison Bridge,Bridgeport,CT,Downtown New London,3.2
+242870 Alison Bridge,Paterson,CT,South Norwalk,7.0
+93024 Maple Street,Paterson,CT,North New Haven,7.1
+523697 Alison Bridge,Paterson,CT,North New Haven,7.1
+26176 Omar Park,Paterson,CT,South Norwalk,7.0
+295659 Santos Stream,Elizabeth,NJ,South Trenton,1.0
+628940 Chad Valley,Elizabeth,NJ,Mid New Brunswick,7.6
+19704 Cedar Lane,Elizabeth,NJ,East Elizabeth,4.5
+409356 Omar Park,Buffalo,NY,Northern Queens,9.3
+764567 Omar Park,Hartford,CT,South Norwalk,7.0
+15656 Chad Valley,Hartford,CT,South Norwalk,7.0
+321750 Chad Valley,Hartford,CT,East Hartford,2.7
+14868 Chad Valley,Jersey City,CT,Downtown Stamford,9.4
+387863 Santos Stream,Jersey City,CT,Downtown New London,3.2
+375084 Elm Circle,Jersey City,CT,North New Haven,7.1
+281031 Cedar Lane,Trenton,CT,Downtown New London,3.2
+351920 Pine Drive,Trenton,CT,Downtown Stamford,9.4
+533502 Omar Park,Trenton,CT,Downtown Stamford,9.4
+96512 Pine Drive,New Haven,CT,East Hartford,2.7
+538951 Santos Stream,New Haven,CT,East Hartford,2.7
+564618 Elm Circle,New Haven,CT,Downtown New London,3.2
+568635 Elm Circle,Waterbury,CT,East Hartford,2.7
+575168 Omar Park,Waterbury,CT,East Hartford,2.7
+835326 Maple Street,Buffalo,NY,Lower East Side,6.8
+470118 Cedar Lane,Buffalo,NY,South Staten Island,6.3
+526892 Santos Stream,Buffalo,NY,South Bronx,3.6
+234360 Chad Valley,Bridgeport,CT,East Hartford,2.7
+346492 Maple Street,Paterson,CT,North New Haven,7.1
+537196 Dawson Terrace,Paterson,CT,North New Haven,7.1
+653325 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+692924 Chad Valley,Trenton,CT,North New Haven,7.1
+368420 Chad Valley,Elizabeth,NJ,Mid New Brunswick,7.6
+811314 Pine Drive,Elizabeth,NJ,South Trenton,1.0
+50820 Cedar Lane,Syracuse,CT,South Norwalk,7.0
+691968 Elm Circle,Syracuse,CT,North New Haven,7.1
+484779 Elm Circle,Syracuse,CT,Downtown New London,3.2
+266900 Chad Valley,New Haven,CT,Downtown New London,3.2
+374440 Dawson Terrace,New Haven,CT,Downtown Stamford,9.4
+15336 Pine Drive,New Haven,CT,North New Haven,7.1
+522889 Chad Valley,Albany,CT,Downtown New London,3.2
+432978 Chad Valley,Albany,CT,Downtown New London,3.2
+58995 Dawson Terrace,Albany,CT,Downtown New London,3.2
+488776 Oak Avenue,New York,NY,Downtown Manhattan,1.7
+803009 Oak Avenue,New York,NY,East Bronx,5.7
+385242 Alison Bridge,Buffalo,NY,Downtown Manhattan,1.7
+341023 Maple Street,Buffalo,NY,Downtown Manhattan,1.7
+3440 Oak Avenue,Hartford,CT,South Norwalk,7.0
+37884 Chad Valley,New York,NY,Midtown West,6.1
+833554 Maple Street,New York,NY,South Staten Island,6.3
+303776 Dawson Terrace,Buffalo,NY,North Staten Island,2.0
+851904 Omar Park,New York,NY,Northern Queens,9.3
+114180 Alison Bridge,New York,NY,Downtown Manhattan,1.7
+425206 Alison Bridge,Newark,CT,East Hartford,2.7
+482919 Cedar Lane,Newark,CT,East Hartford,2.7
+320292 Cedar Lane,Newark,CT,South Norwalk,7.0
+762982 Cedar Lane,Elizabeth,NJ,Mid New Brunswick,7.6
+371490 Cedar Lane,Elizabeth,NJ,South Trenton,1.0
+744705 Cedar Lane,Albany,CT,Downtown Stamford,9.4
+539768 Elm Circle,Albany,CT,North New Haven,7.1
+631179 Chad Valley,New Haven,CT,Downtown New London,3.2
+287546 Pine Drive,New Haven,CT,Downtown Stamford,9.4
+728000 Pine Drive,New Haven,CT,Downtown Stamford,9.4
+242652 Omar Park,New York,NY,Midtown West,6.1
+252576 Alison Bridge,New York,NY,Midtown West,6.1
+734008 Alison Bridge,New York,NY,East Bronx,5.7
+726054 Santos Stream,Stamford,CT,Downtown New London,3.2
+186560 Elm Circle,Stamford,CT,Downtown New London,3.2
+260776 Elm Circle,Waterbury,CT,South Norwalk,7.0
+528318 Elm Circle,Waterbury,CT,North New Haven,7.1
+832669 Chad Valley,Bridgeport,CT,Downtown New London,3.2
+781456 Pine Drive,Paterson,CT,South Norwalk,7.0
+483210 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+177200 Dawson Terrace,Bridgeport,CT,South Norwalk,7.0
+143694 Santos Stream,Hartford,CT,Downtown New London,3.2
+422688 Elm Circle,Buffalo,NY,East Bronx,5.7
+136906 Cedar Lane,Buffalo,NY,Northern Queens,9.3
+723570 Oak Avenue,Stamford,CT,East Hartford,2.7
+206712 Elm Circle,Albany,CT,Downtown Stamford,9.4
+794772 Santos Stream,Albany,CT,South Norwalk,7.0
+845671 Omar Park,Bridgeport,CT,North New Haven,7.1
+520308 Santos Stream,Bridgeport,CT,North New Haven,7.1
+528050 Cedar Lane,Bridgeport,CT,North New Haven,7.1
+474880 Elm Circle,Bridgeport,CT,East Hartford,2.7
+138138 Maple Street,Bridgeport,CT,North New Haven,7.1
+50288 Maple Street,Stamford,CT,Downtown Stamford,9.4
+578057 Maple Street,Hartford,CT,Downtown Stamford,9.4
+496800 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+503659 Dawson Terrace,Syracuse,CT,North New Haven,7.1
+598928 Chad Valley,Syracuse,CT,Downtown New London,3.2
+292572 Omar Park,Paterson,CT,Downtown Stamford,9.4
+434824 Dawson Terrace,Stamford,CT,Downtown Stamford,9.4
+218105 Oak Avenue,Stamford,CT,Downtown New London,3.2
+190260 Santos Stream,Stamford,CT,North New Haven,7.1
+590457 Elm Circle,Waterbury,CT,North New Haven,7.1
+391348 Elm Circle,Waterbury,CT,East Hartford,2.7
+456318 Elm Circle,Waterbury,CT,North New Haven,7.1
+722540 Omar Park,Newark,CT,Downtown Stamford,9.4
+158514 Elm Circle,Elizabeth,NJ,Downtown Camden,1.3
+232560 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+596189 Dawson Terrace,Waterbury,CT,Downtown New London,3.2
+540174 Santos Stream,Waterbury,CT,South Norwalk,7.0
+696315 Alison Bridge,Waterbury,CT,East Hartford,2.7
+306860 Elm Circle,Waterbury,CT,Downtown New London,3.2
+346626 Cedar Lane,Waterbury,CT,South Norwalk,7.0
+151470 Oak Avenue,Stamford,CT,Downtown Stamford,9.4
+66168 Chad Valley,Waterbury,CT,Downtown New London,3.2
+419520 Dawson Terrace,Waterbury,CT,South Norwalk,7.0
+406161 Cedar Lane,Waterbury,CT,South Norwalk,7.0
+299650 Omar Park,Waterbury,CT,East Hartford,2.7
+726401 Omar Park,Stamford,CT,North New Haven,7.1
+418572 Pine Drive,Stamford,CT,Downtown Stamford,9.4
+441225 Pine Drive,Paterson,CT,North New Haven,7.1
+247242 Elm Circle,Paterson,CT,South Norwalk,7.0
+453303 Elm Circle,Paterson,CT,Downtown New London,3.2
+584640 Oak Avenue,Waterbury,CT,North New Haven,7.1
+74320 Omar Park,Waterbury,CT,North New Haven,7.1
+909540 Pine Drive,Jersey City,CT,Downtown New London,3.2
+911449 Maple Street,New York,NY,West Bronx,1.7
+251640 Dawson Terrace,New York,NY,Upper East Side,8.0
+31722 Maple Street,Paterson,CT,Downtown New London,3.2
+536116 Omar Park,Paterson,CT,Downtown Stamford,9.4
+778855 Alison Bridge,Paterson,CT,East Hartford,2.7
+328536 Pine Drive,Jersey City,CT,Downtown New London,3.2
+453508 Santos Stream,Jersey City,CT,Downtown New London,3.2
+767284 Alison Bridge,Newark,CT,Downtown New London,3.2
+596265 Elm Circle,Newark,CT,East Hartford,2.7
+338400 Oak Avenue,Newark,CT,South Norwalk,7.0
+682225 Dawson Terrace,Rochester,CT,Downtown Stamford,9.4
+600054 Dawson Terrace,Rochester,CT,Downtown New London,3.2
+678960 Chad Valley,Waterbury,CT,North New Haven,7.1
+27376 Maple Street,Waterbury,CT,Downtown Stamford,9.4
+79380 Dawson Terrace,New Haven,CT,Downtown New London,3.2
+590304 Dawson Terrace,Trenton,CT,South Norwalk,7.0
+523691 Chad Valley,Trenton,CT,North New Haven,7.1
+393420 Alison Bridge,Waterbury,CT,Downtown New London,3.2
+181259 Cedar Lane,Jersey City,CT,East Hartford,2.7
+653600 Elm Circle,Jersey City,CT,North New Haven,7.1
+86541 Maple Street,Buffalo,NY,East Bronx,5.7
+90440 Elm Circle,Buffalo,NY,Lower West Side,1.5
+66710 Omar Park,Albany,CT,North New Haven,7.1
+706914 Chad Valley,Albany,CT,North New Haven,7.1
+546260 Omar Park,Albany,CT,East Hartford,2.7
+661552 Chad Valley,Syracuse,CT,Downtown Stamford,9.4
+578985 Chad Valley,Syracuse,CT,Downtown Stamford,9.4
+455050 Chad Valley,Rochester,CT,East Hartford,2.7
+505393 Elm Circle,Rochester,CT,Downtown New London,3.2
+906240 Maple Street,Rochester,CT,South Norwalk,7.0
+324818 Santos Stream,Bridgeport,CT,East Hartford,2.7
+609908 Elm Circle,Bridgeport,CT,East Hartford,2.7
+864774 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+750956 Dawson Terrace,Buffalo,NY,Upper West Side,7.7
+527855 Santos Stream,Buffalo,NY,South Staten Island,6.3
+234738 Oak Avenue,Buffalo,NY,South Staten Island,6.3
+917683 Oak Avenue,Buffalo,NY,West Bronx,1.7
+326216 Santos Stream,Buffalo,NY,Downtown Brooklyn,4.8
+546516 Cedar Lane,Syracuse,CT,North New Haven,7.1
+265780 Dawson Terrace,Stamford,CT,Downtown Stamford,9.4
+271880 Elm Circle,Stamford,CT,Downtown New London,3.2
+90396 Maple Street,Stamford,CT,Downtown Stamford,9.4
+377524 Oak Avenue,Buffalo,NY,East Bronx,5.7
+245448 Maple Street,Albany,CT,Downtown Stamford,9.4
+576225 Cedar Lane,Albany,CT,East Hartford,2.7
+805200 Pine Drive,Jersey City,CT,East Hartford,2.7
+772807 Elm Circle,Jersey City,CT,Downtown New London,3.2
+687534 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+3916 Maple Street,Syracuse,CT,Downtown New London,3.2
+352800 Elm Circle,Paterson,CT,East Hartford,2.7
+423792 Omar Park,Paterson,CT,North New Haven,7.1
+915224 Pine Drive,Paterson,CT,South Norwalk,7.0
+735284 Santos Stream,Rochester,CT,South Norwalk,7.0
+146616 Cedar Lane,Rochester,CT,Downtown New London,3.2
+946585 Elm Circle,Buffalo,NY,East Bronx,5.7
+796688 Santos Stream,Buffalo,NY,North Staten Island,2.0
+668199 Maple Street,Elizabeth,NJ,East Elizabeth,4.5
+735072 Omar Park,Elizabeth,NJ,South Trenton,1.0
+308568 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+237600 Alison Bridge,Buffalo,NY,Upper East Side,8.0
+990009 Pine Drive,Buffalo,NY,Midtown West,6.1
+121024 Santos Stream,Buffalo,NY,Downtown Manhattan,1.7
+578919 Pine Drive,Newark,CT,Downtown New London,3.2
+552664 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+845750 Oak Avenue,Newark,CT,North New Haven,7.1
+743016 Chad Valley,Newark,CT,South Norwalk,7.0
+477563 Pine Drive,Newark,CT,Downtown New London,3.2
+835326 Santos Stream,Trenton,CT,Downtown New London,3.2
+334665 Alison Bridge,Trenton,CT,South Norwalk,7.0
+94000 Maple Street,Trenton,CT,North New Haven,7.1
+491491 Cedar Lane,Newark,CT,North New Haven,7.1
+41082 Maple Street,Newark,CT,East Hartford,2.7
+938808 Pine Drive,Rochester,CT,Downtown Stamford,9.4
+637540 Omar Park,Rochester,CT,North New Haven,7.1
+574860 Maple Street,Rochester,CT,Downtown New London,3.2
+696152 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+926440 Pine Drive,Rochester,CT,North New Haven,7.1
+483840 Oak Avenue,Newark,CT,East Hartford,2.7
+111999 Pine Drive,Rochester,CT,Downtown Stamford,9.4
+483790 Maple Street,Rochester,CT,South Norwalk,7.0
+850251 Maple Street,Rochester,CT,Downtown New London,3.2
+10120 Santos Stream,New York,NY,Northern Queens,9.3
+777984 Santos Stream,New York,NY,Lower West Side,1.5
+430950 Oak Avenue,Paterson,CT,Downtown Stamford,9.4
+22330 Oak Avenue,Buffalo,NY,Lower West Side,1.5
+558800 Omar Park,Buffalo,NY,Lower East Side,6.8
+912249 Oak Avenue,Bridgeport,CT,Downtown Stamford,9.4
+751284 Chad Valley,Stamford,CT,South Norwalk,7.0
+936461 Omar Park,Waterbury,CT,Downtown Stamford,9.4
+914940 Pine Drive,Waterbury,CT,Downtown Stamford,9.4
+164381 Chad Valley,Buffalo,NY,South Bronx,3.6
+430262 Dawson Terrace,Paterson,CT,Downtown Stamford,9.4
+970827 Dawson Terrace,Elizabeth,NJ,South Trenton,1.0
+891904 Santos Stream,Elizabeth,NJ,Mid New Brunswick,7.6
+597575 Pine Drive,Elizabeth,NJ,Mid New Brunswick,7.6
+916218 Omar Park,Elizabeth,NJ,East Elizabeth,4.5
+804141 Omar Park,Bridgeport,CT,North New Haven,7.1
+691844 Santos Stream,Bridgeport,CT,Downtown Stamford,9.4
+655473 Maple Street,Albany,CT,Downtown Stamford,9.4
+801340 Maple Street,Buffalo,NY,Upper West Side,7.7
+896970 Cedar Lane,Bridgeport,CT,North New Haven,7.1
+613008 Santos Stream,Stamford,CT,South Norwalk,7.0
+806773 Pine Drive,Stamford,CT,North New Haven,7.1
+735174 Dawson Terrace,Syracuse,CT,Downtown New London,3.2
+215280 Chad Valley,New York,NY,Lower East Side,6.8
+545972 Maple Street,New Haven,CT,South Norwalk,7.0
+943670 Chad Valley,Paterson,CT,East Hartford,2.7
+618648 Elm Circle,Paterson,CT,Downtown Stamford,9.4
+95588 Pine Drive,Rochester,CT,South Norwalk,7.0
+952640 Chad Valley,Rochester,CT,South Norwalk,7.0
+1037877 Cedar Lane,Rochester,CT,East Hartford,2.7
+798172 Elm Circle,New Haven,CT,East Hartford,2.7
+116816 Santos Stream,New Haven,CT,South Norwalk,7.0
+914544 Elm Circle,New Haven,CT,Downtown New London,3.2
+150480 Pine Drive,Waterbury,CT,East Hartford,2.7
+235350 Maple Street,Waterbury,CT,North New Haven,7.1
+776874 Maple Street,Waterbury,CT,Downtown New London,3.2
+563824 Maple Street,Hartford,CT,North New Haven,7.1
+991305 Maple Street,Buffalo,NY,Midtown West,6.1
+748650 Elm Circle,Buffalo,NY,North Staten Island,2.0
+682099 Maple Street,Buffalo,NY,South Bronx,3.6
+493388 Omar Park,Jersey City,CT,Downtown Stamford,9.4
+261144 Maple Street,Jersey City,CT,North New Haven,7.1
+876928 Cedar Lane,Jersey City,CT,Downtown New London,3.2
+989590 Cedar Lane,Hartford,CT,North New Haven,7.1
+408672 Pine Drive,Bridgeport,CT,Downtown Stamford,9.4
+590863 Maple Street,Bridgeport,CT,East Hartford,2.7
+341734 Chad Valley,Bridgeport,CT,East Hartford,2.7
+917094 Chad Valley,Paterson,CT,East Hartford,2.7
+743060 Chad Valley,Paterson,CT,North New Haven,7.1
+401058 Chad Valley,Paterson,CT,North New Haven,7.1
+198594 Pine Drive,New York,NY,Upper West Side,7.7
+873786 Alison Bridge,New York,NY,Downtown Manhattan,1.7
+985264 Alison Bridge,New York,NY,South Bronx,3.6
+982995 Cedar Lane,Buffalo,NY,Downtown Manhattan,1.7
+851734 Alison Bridge,Bridgeport,CT,Downtown Stamford,9.4
+956032 Maple Street,Bridgeport,CT,East Hartford,2.7
+1039164 Pine Drive,Buffalo,NY,Lower East Side,6.8
+427600 Maple Street,Albany,CT,Downtown Stamford,9.4
+1055020 Dawson Terrace,Albany,CT,East Hartford,2.7
+973539 Santos Stream,Jersey City,CT,East Hartford,2.7
+940144 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+831575 Elm Circle,New York,NY,Upper East Side,8.0
+699174 Omar Park,Stamford,CT,Downtown Stamford,9.4
+1044900 Chad Valley,Trenton,CT,Downtown New London,3.2
+24748 Chad Valley,Hartford,CT,East Hartford,2.7
+876678 Omar Park,Hartford,CT,South Norwalk,7.0
+919534 Oak Avenue,New Haven,CT,South Norwalk,7.0
+617188 Omar Park,Stamford,CT,Downtown New London,3.2
+831600 Dawson Terrace,Stamford,CT,Downtown New London,3.2
+728594 Dawson Terrace,Stamford,CT,South Norwalk,7.0
+782286 Alison Bridge,Albany,CT,South Norwalk,7.0
+191691 Santos Stream,Albany,CT,North New Haven,7.1
+635224 Dawson Terrace,Albany,CT,Downtown Stamford,9.4
+24955 Alison Bridge,Waterbury,CT,Downtown New London,3.2
+73848 Santos Stream,Waterbury,CT,Downtown New London,3.2
+1068521 Chad Valley,Waterbury,CT,Downtown New London,3.2
+917184 Elm Circle,Hartford,CT,South Norwalk,7.0
+680625 Dawson Terrace,Paterson,CT,East Hartford,2.7
+1063840 Elm Circle,Paterson,CT,Downtown Stamford,9.4
+438582 Maple Street,New York,NY,Upper East Side,8.0
+121212 Dawson Terrace,New York,NY,Lower East Side,6.8
+261227 Alison Bridge,New York,NY,Lower West Side,1.5
+992258 Elm Circle,Buffalo,NY,Upper East Side,8.0
+981120 Pine Drive,Buffalo,NY,South Bronx,3.6
+868032 Pine Drive,Buffalo,NY,Upper West Side,7.7
+465128 Santos Stream,Stamford,CT,East Hartford,2.7
+1092510 Omar Park,Stamford,CT,North New Haven,7.1
+957229 Oak Avenue,Stamford,CT,South Norwalk,7.0
+563200 Dawson Terrace,Rochester,CT,South Norwalk,7.0
+624267 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+239134 Elm Circle,Bridgeport,CT,North New Haven,7.1
+274647 Pine Drive,Bridgeport,CT,Downtown New London,3.2
+226320 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+528190 Elm Circle,Bridgeport,CT,Downtown New London,3.2
+589498 Maple Street,Buffalo,NY,South Staten Island,6.3
+649809 Cedar Lane,Buffalo,NY,Downtown Brooklyn,4.8
+1090272 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+948195 Santos Stream,Bridgeport,CT,Downtown Stamford,9.4
+400710 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+571054 Dawson Terrace,Newark,CT,North New Haven,7.1
+970776 Alison Bridge,Newark,CT,Downtown Stamford,9.4
+40068 Oak Avenue,Newark,CT,East Hartford,2.7
+515782 Maple Street,Newark,CT,North New Haven,7.1
+964475 Chad Valley,New York,NY,North Staten Island,2.0
+366048 Alison Bridge,New York,NY,North Staten Island,2.0
+497065 Santos Stream,Syracuse,CT,East Hartford,2.7
+42484 Omar Park,Syracuse,CT,Downtown Stamford,9.4
+1022766 Chad Valley,Trenton,CT,Downtown New London,3.2
+518560 Omar Park,Trenton,CT,Downtown New London,3.2
+664753 Maple Street,Waterbury,CT,Downtown New London,3.2
+37026 Pine Drive,Waterbury,CT,North New Haven,7.1
+150482 Cedar Lane,Syracuse,CT,Downtown New London,3.2
+347316 Elm Circle,Syracuse,CT,East Hartford,2.7
+797625 Pine Drive,Stamford,CT,North New Haven,7.1
+109222 Oak Avenue,Stamford,CT,North New Haven,7.1
+578151 Elm Circle,Buffalo,NY,Upper West Side,7.7
+776064 Oak Avenue,Paterson,CT,South Norwalk,7.0
+718044 Omar Park,Paterson,CT,East Hartford,2.7
+517540 Dawson Terrace,Paterson,CT,East Hartford,2.7
+225069 Santos Stream,New York,NY,Midtown East,2.1
+212816 Dawson Terrace,New York,NY,Midtown West,6.1
+246994 Santos Stream,New York,NY,Midtown West,6.1
+862974 Alison Bridge,New York,NY,West Bronx,1.7
+1063495 Alison Bridge,New York,NY,West Bronx,1.7
+1095104 Chad Valley,New York,NY,West Bronx,1.7
+486636 Dawson Terrace,New York,NY,Lower East Side,6.8
+1128896 Elm Circle,Waterbury,CT,East Hartford,2.7
+799578 Alison Bridge,Waterbury,CT,East Hartford,2.7
+541500 Chad Valley,Waterbury,CT,Downtown New London,3.2
+67319 Oak Avenue,Jersey City,CT,East Hartford,2.7
+87934 Maple Street,Jersey City,CT,South Norwalk,7.0
+268605 Chad Valley,Stamford,CT,North New Haven,7.1
+815672 Alison Bridge,Stamford,CT,South Norwalk,7.0
+1051110 Elm Circle,Trenton,CT,North New Haven,7.1
+1025670 Pine Drive,Trenton,CT,Downtown New London,3.2
+175491 Omar Park,Trenton,CT,North New Haven,7.1
+746200 Oak Avenue,Syracuse,CT,Downtown Stamford,9.4
+861750 Cedar Lane,Waterbury,CT,Downtown Stamford,9.4
+439300 Maple Street,Waterbury,CT,North New Haven,7.1
+387887 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+741888 Maple Street,Waterbury,CT,East Hartford,2.7
+453129 Alison Bridge,Waterbury,CT,East Hartford,2.7
+338122 Cedar Lane,Waterbury,CT,South Norwalk,7.0
+1061445 Omar Park,Syracuse,CT,East Hartford,2.7
+379168 Alison Bridge,Syracuse,CT,Downtown New London,3.2
+688415 Pine Drive,Newark,CT,Downtown New London,3.2
+497940 Oak Avenue,Newark,CT,South Norwalk,7.0
+417240 Santos Stream,Elizabeth,NJ,Downtown Camden,1.3
+1001080 Maple Street,Waterbury,CT,Downtown Stamford,9.4
+156735 Chad Valley,Stamford,CT,Downtown New London,3.2
+424130 Maple Street,Stamford,CT,East Hartford,2.7
+694311 Cedar Lane,Paterson,CT,East Hartford,2.7
+768240 Chad Valley,Paterson,CT,North New Haven,7.1
+560365 Oak Avenue,Hartford,CT,South Norwalk,7.0
+701932 Alison Bridge,Hartford,CT,Downtown Stamford,9.4
+256740 Pine Drive,Hartford,CT,North New Haven,7.1
+182208 Maple Street,Bridgeport,CT,East Hartford,2.7
+923510 Dawson Terrace,Bridgeport,CT,South Norwalk,7.0
+742950 Santos Stream,Bridgeport,CT,South Norwalk,7.0
+745927 Cedar Lane,Trenton,CT,Downtown New London,3.2
+1071208 Dawson Terrace,Trenton,CT,East Hartford,2.7
+539580 Santos Stream,New York,NY,South Staten Island,6.3
+412074 Oak Avenue,New York,NY,East Bronx,5.7
+875375 Pine Drive,Trenton,CT,North New Haven,7.1
+1078392 Maple Street,Trenton,CT,East Hartford,2.7
+755634 Oak Avenue,Hartford,CT,East Hartford,2.7
+438216 Chad Valley,Hartford,CT,Downtown Stamford,9.4
+805257 Pine Drive,Newark,CT,South Norwalk,7.0
+390580 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+807804 Chad Valley,Jersey City,CT,East Hartford,2.7
+940872 Omar Park,Jersey City,CT,North New Haven,7.1
+1132131 Chad Valley,Jersey City,CT,Downtown New London,3.2
+1069152 Alison Bridge,Newark,CT,Downtown Stamford,9.4
+519030 Elm Circle,Newark,CT,Downtown Stamford,9.4
+659416 Cedar Lane,Newark,CT,North New Haven,7.1
+193481 Dawson Terrace,Buffalo,NY,Midtown East,2.1
+608256 Cedar Lane,Paterson,CT,Downtown New London,3.2
+416150 Pine Drive,Paterson,CT,Downtown Stamford,9.4
+604520 Maple Street,Paterson,CT,North New Haven,7.1
+400176 Santos Stream,Trenton,CT,Downtown Stamford,9.4
+48872 Chad Valley,Trenton,CT,East Hartford,2.7
+99019 Elm Circle,Trenton,CT,East Hartford,2.7
+88356 Pine Drive,Albany,CT,Downtown Stamford,9.4
+322650 Oak Avenue,Paterson,CT,Downtown New London,3.2
+270296 Santos Stream,Paterson,CT,East Hartford,2.7
+531468 Pine Drive,Syracuse,CT,South Norwalk,7.0
+337836 Alison Bridge,Jersey City,CT,Downtown New London,3.2
+1070707 Oak Avenue,Jersey City,CT,East Hartford,2.7
+702000 Omar Park,Jersey City,CT,Downtown New London,3.2
+838298 Santos Stream,Buffalo,NY,Lower East Side,6.8
+2404 Santos Stream,Buffalo,NY,Upper East Side,8.0
+716988 Alison Bridge,Bridgeport,CT,Downtown Stamford,9.4
+632100 Oak Avenue,Bridgeport,CT,South Norwalk,7.0
+1125470 Alison Bridge,Bridgeport,CT,Downtown New London,3.2
+343710 Santos Stream,Newark,CT,North New Haven,7.1
+362100 Oak Avenue,Newark,CT,North New Haven,7.1
+977272 Chad Valley,Newark,CT,Downtown New London,3.2
+940602 Elm Circle,Syracuse,CT,North New Haven,7.1
+463430 Maple Street,Syracuse,CT,East Hartford,2.7
+197393 Elm Circle,Jersey City,CT,Downtown New London,3.2
+135744 Cedar Lane,Trenton,CT,East Hartford,2.7
+726587 Omar Park,Elizabeth,NJ,East Elizabeth,4.5
+847372 Elm Circle,Elizabeth,NJ,South Trenton,1.0
+600210 Elm Circle,Hartford,CT,South Norwalk,7.0
+278464 Cedar Lane,Hartford,CT,Downtown New London,3.2
+855551 Omar Park,Hartford,CT,Downtown New London,3.2
+1180242 Maple Street,Syracuse,CT,Downtown Stamford,9.4
+415679 Pine Drive,Syracuse,CT,North New Haven,7.1
+819840 Pine Drive,Buffalo,NY,West Bronx,1.7
+69597 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+173524 Alison Bridge,New York,NY,Lower East Side,6.8
+1150843 Chad Valley,New York,NY,South Bronx,3.6
+232560 Santos Stream,New York,NY,Northern Queens,9.3
+701925 Elm Circle,Buffalo,NY,South Bronx,3.6
+697594 Omar Park,Buffalo,NY,Downtown Manhattan,1.7
+46626 Pine Drive,Buffalo,NY,North Staten Island,2.0
+284896 Santos Stream,Hartford,CT,North New Haven,7.1
+4916 Pine Drive,Hartford,CT,East Hartford,2.7
+661740 Cedar Lane,Hartford,CT,Downtown New London,3.2
+349604 Cedar Lane,Syracuse,CT,Downtown New London,3.2
+852544 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+19728 Elm Circle,Waterbury,CT,Downtown Stamford,9.4
+973626 Omar Park,Waterbury,CT,Downtown Stamford,9.4
+179075 Santos Stream,Waterbury,CT,North New Haven,7.1
+774972 Dawson Terrace,Bridgeport,CT,South Norwalk,7.0
+1044028 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+689566 Elm Circle,Albany,CT,North New Haven,7.1
+690123 Maple Street,Newark,CT,North New Haven,7.1
+565440 Pine Drive,Hartford,CT,North New Haven,7.1
+1047404 Elm Circle,Albany,CT,East Hartford,2.7
+216108 Maple Street,Albany,CT,South Norwalk,7.0
+1209439 Alison Bridge,Waterbury,CT,North New Haven,7.1
+1051180 Maple Street,Waterbury,CT,North New Haven,7.1
+734550 Maple Street,Waterbury,CT,North New Haven,7.1
+995554 Oak Avenue,Syracuse,CT,North New Haven,7.1
+483836 Cedar Lane,Syracuse,CT,South Norwalk,7.0
+358176 Dawson Terrace,Syracuse,CT,East Hartford,2.7
+726918 Pine Drive,New York,NY,South Staten Island,6.3
+478750 Oak Avenue,New York,NY,Upper West Side,7.7
+519165 Maple Street,Hartford,CT,Downtown New London,3.2
+507060 Alison Bridge,Hartford,CT,South Norwalk,7.0
+130312 Alison Bridge,New York,NY,Northern Queens,9.3
+930468 Maple Street,Hartford,CT,Downtown Stamford,9.4
+1247470 Cedar Lane,New York,NY,Downtown Manhattan,1.7
+636792 Dawson Terrace,New Haven,CT,Downtown Stamford,9.4
+50280 Oak Avenue,New Haven,CT,East Hartford,2.7
+730898 Santos Stream,Hartford,CT,East Hartford,2.7
+591730 Dawson Terrace,Hartford,CT,Downtown Stamford,9.4
+1224720 Chad Valley,Newark,CT,Downtown Stamford,9.4
+1197950 Chad Valley,Newark,CT,North New Haven,7.1
+1024744 Chad Valley,Buffalo,NY,West Bronx,1.7
+1187220 Dawson Terrace,Jersey City,CT,Downtown Stamford,9.4
+765984 Cedar Lane,Jersey City,CT,East Hartford,2.7
+163185 Maple Street,Elizabeth,NJ,Downtown Camden,1.3
+873540 Pine Drive,Hartford,CT,Downtown Stamford,9.4
+324352 Santos Stream,Hartford,CT,South Norwalk,7.0
+708812 Omar Park,New York,NY,West Bronx,1.7
+1115451 Oak Avenue,New York,NY,Downtown Manhattan,1.7
+454660 Dawson Terrace,New York,NY,Downtown Manhattan,1.7
+71176 Alison Bridge,Newark,CT,South Norwalk,7.0
+560952 Alison Bridge,Jersey City,CT,East Hartford,2.7
+570304 Santos Stream,Jersey City,CT,South Norwalk,7.0
+847210 Alison Bridge,Buffalo,NY,North Staten Island,2.0
+369750 Omar Park,New York,NY,Upper West Side,7.7
+299860 Santos Stream,Hartford,CT,East Hartford,2.7
+888792 Maple Street,Buffalo,NY,Upper East Side,8.0
+853704 Chad Valley,Stamford,CT,East Hartford,2.7
+200803 Alison Bridge,Stamford,CT,South Norwalk,7.0
+611840 Chad Valley,Stamford,CT,Downtown Stamford,9.4
+844179 Oak Avenue,Waterbury,CT,East Hartford,2.7
+932014 Chad Valley,Waterbury,CT,North New Haven,7.1
+106489 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+1164588 Omar Park,New York,NY,Downtown Manhattan,1.7
+323820 Omar Park,New York,NY,North Staten Island,2.0
+945210 Elm Circle,Bridgeport,CT,Downtown Stamford,9.4
+652509 Dawson Terrace,Bridgeport,CT,South Norwalk,7.0
+627256 Alison Bridge,New York,NY,East Bronx,5.7
+232020 Omar Park,New York,NY,West Bronx,1.7
+51600 Chad Valley,New York,NY,Lower East Side,6.8
+804293 Dawson Terrace,Rochester,CT,East Hartford,2.7
+536180 Chad Valley,Rochester,CT,Downtown Stamford,9.4
+724080 Alison Bridge,Rochester,CT,Downtown New London,3.2
+292444 Omar Park,Waterbury,CT,East Hartford,2.7
+303030 Chad Valley,Paterson,CT,East Hartford,2.7
+816480 Alison Bridge,Paterson,CT,Downtown New London,3.2
+1022036 Alison Bridge,Paterson,CT,South Norwalk,7.0
+1114982 Pine Drive,Newark,CT,East Hartford,2.7
+906702 Maple Street,Newark,CT,Downtown Stamford,9.4
+127400 Elm Circle,Stamford,CT,North New Haven,7.1
+948429 Chad Valley,Stamford,CT,East Hartford,2.7
+312480 Dawson Terrace,Stamford,CT,North New Haven,7.1
+157663 Santos Stream,Stamford,CT,Downtown New London,3.2
+844992 Santos Stream,Paterson,CT,East Hartford,2.7
+647280 Elm Circle,Bridgeport,CT,East Hartford,2.7
+936402 Cedar Lane,New Haven,CT,North New Haven,7.1
+595992 Maple Street,New Haven,CT,Downtown New London,3.2
+847584 Maple Street,New Haven,CT,Downtown Stamford,9.4
+1117886 Santos Stream,Rochester,CT,East Hartford,2.7
+721810 Chad Valley,Rochester,CT,Downtown Stamford,9.4
+975384 Elm Circle,Trenton,CT,South Norwalk,7.0
+1053536 Pine Drive,Waterbury,CT,East Hartford,2.7
+22321 Maple Street,Buffalo,NY,Downtown Manhattan,1.7
+997326 Oak Avenue,Jersey City,CT,North New Haven,7.1
+1059890 Alison Bridge,Jersey City,CT,Downtown New London,3.2
+379008 Dawson Terrace,Jersey City,CT,Downtown Stamford,9.4
+592650 Oak Avenue,Elizabeth,NJ,Mid New Brunswick,7.6
+578602 Oak Avenue,Elizabeth,NJ,Downtown Camden,1.3
+440546 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+1148400 Omar Park,Paterson,CT,South Norwalk,7.0
+50198 Elm Circle,Paterson,CT,Downtown Stamford,9.4
+1107836 Alison Bridge,Rochester,CT,North New Haven,7.1
+231525 Chad Valley,Rochester,CT,North New Haven,7.1
+644788 Maple Street,Rochester,CT,East Hartford,2.7
+132500 Cedar Lane,Syracuse,CT,Downtown Stamford,9.4
+583440 Oak Avenue,Syracuse,CT,East Hartford,2.7
+885109 Alison Bridge,Paterson,CT,Downtown New London,3.2
+573696 Chad Valley,Paterson,CT,South Norwalk,7.0
+1192113 Maple Street,Paterson,CT,East Hartford,2.7
+692930 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+1052821 Maple Street,Newark,CT,Downtown New London,3.2
+1318680 Oak Avenue,Hartford,CT,East Hartford,2.7
+673165 Alison Bridge,Hartford,CT,Downtown Stamford,9.4
+672336 Maple Street,Hartford,CT,North New Haven,7.1
+209595 Maple Street,Albany,CT,Downtown Stamford,9.4
+777552 Cedar Lane,Albany,CT,Downtown New London,3.2
+631064 Cedar Lane,Albany,CT,East Hartford,2.7
+196686 Oak Avenue,Newark,CT,South Norwalk,7.0
+1103336 Dawson Terrace,Newark,CT,Downtown New London,3.2
+1179200 Dawson Terrace,Jersey City,CT,East Hartford,2.7
+146169 Oak Avenue,Jersey City,CT,North New Haven,7.1
+555588 Oak Avenue,Rochester,CT,North New Haven,7.1
+88638 Santos Stream,Stamford,CT,Downtown New London,3.2
+1166592 Chad Valley,Jersey City,CT,South Norwalk,7.0
+812380 Cedar Lane,Jersey City,CT,South Norwalk,7.0
+205938 Chad Valley,Syracuse,CT,Downtown Stamford,9.4
+239766 Maple Street,Elizabeth,NJ,South Trenton,1.0
+295212 Chad Valley,Elizabeth,NJ,East Elizabeth,4.5
+661010 Omar Park,Bridgeport,CT,East Hartford,2.7
+1282500 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+784931 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+352872 Dawson Terrace,Hartford,CT,North New Haven,7.1
+634557 Dawson Terrace,Hartford,CT,Downtown New London,3.2
+353394 Maple Street,New Haven,CT,Downtown Stamford,9.4
+750670 Oak Avenue,New Haven,CT,South Norwalk,7.0
+334932 Pine Drive,New Haven,CT,South Norwalk,7.0
+1274223 Elm Circle,Paterson,CT,North New Haven,7.1
+1261582 Cedar Lane,Paterson,CT,Downtown Stamford,9.4
+1005660 Pine Drive,Rochester,CT,Downtown Stamford,9.4
+1164160 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+340250 Elm Circle,Rochester,CT,Downtown Stamford,9.4
+163440 Omar Park,Waterbury,CT,East Hartford,2.7
+791903 Chad Valley,New Haven,CT,Downtown Stamford,9.4
+1158036 Dawson Terrace,New Haven,CT,Downtown New London,3.2
+192465 Cedar Lane,New Haven,CT,Downtown Stamford,9.4
+797744 Elm Circle,Waterbury,CT,East Hartford,2.7
+590544 Santos Stream,New Haven,CT,South Norwalk,7.0
+603288 Omar Park,New Haven,CT,North New Haven,7.1
+105413 Cedar Lane,Waterbury,CT,Downtown Stamford,9.4
+184950 Omar Park,Waterbury,CT,Downtown Stamford,9.4
+876069 Santos Stream,Waterbury,CT,South Norwalk,7.0
+1282820 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+774372 Omar Park,Elizabeth,NJ,South Trenton,1.0
+244572 Dawson Terrace,Elizabeth,NJ,Downtown Camden,1.3
+50875 Oak Avenue,Stamford,CT,East Hartford,2.7
+787072 Cedar Lane,Hartford,CT,East Hartford,2.7
+820692 Pine Drive,Hartford,CT,Downtown Stamford,9.4
+1216774 Alison Bridge,Buffalo,NY,South Bronx,3.6
+110320 Santos Stream,Buffalo,NY,East Bronx,5.7
+474720 Alison Bridge,Buffalo,NY,Midtown West,6.1
+1173850 Maple Street,Albany,CT,Downtown Stamford,9.4
+345500 Oak Avenue,Elizabeth,NJ,Mid New Brunswick,7.6
+71916 Maple Street,Elizabeth,NJ,South Trenton,1.0
+1303728 Chad Valley,Elizabeth,NJ,Downtown Camden,1.3
+831000 Omar Park,Stamford,CT,Downtown New London,3.2
+148302 Chad Valley,New Haven,CT,Downtown Stamford,9.4
+1022219 Oak Avenue,New Haven,CT,Downtown Stamford,9.4
+809204 Elm Circle,New Haven,CT,Downtown Stamford,9.4
+619494 Omar Park,New Haven,CT,South Norwalk,7.0
+1143970 Maple Street,New Haven,CT,Downtown Stamford,9.4
+685763 Elm Circle,New Haven,CT,East Hartford,2.7
+494160 Alison Bridge,Elizabeth,NJ,Downtown Camden,1.3
+1306634 Alison Bridge,Elizabeth,NJ,East Elizabeth,4.5
+920040 Dawson Terrace,Elizabeth,NJ,Downtown Camden,1.3
+647280 Omar Park,Paterson,CT,Downtown New London,3.2
+526292 Elm Circle,New Haven,CT,South Norwalk,7.0
+1209802 Pine Drive,Hartford,CT,East Hartford,2.7
+459942 Alison Bridge,Hartford,CT,South Norwalk,7.0
+265810 Pine Drive,Hartford,CT,South Norwalk,7.0
+1289400 Alison Bridge,New Haven,CT,Downtown Stamford,9.4
+472137 Maple Street,New York,NY,Midtown West,6.1
+315450 Santos Stream,New York,NY,Upper East Side,8.0
+681858 Chad Valley,Hartford,CT,South Norwalk,7.0
+627588 Oak Avenue,Hartford,CT,South Norwalk,7.0
+709525 Santos Stream,Hartford,CT,Downtown New London,3.2
+1039034 Omar Park,Waterbury,CT,North New Haven,7.1
+270144 Chad Valley,Waterbury,CT,North New Haven,7.1
+1019392 Elm Circle,Newark,CT,Downtown New London,3.2
+803130 Chad Valley,Jersey City,CT,Downtown New London,3.2
+634500 Maple Street,Stamford,CT,South Norwalk,7.0
+454342 Cedar Lane,Stamford,CT,North New Haven,7.1
+1083004 Dawson Terrace,Stamford,CT,South Norwalk,7.0
+500202 Pine Drive,Buffalo,NY,Northern Queens,9.3
+35350 Cedar Lane,Buffalo,NY,Midtown East,2.1
+530625 Alison Bridge,Hartford,CT,Downtown Stamford,9.4
+433296 Cedar Lane,Hartford,CT,Downtown New London,3.2
+1115179 Cedar Lane,New York,NY,South Bronx,3.6
+1254930 Pine Drive,Bridgeport,CT,Downtown New London,3.2
+110682 Pine Drive,Buffalo,NY,Lower West Side,1.5
+391920 Oak Avenue,Buffalo,NY,Northern Queens,9.3
+75313 Cedar Lane,Buffalo,NY,Upper East Side,8.0
+995400 Elm Circle,Paterson,CT,North New Haven,7.1
+412670 Pine Drive,Paterson,CT,North New Haven,7.1
+254896 Chad Valley,Trenton,CT,Downtown Stamford,9.4
+889200 Chad Valley,Bridgeport,CT,Downtown Stamford,9.4
+115506 Dawson Terrace,Stamford,CT,East Hartford,2.7
+89901 Dawson Terrace,Syracuse,CT,Downtown New London,3.2
+951048 Elm Circle,Waterbury,CT,East Hartford,2.7
+161477 Santos Stream,Waterbury,CT,North New Haven,7.1
+989560 Pine Drive,Buffalo,NY,West Bronx,1.7
+465075 Alison Bridge,Buffalo,NY,East Bronx,5.7
+1089752 Chad Valley,Buffalo,NY,Midtown West,6.1
+137568 Alison Bridge,New York,NY,Midtown East,2.1
+434502 Cedar Lane,New York,NY,Lower East Side,6.8
+520905 Omar Park,New York,NY,Lower West Side,1.5
+749592 Chad Valley,Waterbury,CT,Downtown New London,3.2
+1349343 Maple Street,Waterbury,CT,Downtown New London,3.2
+484606 Oak Avenue,Newark,CT,Downtown New London,3.2
+466236 Cedar Lane,New Haven,CT,North New Haven,7.1
+178560 Dawson Terrace,New Haven,CT,North New Haven,7.1
+185889 Chad Valley,Bridgeport,CT,South Norwalk,7.0
+545076 Alison Bridge,Jersey City,CT,South Norwalk,7.0
+1139970 Chad Valley,Elizabeth,NJ,South Trenton,1.0
+909720 Pine Drive,Syracuse,CT,Downtown Stamford,9.4
+1400205 Cedar Lane,Elizabeth,NJ,Downtown Camden,1.3
+921102 Maple Street,Elizabeth,NJ,South Trenton,1.0
+62221 Maple Street,Elizabeth,NJ,South Trenton,1.0
+78192 Oak Avenue,Hartford,CT,East Hartford,2.7
+1389591 Maple Street,Hartford,CT,North New Haven,7.1
+716300 Elm Circle,Hartford,CT,Downtown Stamford,9.4
+651499 Oak Avenue,Hartford,CT,North New Haven,7.1
+1351812 Cedar Lane,Hartford,CT,North New Haven,7.1
+398122 Dawson Terrace,Buffalo,NY,West Bronx,1.7
+786614 Oak Avenue,Buffalo,NY,Downtown Brooklyn,4.8
+469965 Pine Drive,Buffalo,NY,South Bronx,3.6
+760032 Chad Valley,Buffalo,NY,Midtown West,6.1
+42253 Oak Avenue,Buffalo,NY,South Staten Island,6.3
+1162026 Chad Valley,Buffalo,NY,Midtown East,2.1
+332652 Pine Drive,Buffalo,NY,East Bronx,5.7
+1224940 Cedar Lane,Buffalo,NY,Upper East Side,8.0
+574173 Chad Valley,New Haven,CT,Downtown New London,3.2
+1267554 Omar Park,Rochester,CT,South Norwalk,7.0
+450604 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+1240008 Maple Street,Hartford,CT,East Hartford,2.7
+638740 Alison Bridge,Hartford,CT,South Norwalk,7.0
+1464534 Omar Park,Buffalo,NY,Lower West Side,1.5
+940347 Chad Valley,Buffalo,NY,East Bronx,5.7
+569584 Pine Drive,Buffalo,NY,Lower West Side,1.5
+1085591 Dawson Terrace,Jersey City,CT,South Norwalk,7.0
+1250970 Maple Street,Jersey City,CT,Downtown New London,3.2
+432474 Oak Avenue,New York,NY,South Staten Island,6.3
+1449920 Cedar Lane,New York,NY,Upper East Side,8.0
+458103 Maple Street,New York,NY,Upper West Side,7.7
+1440098 Elm Circle,Waterbury,CT,South Norwalk,7.0
+901225 Santos Stream,Rochester,CT,South Norwalk,7.0
+857556 Santos Stream,Elizabeth,NJ,South Trenton,1.0
+1258404 Cedar Lane,Elizabeth,NJ,East Elizabeth,4.5
+215788 Omar Park,Elizabeth,NJ,South Trenton,1.0
+964308 Omar Park,Bridgeport,CT,North New Haven,7.1
+1422280 Pine Drive,Bridgeport,CT,North New Haven,7.1
+907853 Cedar Lane,Syracuse,CT,Downtown Stamford,9.4
+892164 Pine Drive,Paterson,CT,North New Haven,7.1
+35592 Alison Bridge,Paterson,CT,Downtown New London,3.2
+636636 Oak Avenue,Paterson,CT,North New Haven,7.1
+190080 Pine Drive,Albany,CT,East Hartford,2.7
+814328 Alison Bridge,Albany,CT,Downtown New London,3.2
+939784 Pine Drive,Albany,CT,Downtown New London,3.2
+534192 Santos Stream,Albany,CT,North New Haven,7.1
+23824 Pine Drive,New York,NY,Upper East Side,8.0
+449980 Santos Stream,New York,NY,North Staten Island,2.0
+1417941 Oak Avenue,Albany,CT,East Hartford,2.7
+34316 Oak Avenue,Albany,CT,Downtown Stamford,9.4
+1068988 Omar Park,Hartford,CT,South Norwalk,7.0
+1162332 Pine Drive,Syracuse,CT,South Norwalk,7.0
+321425 Santos Stream,Syracuse,CT,East Hartford,2.7
+185504 Chad Valley,Syracuse,CT,East Hartford,2.7
+670656 Oak Avenue,Paterson,CT,South Norwalk,7.0
+852362 Omar Park,Paterson,CT,South Norwalk,7.0
+178381 Maple Street,Paterson,CT,Downtown New London,3.2
+531000 Pine Drive,Trenton,CT,South Norwalk,7.0
+794029 Maple Street,Trenton,CT,Downtown Stamford,9.4
+808076 Santos Stream,Hartford,CT,Downtown New London,3.2
+551601 Elm Circle,Hartford,CT,North New Haven,7.1
+440672 Cedar Lane,Hartford,CT,South Norwalk,7.0
+180600 Pine Drive,Hartford,CT,East Hartford,2.7
+521076 Omar Park,Hartford,CT,Downtown Stamford,9.4
+1217656 Oak Avenue,Hartford,CT,Downtown New London,3.2
+102544 Omar Park,Buffalo,NY,Lower West Side,1.5
+276147 Pine Drive,Bridgeport,CT,North New Haven,7.1
+437900 Omar Park,New York,NY,Upper West Side,7.7
+1151382 Chad Valley,Waterbury,CT,South Norwalk,7.0
+148176 Chad Valley,Waterbury,CT,North New Haven,7.1
+329834 Elm Circle,Waterbury,CT,East Hartford,2.7
+831186 Cedar Lane,Stamford,CT,Downtown Stamford,9.4
+524190 Pine Drive,Rochester,CT,Downtown Stamford,9.4
+1324984 Cedar Lane,Rochester,CT,Downtown Stamford,9.4
+1025492 Maple Street,Waterbury,CT,Downtown New London,3.2
+1047420 Omar Park,Paterson,CT,Downtown Stamford,9.4
+820260 Omar Park,Paterson,CT,Downtown Stamford,9.4
+1279840 Maple Street,Hartford,CT,South Norwalk,7.0
+883701 Pine Drive,Hartford,CT,South Norwalk,7.0
+902546 Cedar Lane,Hartford,CT,South Norwalk,7.0
+1384407 Alison Bridge,Newark,CT,South Norwalk,7.0
+1510284 Dawson Terrace,Newark,CT,South Norwalk,7.0
+805200 Omar Park,Hartford,CT,North New Haven,7.1
+65618 Maple Street,Hartford,CT,North New Haven,7.1
+896349 Alison Bridge,Buffalo,NY,Lower West Side,1.5
+470624 Pine Drive,Buffalo,NY,Lower East Side,6.8
+1236961 Dawson Terrace,Newark,CT,Downtown Stamford,9.4
+1433610 Santos Stream,Newark,CT,North New Haven,7.1
+1142126 Maple Street,Trenton,CT,Downtown Stamford,9.4
+516284 Omar Park,Trenton,CT,East Hartford,2.7
+591738 Dawson Terrace,Buffalo,NY,Upper West Side,7.7
+1434290 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+397565 Pine Drive,Bridgeport,CT,North New Haven,7.1
+339456 Oak Avenue,New York,NY,East Bronx,5.7
+1189638 Chad Valley,Stamford,CT,Downtown New London,3.2
+795146 Cedar Lane,Jersey City,CT,South Norwalk,7.0
+674082 Maple Street,Jersey City,CT,Downtown New London,3.2
+993300 Omar Park,Jersey City,CT,East Hartford,2.7
+1439294 Pine Drive,Rochester,CT,Downtown New London,3.2
+1511160 Alison Bridge,Rochester,CT,East Hartford,2.7
+1218970 Cedar Lane,Rochester,CT,East Hartford,2.7
+1080800 Alison Bridge,Hartford,CT,South Norwalk,7.0
+466590 Pine Drive,Hartford,CT,South Norwalk,7.0
+377224 Cedar Lane,Stamford,CT,Downtown New London,3.2
+1505231 Omar Park,Syracuse,CT,South Norwalk,7.0
+294120 Pine Drive,Bridgeport,CT,North New Haven,7.1
+805480 Chad Valley,Bridgeport,CT,Downtown New London,3.2
+35650 Alison Bridge,Trenton,CT,Downtown Stamford,9.4
+1146189 Omar Park,Albany,CT,Downtown New London,3.2
+1222976 Maple Street,Albany,CT,North New Haven,7.1
+745440 Oak Avenue,Albany,CT,Downtown Stamford,9.4
+306138 Santos Stream,Albany,CT,Downtown New London,3.2
+510040 Oak Avenue,Albany,CT,East Hartford,2.7
+742212 Chad Valley,New York,NY,Midtown East,2.1
+555849 Chad Valley,New York,NY,South Staten Island,6.3
+1439592 Alison Bridge,New York,NY,Northern Queens,9.3
+1049207 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+627120 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+875721 Pine Drive,Paterson,CT,Downtown New London,3.2
+118712 Chad Valley,Bridgeport,CT,North New Haven,7.1
+153174 Santos Stream,Jersey City,CT,Downtown Stamford,9.4
+552092 Omar Park,Newark,CT,Downtown Stamford,9.4
+145545 Oak Avenue,New York,NY,Lower East Side,6.8
+28188 Omar Park,New York,NY,Upper West Side,7.7
+311833 Pine Drive,Paterson,CT,South Norwalk,7.0
+980000 Pine Drive,Stamford,CT,Downtown Stamford,9.4
+513063 Oak Avenue,Paterson,CT,East Hartford,2.7
+455300 Omar Park,Paterson,CT,Downtown Stamford,9.4
+361330 Elm Circle,Paterson,CT,South Norwalk,7.0
+1100400 Pine Drive,Trenton,CT,North New Haven,7.1
+475046 Alison Bridge,Trenton,CT,Downtown New London,3.2
+399796 Alison Bridge,Trenton,CT,South Norwalk,7.0
+965475 Pine Drive,New York,NY,West Bronx,1.7
+1514536 Cedar Lane,New York,NY,East Bronx,5.7
+258628 Cedar Lane,New York,NY,West Bronx,1.7
+440262 Omar Park,Albany,CT,North New Haven,7.1
+1332676 Pine Drive,Albany,CT,Downtown New London,3.2
+115340 Dawson Terrace,Newark,CT,Downtown New London,3.2
+1125672 Chad Valley,Hartford,CT,North New Haven,7.1
+341712 Santos Stream,Rochester,CT,South Norwalk,7.0
+758257 Pine Drive,Rochester,CT,Downtown Stamford,9.4
+1580832 Maple Street,Trenton,CT,Downtown Stamford,9.4
+196540 Omar Park,Trenton,CT,South Norwalk,7.0
+662948 Dawson Terrace,Trenton,CT,East Hartford,2.7
+336444 Omar Park,Albany,CT,South Norwalk,7.0
+1033788 Dawson Terrace,Bridgeport,CT,Downtown Stamford,9.4
+147777 Omar Park,Waterbury,CT,Downtown New London,3.2
+119250 Santos Stream,Syracuse,CT,Downtown New London,3.2
+407296 Santos Stream,Syracuse,CT,Downtown New London,3.2
+886744 Omar Park,Albany,CT,Downtown New London,3.2
+22302 Santos Stream,Albany,CT,Downtown New London,3.2
+165776 Pine Drive,Albany,CT,North New Haven,7.1
+149930 Maple Street,Trenton,CT,East Hartford,2.7
+1066128 Elm Circle,Trenton,CT,Downtown New London,3.2
+333773 Oak Avenue,Buffalo,NY,East Bronx,5.7
+733482 Santos Stream,New York,NY,East Bronx,5.7
+1215240 Santos Stream,New York,NY,West Bronx,1.7
+460800 Alison Bridge,Waterbury,CT,East Hartford,2.7
+1224765 Oak Avenue,Waterbury,CT,South Norwalk,7.0
+1089360 Cedar Lane,Waterbury,CT,Downtown Stamford,9.4
+1376977 Pine Drive,Waterbury,CT,Downtown New London,3.2
+341652 Chad Valley,Waterbury,CT,Downtown New London,3.2
+251985 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+173448 Pine Drive,Paterson,CT,North New Haven,7.1
+1439872 Pine Drive,Paterson,CT,Downtown Stamford,9.4
+992136 Pine Drive,Paterson,CT,Downtown New London,3.2
+241350 Maple Street,Stamford,CT,Downtown Stamford,9.4
+727720 Chad Valley,Waterbury,CT,South Norwalk,7.0
+989154 Chad Valley,Waterbury,CT,South Norwalk,7.0
+535184 Alison Bridge,Waterbury,CT,Downtown New London,3.2
+9678 Omar Park,Rochester,CT,Downtown New London,3.2
+4842 Oak Avenue,Stamford,CT,South Norwalk,7.0
+1106275 Oak Avenue,Stamford,CT,South Norwalk,7.0
+1557824 Alison Bridge,Stamford,CT,Downtown Stamford,9.4
+918456 Maple Street,Rochester,CT,South Norwalk,7.0
+540412 Elm Circle,Newark,CT,Downtown New London,3.2
+1219107 Elm Circle,Newark,CT,South Norwalk,7.0
+1108080 Santos Stream,Albany,CT,Downtown Stamford,9.4
+1617758 Santos Stream,Albany,CT,East Hartford,2.7
+1197036 Santos Stream,Syracuse,CT,East Hartford,2.7
+194760 Santos Stream,Syracuse,CT,Downtown Stamford,9.4
+1002008 Dawson Terrace,Stamford,CT,Downtown Stamford,9.4
+823875 Maple Street,Bridgeport,CT,Downtown New London,3.2
+653652 Maple Street,Bridgeport,CT,South Norwalk,7.0
+252185 Maple Street,Bridgeport,CT,South Norwalk,7.0
+1628 Santos Stream,Hartford,CT,South Norwalk,7.0
+1427004 Cedar Lane,Newark,CT,South Norwalk,7.0
+914430 Santos Stream,Syracuse,CT,Downtown New London,3.2
+1099294 Oak Avenue,Newark,CT,South Norwalk,7.0
+321504 Maple Street,Newark,CT,Downtown New London,3.2
+955305 Oak Avenue,Newark,CT,Downtown Stamford,9.4
+472226 Chad Valley,Syracuse,CT,Downtown Stamford,9.4
+186390 Chad Valley,Trenton,CT,East Hartford,2.7
+930884 Omar Park,Trenton,CT,Downtown Stamford,9.4
+1578068 Maple Street,Buffalo,NY,East Bronx,5.7
+904176 Alison Bridge,Buffalo,NY,South Staten Island,6.3
+867031 Santos Stream,Bridgeport,CT,North New Haven,7.1
+1129960 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+1230750 Chad Valley,Bridgeport,CT,North New Haven,7.1
+1285686 Chad Valley,Syracuse,CT,North New Haven,7.1
+49290 Alison Bridge,Trenton,CT,South Norwalk,7.0
+271260 Chad Valley,Trenton,CT,Downtown Stamford,9.4
+590555 Maple Street,Trenton,CT,South Norwalk,7.0
+477340 Chad Valley,New York,NY,South Staten Island,6.3
+370575 Chad Valley,New York,NY,North Staten Island,2.0
+28016 Santos Stream,New York,NY,Downtown Brooklyn,4.8
+1167492 Maple Street,New York,NY,Lower East Side,6.8
+1024650 Elm Circle,New York,NY,Midtown West,6.1
+28067 Pine Drive,New York,NY,Downtown Brooklyn,4.8
+270928 Chad Valley,Rochester,CT,North New Haven,7.1
+1031472 Pine Drive,Rochester,CT,South Norwalk,7.0
+693026 Chad Valley,Waterbury,CT,East Hartford,2.7
+1608660 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+369288 Omar Park,Elizabeth,NJ,Mid New Brunswick,7.6
+425849 Chad Valley,Elizabeth,NJ,East Elizabeth,4.5
+830658 Pine Drive,Elizabeth,NJ,East Elizabeth,4.5
+1226001 Santos Stream,Elizabeth,NJ,Mid New Brunswick,7.6
+378480 Cedar Lane,Newark,CT,Downtown Stamford,9.4
+1342088 Cedar Lane,Newark,CT,Downtown New London,3.2
+383922 Santos Stream,Newark,CT,Downtown New London,3.2
+681830 Elm Circle,Hartford,CT,East Hartford,2.7
+1549184 Cedar Lane,Hartford,CT,Downtown New London,3.2
+1245420 Santos Stream,Hartford,CT,South Norwalk,7.0
+961282 Dawson Terrace,Syracuse,CT,Downtown New London,3.2
+438421 Elm Circle,New York,NY,Downtown Brooklyn,4.8
+1446156 Oak Avenue,Jersey City,CT,Downtown Stamford,9.4
+887908 Alison Bridge,Jersey City,CT,Downtown Stamford,9.4
+1215760 Pine Drive,Stamford,CT,North New Haven,7.1
+1054401 Alison Bridge,Stamford,CT,Downtown Stamford,9.4
+190608 Santos Stream,Stamford,CT,East Hartford,2.7
+1224636 Elm Circle,Stamford,CT,South Norwalk,7.0
+955854 Omar Park,Jersey City,CT,Downtown Stamford,9.4
+1465625 Pine Drive,Jersey City,CT,East Hartford,2.7
+881576 Alison Bridge,Stamford,CT,Downtown New London,3.2
+1613274 Cedar Lane,Stamford,CT,Downtown New London,3.2
+1605846 Oak Avenue,Stamford,CT,North New Haven,7.1
+649773 Pine Drive,New York,NY,North Staten Island,2.0
+688800 Maple Street,New York,NY,Lower East Side,6.8
+1292689 Cedar Lane,New York,NY,Downtown Brooklyn,4.8
+292668 Maple Street,Newark,CT,Downtown Stamford,9.4
+927333 Dawson Terrace,Newark,CT,East Hartford,2.7
+161664 Maple Street,Waterbury,CT,North New Haven,7.1
+503815 Pine Drive,New York,NY,Downtown Brooklyn,4.8
+731724 Oak Avenue,New York,NY,North Staten Island,2.0
+1614459 Santos Stream,Elizabeth,NJ,Mid New Brunswick,7.6
+1282880 Santos Stream,Waterbury,CT,East Hartford,2.7
+658710 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+927810 Santos Stream,Waterbury,CT,Downtown Stamford,9.4
+1225975 Cedar Lane,Rochester,CT,North New Haven,7.1
+722484 Pine Drive,Waterbury,CT,North New Haven,7.1
+233634 Cedar Lane,Elizabeth,NJ,Downtown Camden,1.3
+782628 Pine Drive,Elizabeth,NJ,Mid New Brunswick,7.6
+679695 Maple Street,Elizabeth,NJ,East Elizabeth,4.5
+393472 Oak Avenue,Syracuse,CT,East Hartford,2.7
+118790 Maple Street,Syracuse,CT,North New Haven,7.1
+237720 Alison Bridge,Rochester,CT,Downtown Stamford,9.4
+23786 Alison Bridge,Rochester,CT,Downtown New London,3.2
+737800 Cedar Lane,Albany,CT,East Hartford,2.7
+1041012 Alison Bridge,Albany,CT,North New Haven,7.1
+297850 Chad Valley,Albany,CT,East Hartford,2.7
+751023 Omar Park,Rochester,CT,Downtown New London,3.2
+1133160 Pine Drive,Rochester,CT,Downtown New London,3.2
+736560 Elm Circle,Rochester,CT,Downtown New London,3.2
+921240 Pine Drive,Waterbury,CT,Downtown Stamford,9.4
+578673 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+280112 Alison Bridge,Newark,CT,North New Haven,7.1
+1175792 Santos Stream,Newark,CT,North New Haven,7.1
+1624500 Omar Park,Buffalo,NY,East Bronx,5.7
+862344 Cedar Lane,Buffalo,NY,Downtown Manhattan,1.7
+1006656 Oak Avenue,Buffalo,NY,South Bronx,3.6
+417972 Elm Circle,Newark,CT,North New Haven,7.1
+85700 Elm Circle,Newark,CT,Downtown Stamford,9.4
+238385 Omar Park,Waterbury,CT,Downtown Stamford,9.4
+53196 Santos Stream,Waterbury,CT,South Norwalk,7.0
+980407 Maple Street,Syracuse,CT,South Norwalk,7.0
+307522 Santos Stream,Syracuse,CT,South Norwalk,7.0
+221751 Dawson Terrace,Elizabeth,NJ,East Elizabeth,4.5
+567600 Santos Stream,New York,NY,Midtown East,2.1
+1237399 Pine Drive,Elizabeth,NJ,East Elizabeth,4.5
+747348 Elm Circle,Elizabeth,NJ,Downtown Camden,1.3
+466933 Chad Valley,Elizabeth,NJ,Downtown Camden,1.3
+1580908 Oak Avenue,Stamford,CT,North New Haven,7.1
+1699125 Maple Street,Newark,CT,Downtown Stamford,9.4
+1480908 Santos Stream,Newark,CT,South Norwalk,7.0
+143341 Chad Valley,New York,NY,Midtown East,2.1
+1057536 Omar Park,Waterbury,CT,South Norwalk,7.0
+895622 Chad Valley,Waterbury,CT,South Norwalk,7.0
+1441090 Maple Street,Waterbury,CT,Downtown Stamford,9.4
+1074951 Alison Bridge,Paterson,CT,Downtown New London,3.2
+1702556 Santos Stream,Paterson,CT,South Norwalk,7.0
+45058 Cedar Lane,Paterson,CT,Downtown New London,3.2
+475116 Omar Park,Buffalo,NY,South Staten Island,6.3
+1124280 Cedar Lane,Buffalo,NY,Northern Queens,9.3
+248248 Oak Avenue,Stamford,CT,East Hartford,2.7
+1288854 Omar Park,Stamford,CT,Downtown New London,3.2
+1644148 Maple Street,Hartford,CT,East Hartford,2.7
+1318162 Cedar Lane,Trenton,CT,Downtown New London,3.2
+1124040 Maple Street,Trenton,CT,South Norwalk,7.0
+107942 Elm Circle,Trenton,CT,Downtown New London,3.2
+254332 Pine Drive,Paterson,CT,Downtown Stamford,9.4
+599592 Dawson Terrace,Paterson,CT,South Norwalk,7.0
+1367296 Maple Street,Elizabeth,NJ,South Trenton,1.0
+342020 Pine Drive,Elizabeth,NJ,South Trenton,1.0
+522054 Cedar Lane,Bridgeport,CT,South Norwalk,7.0
+111808 Pine Drive,Bridgeport,CT,North New Haven,7.1
+1534744 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+342804 Oak Avenue,Waterbury,CT,North New Haven,7.1
+1093750 Cedar Lane,Waterbury,CT,East Hartford,2.7
+598842 Maple Street,Hartford,CT,East Hartford,2.7
+616704 Santos Stream,Bridgeport,CT,South Norwalk,7.0
+1717940 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+45604 Cedar Lane,Bridgeport,CT,Downtown New London,3.2
+191295 Oak Avenue,Bridgeport,CT,Downtown Stamford,9.4
+309056 Chad Valley,Bridgeport,CT,Downtown Stamford,9.4
+363699 Alison Bridge,Newark,CT,Downtown New London,3.2
+907128 Alison Bridge,Newark,CT,Downtown Stamford,9.4
+555844 Cedar Lane,Paterson,CT,East Hartford,2.7
+547360 Maple Street,Paterson,CT,Downtown Stamford,9.4
+1037229 Chad Valley,Paterson,CT,East Hartford,2.7
+1552322 Cedar Lane,New York,NY,Midtown East,2.1
+1572596 Maple Street,New York,NY,Upper West Side,7.7
+1374156 Cedar Lane,New York,NY,Lower East Side,6.8
+63540 Elm Circle,Albany,CT,East Hartford,2.7
+1449886 Oak Avenue,Albany,CT,North New Haven,7.1
+595479 Dawson Terrace,Albany,CT,Downtown New London,3.2
+482664 Maple Street,Bridgeport,CT,South Norwalk,7.0
+1231224 Chad Valley,Bridgeport,CT,East Hartford,2.7
+1605390 Pine Drive,Bridgeport,CT,North New Haven,7.1
+1494724 Maple Street,Syracuse,CT,Downtown New London,3.2
+517424 Dawson Terrace,Syracuse,CT,Downtown Stamford,9.4
+735795 Dawson Terrace,Syracuse,CT,East Hartford,2.7
+1234704 Alison Bridge,Bridgeport,CT,Downtown Stamford,9.4
+324825 Oak Avenue,Bridgeport,CT,Downtown New London,3.2
+497280 Alison Bridge,Stamford,CT,East Hartford,2.7
+954249 Cedar Lane,Stamford,CT,Downtown New London,3.2
+519176 Maple Street,Albany,CT,South Norwalk,7.0
+1631343 Santos Stream,Albany,CT,Downtown Stamford,9.4
+126380 Alison Bridge,Albany,CT,Downtown Stamford,9.4
+1423019 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+507870 Santos Stream,Elizabeth,NJ,East Elizabeth,4.5
+276365 Omar Park,Elizabeth,NJ,Downtown Camden,1.3
+881296 Pine Drive,Elizabeth,NJ,Downtown Camden,1.3
+139230 Santos Stream,New York,NY,North Staten Island,2.0
+1307352 Dawson Terrace,New York,NY,South Bronx,3.6
+416371 Oak Avenue,Rochester,CT,North New Haven,7.1
+763476 Maple Street,Rochester,CT,Downtown New London,3.2
+1177162 Pine Drive,Rochester,CT,Downtown New London,3.2
+959440 Cedar Lane,Bridgeport,CT,East Hartford,2.7
+37611 Pine Drive,Bridgeport,CT,East Hartford,2.7
+1440768 Omar Park,Bridgeport,CT,Downtown New London,3.2
+1726659 Oak Avenue,Bridgeport,CT,North New Haven,7.1
+321126 Maple Street,Elizabeth,NJ,East Elizabeth,4.5
+1604730 Oak Avenue,New Haven,CT,Downtown Stamford,9.4
+1661300 Elm Circle,New Haven,CT,East Hartford,2.7
+1428615 Maple Street,New Haven,CT,North New Haven,7.1
+339822 Chad Valley,New Haven,CT,East Hartford,2.7
+320222 Santos Stream,New Haven,CT,Downtown New London,3.2
+145800 Maple Street,Bridgeport,CT,East Hartford,2.7
+507882 Cedar Lane,Bridgeport,CT,Downtown Stamford,9.4
+1538908 Pine Drive,Waterbury,CT,North New Haven,7.1
+1644336 Cedar Lane,Waterbury,CT,Downtown Stamford,9.4
+898392 Omar Park,New Haven,CT,East Hartford,2.7
+1499955 Chad Valley,New Haven,CT,North New Haven,7.1
+937314 Chad Valley,New Haven,CT,East Hartford,2.7
+1266707 Santos Stream,Rochester,CT,South Norwalk,7.0
+573136 Cedar Lane,Rochester,CT,Downtown New London,3.2
+870129 Oak Avenue,Rochester,CT,Downtown New London,3.2
+1484200 Dawson Terrace,Trenton,CT,Downtown New London,3.2
+985184 Omar Park,Trenton,CT,North New Haven,7.1
+1422420 Elm Circle,Trenton,CT,East Hartford,2.7
+794094 Elm Circle,Trenton,CT,North New Haven,7.1
+1003142 Santos Stream,Trenton,CT,Downtown Stamford,9.4
+1626240 Omar Park,Albany,CT,South Norwalk,7.0
+557512 Santos Stream,New Haven,CT,Downtown Stamford,9.4
+1528097 Pine Drive,New Haven,CT,South Norwalk,7.0
+132714 Dawson Terrace,New Haven,CT,Downtown New London,3.2
+1547969 Dawson Terrace,Stamford,CT,South Norwalk,7.0
+726180 Pine Drive,Elizabeth,NJ,South Trenton,1.0
+222162 Pine Drive,Elizabeth,NJ,Downtown Camden,1.3
+659564 Alison Bridge,Elizabeth,NJ,South Trenton,1.0
+1303445 Alison Bridge,Rochester,CT,Downtown New London,3.2
+339264 Oak Avenue,Rochester,CT,Downtown Stamford,9.4
+1618775 Cedar Lane,Rochester,CT,South Norwalk,7.0
+743182 Alison Bridge,New York,NY,South Staten Island,6.3
+1379385 Dawson Terrace,Jersey City,CT,Downtown Stamford,9.4
+1597672 Elm Circle,Jersey City,CT,Downtown Stamford,9.4
+358484 Maple Street,Syracuse,CT,South Norwalk,7.0
+1480470 Elm Circle,New York,NY,West Bronx,1.7
+1184657 Santos Stream,New York,NY,South Bronx,3.6
+1504072 Chad Valley,New York,NY,North Staten Island,2.0
+1374750 Maple Street,Bridgeport,CT,East Hartford,2.7
+1639596 Chad Valley,Syracuse,CT,East Hartford,2.7
+1728570 Oak Avenue,Syracuse,CT,North New Haven,7.1
+392904 Santos Stream,New York,NY,Midtown West,6.1
+1274878 Santos Stream,New York,NY,Northern Queens,9.3
+1391366 Elm Circle,Elizabeth,NJ,South Trenton,1.0
+205968 Maple Street,Elizabeth,NJ,Downtown Camden,1.3
+1569520 Pine Drive,Syracuse,CT,South Norwalk,7.0
+1632967 Pine Drive,Syracuse,CT,Downtown New London,3.2
+86574 Omar Park,Syracuse,CT,Downtown New London,3.2
+868053 Chad Valley,Rochester,CT,Downtown New London,3.2
+129080 Santos Stream,New Haven,CT,East Hartford,2.7
+1437255 Oak Avenue,New Haven,CT,Downtown Stamford,9.4
+590720 Maple Street,New Haven,CT,Downtown Stamford,9.4
+145913 Elm Circle,Hartford,CT,Downtown Stamford,9.4
+887040 Alison Bridge,Hartford,CT,Downtown Stamford,9.4
+61017 Maple Street,Trenton,CT,East Hartford,2.7
+497650 Oak Avenue,Trenton,CT,East Hartford,2.7
+770016 Pine Drive,Trenton,CT,East Hartford,2.7
+1846444 Dawson Terrace,Syracuse,CT,North New Haven,7.1
+591107 Omar Park,Syracuse,CT,Downtown Stamford,9.4
+1449828 Dawson Terrace,Hartford,CT,North New Haven,7.1
+1641675 Pine Drive,Hartford,CT,North New Haven,7.1
+126208 Omar Park,Hartford,CT,Downtown New London,3.2
+471678 Alison Bridge,Hartford,CT,Downtown Stamford,9.4
+1692638 Chad Valley,Hartford,CT,South Norwalk,7.0
+1788358 Maple Street,Hartford,CT,North New Haven,7.1
+1571700 Dawson Terrace,Waterbury,CT,Downtown Stamford,9.4
+496887 Santos Stream,Waterbury,CT,Downtown Stamford,9.4
+1422568 Oak Avenue,Waterbury,CT,Downtown Stamford,9.4
+139725 Pine Drive,Trenton,CT,North New Haven,7.1
+740008 Dawson Terrace,Trenton,CT,North New Haven,7.1
+1057455 Elm Circle,Trenton,CT,Downtown Stamford,9.4
+1183044 Maple Street,Newark,CT,East Hartford,2.7
+659051 Omar Park,Newark,CT,Downtown New London,3.2
+308220 Maple Street,Newark,CT,North New Haven,7.1
+743862 Alison Bridge,Stamford,CT,North New Haven,7.1
+86020 Santos Stream,Stamford,CT,East Hartford,2.7
+787691 Elm Circle,Stamford,CT,Downtown Stamford,9.4
+986544 Pine Drive,Bridgeport,CT,East Hartford,2.7
+1414115 Santos Stream,Bridgeport,CT,East Hartford,2.7
+251116 Elm Circle,Hartford,CT,Downtown Stamford,9.4
+76875 Cedar Lane,Paterson,CT,North New Haven,7.1
+913612 Omar Park,Paterson,CT,North New Haven,7.1
+1616097 Santos Stream,Paterson,CT,Downtown Stamford,9.4
+1616958 Pine Drive,Stamford,CT,Downtown New London,3.2
+1875242 Dawson Terrace,Stamford,CT,South Norwalk,7.0
+565880 Oak Avenue,Stamford,CT,East Hartford,2.7
+443916 Cedar Lane,Stamford,CT,Downtown Stamford,9.4
+1720148 Pine Drive,Stamford,CT,South Norwalk,7.0
+1862287 Chad Valley,Rochester,CT,Downtown New London,3.2
+1228368 Oak Avenue,Rochester,CT,East Hartford,2.7
+1421290 Maple Street,Elizabeth,NJ,East Elizabeth,4.5
+352682 Oak Avenue,New York,NY,South Staten Island,6.3
+375513 Chad Valley,New York,NY,Lower West Side,1.5
+734432 Chad Valley,Newark,CT,East Hartford,2.7
+530809 Cedar Lane,Newark,CT,East Hartford,2.7
+657720 Pine Drive,Newark,CT,North New Haven,7.1
+83204 Pine Drive,Waterbury,CT,East Hartford,2.7
+1663068 Omar Park,Waterbury,CT,Downtown New London,3.2
+210123 Dawson Terrace,Buffalo,NY,Midtown West,6.1
+577670 Pine Drive,Trenton,CT,North New Haven,7.1
+1419355 Chad Valley,Syracuse,CT,North New Haven,7.1
+747024 Dawson Terrace,Syracuse,CT,Downtown New London,3.2
+1530879 Alison Bridge,Albany,CT,East Hartford,2.7
+1182454 Pine Drive,Albany,CT,Downtown Stamford,9.4
+1183077 Alison Bridge,Elizabeth,NJ,East Elizabeth,4.5
+389500 Alison Bridge,Elizabeth,NJ,Mid New Brunswick,7.6
+583607 Oak Avenue,Elizabeth,NJ,South Trenton,1.0
+758898 Pine Drive,Elizabeth,NJ,East Elizabeth,4.5
+666050 Maple Street,Rochester,CT,North New Haven,7.1
+776832 Dawson Terrace,Rochester,CT,East Hartford,2.7
+85725 Alison Bridge,Paterson,CT,East Hartford,2.7
+26684 Chad Valley,Hartford,CT,East Hartford,2.7
+1491274 Chad Valley,Hartford,CT,North New Haven,7.1
+1679040 Chad Valley,Jersey City,CT,Downtown New London,3.2
+1832640 Alison Bridge,Syracuse,CT,East Hartford,2.7
+848040 Chad Valley,Syracuse,CT,Downtown New London,3.2
+1901445 Omar Park,Syracuse,CT,Downtown New London,3.2
+665376 Cedar Lane,Buffalo,NY,Lower West Side,1.5
+1057889 Maple Street,Buffalo,NY,Midtown East,2.1
+401940 Maple Street,Buffalo,NY,East Bronx,5.7
+1399865 Pine Drive,Syracuse,CT,Downtown New London,3.2
+1467656 Oak Avenue,Syracuse,CT,South Norwalk,7.0
+638361 Alison Bridge,Syracuse,CT,South Norwalk,7.0
+404698 Pine Drive,Buffalo,NY,West Bronx,1.7
+784871 Elm Circle,Buffalo,NY,Lower East Side,6.8
+55680 Maple Street,Buffalo,NY,West Bronx,1.7
+126786 Chad Valley,Newark,CT,Downtown New London,3.2
+1574118 Cedar Lane,Newark,CT,East Hartford,2.7
+471135 Maple Street,Bridgeport,CT,North New Haven,7.1
+888888 Dawson Terrace,Bridgeport,CT,North New Haven,7.1
+433125 Chad Valley,Bridgeport,CT,Downtown Stamford,9.4
+1097820 Chad Valley,Waterbury,CT,East Hartford,2.7
+738041 Oak Avenue,Waterbury,CT,East Hartford,2.7
+574544 Pine Drive,Waterbury,CT,North New Haven,7.1
+1425531 Santos Stream,Paterson,CT,North New Haven,7.1
+102290 Santos Stream,Paterson,CT,East Hartford,2.7
+1342045 Elm Circle,Paterson,CT,South Norwalk,7.0
+1499232 Omar Park,Syracuse,CT,Downtown Stamford,9.4
+641756 Cedar Lane,Paterson,CT,South Norwalk,7.0
+1127522 Cedar Lane,Stamford,CT,Downtown New London,3.2
+735300 Omar Park,Stamford,CT,North New Haven,7.1
+619520 Pine Drive,Stamford,CT,North New Haven,7.1
+195637 Maple Street,New York,NY,Midtown East,2.1
+643416 Cedar Lane,Buffalo,NY,North Staten Island,2.0
+740698 Chad Valley,New York,NY,Lower East Side,6.8
+221160 Dawson Terrace,New York,NY,Downtown Manhattan,1.7
+1352877 Maple Street,New York,NY,Upper West Side,7.7
+1712844 Maple Street,Hartford,CT,South Norwalk,7.0
+1583545 Cedar Lane,Bridgeport,CT,East Hartford,2.7
+1936224 Pine Drive,Bridgeport,CT,South Norwalk,7.0
+608785 Pine Drive,Bridgeport,CT,Downtown New London,3.2
+455364 Oak Avenue,Syracuse,CT,East Hartford,2.7
+566577 Elm Circle,Syracuse,CT,South Norwalk,7.0
+786992 Dawson Terrace,Syracuse,CT,South Norwalk,7.0
+1036868 Maple Street,Paterson,CT,Downtown Stamford,9.4
+132600 Oak Avenue,Paterson,CT,South Norwalk,7.0
+148276 Santos Stream,Paterson,CT,Downtown Stamford,9.4
+1817312 Alison Bridge,Hartford,CT,Downtown New London,3.2
+1140552 Santos Stream,Hartford,CT,South Norwalk,7.0
+1369754 Omar Park,Paterson,CT,Downtown Stamford,9.4
+527850 Santos Stream,Syracuse,CT,East Hartford,2.7
+379464 Elm Circle,Syracuse,CT,North New Haven,7.1
+1720203 Cedar Lane,Waterbury,CT,Downtown New London,3.2
+1233540 Oak Avenue,Waterbury,CT,East Hartford,2.7
+1069614 Oak Avenue,Waterbury,CT,East Hartford,2.7
+1526840 Alison Bridge,Albany,CT,Downtown New London,3.2
+243164 Cedar Lane,Jersey City,CT,East Hartford,2.7
+1801116 Pine Drive,Jersey City,CT,East Hartford,2.7
+162929 Oak Avenue,Jersey City,CT,Downtown Stamford,9.4
+119804 Omar Park,Paterson,CT,North New Haven,7.1
+624870 Pine Drive,Paterson,CT,East Hartford,2.7
+786400 Omar Park,Rochester,CT,North New Haven,7.1
+1306088 Elm Circle,Rochester,CT,Downtown Stamford,9.4
+360144 Pine Drive,Rochester,CT,Downtown New London,3.2
+295350 Pine Drive,Hartford,CT,North New Haven,7.1
+738750 Omar Park,Paterson,CT,Downtown Stamford,9.4
+67014 Maple Street,Albany,CT,Downtown Stamford,9.4
+151844 Pine Drive,Albany,CT,Downtown Stamford,9.4
+992419 Chad Valley,Albany,CT,North New Haven,7.1
+228984 Pine Drive,Buffalo,NY,South Bronx,3.6
+1370650 Omar Park,Rochester,CT,East Hartford,2.7
+644176 Oak Avenue,Rochester,CT,Downtown Stamford,9.4
+743352 Pine Drive,Rochester,CT,Downtown New London,3.2
+1422182 Dawson Terrace,New York,NY,South Bronx,3.6
+1648507 Omar Park,New York,NY,Lower East Side,6.8
+532620 Maple Street,Bridgeport,CT,Downtown Stamford,9.4
+1432263 Dawson Terrace,Bridgeport,CT,Downtown New London,3.2
+57478 Cedar Lane,Bridgeport,CT,East Hartford,2.7
+525495 Alison Bridge,Syracuse,CT,Downtown Stamford,9.4
+261888 Oak Avenue,Syracuse,CT,North New Haven,7.1
+303705 Elm Circle,Syracuse,CT,North New Haven,7.1
+1487514 Cedar Lane,New York,NY,East Bronx,5.7
+568282 Chad Valley,Albany,CT,Downtown New London,3.2
+91448 Alison Bridge,Albany,CT,North New Haven,7.1
+916929 Elm Circle,Albany,CT,South Norwalk,7.0
+1012910 Pine Drive,Syracuse,CT,Downtown New London,3.2
+1821765 Alison Bridge,New York,NY,West Bronx,1.7
+290832 Cedar Lane,New York,NY,Lower East Side,6.8
+141503 Maple Street,Buffalo,NY,Upper East Side,8.0
+925216 Maple Street,Buffalo,NY,North Staten Island,2.0
+243390 Dawson Terrace,Buffalo,NY,Lower West Side,1.5
+449100 Maple Street,New Haven,CT,North New Haven,7.1
+197703 Omar Park,New Haven,CT,Downtown New London,3.2
+1824174 Dawson Terrace,New Haven,CT,Downtown New London,3.2
+177911 Cedar Lane,New Haven,CT,East Hartford,2.7
+896000 Cedar Lane,New Haven,CT,Downtown Stamford,9.4
