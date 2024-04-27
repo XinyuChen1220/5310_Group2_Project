@@ -160,7 +160,3 @@ CREATE TABLE managing (
     FOREIGN KEY (employees_id) REFERENCES employee(employees_id),
     FOREIGN KEY (manager_id) REFERENCES employee(employees_id)
 );
-
-
-SELECT*FROM transaction
-
