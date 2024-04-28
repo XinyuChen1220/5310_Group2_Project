@@ -111,7 +111,7 @@ ORDER BY
     property_type, month;
 	
 /*
-5.
+5. "What are the average rental and sale prices for properties in each city?"
 */
 
 SELECT
@@ -130,7 +130,8 @@ GROUP BY
     addr.city;
 
 /*
-6. "What are the average rental and sale prices for properties within each city?"
+6. "What is the price ratio for each transaction, along with the transaction details 
+such as time, listing ID, list price, and final price?"
 */
 
 SELECT 
@@ -255,3 +256,128 @@ JOIN
     property p ON l.property_id = p.property_id
 WHERE 
     t.listing_id IS NULL;
+	
+
+SELECT*FROM transaction
+
+
+/*
+12. "What is yearly revenue growth by office?"
+*/
+
+WITH yearly_revenues AS (
+    SELECT 
+        e.office_id,
+        EXTRACT(year FROM t.time) AS year,
+        SUM(t.revenues) AS total_revenue
+    FROM 
+        transaction t
+    JOIN 
+        employee e ON t.employees_id = e.employees_id
+    GROUP BY 
+        e.office_id, year
+)
+SELECT 
+    o.office_name,
+    a.year,
+    a.total_revenue AS revenue_this_year,
+    b.total_revenue AS revenue_last_year,
+    (a.total_revenue - b.total_revenue) / b.total_revenue * 100 AS growth_percentage
+FROM 
+    yearly_revenues a
+JOIN 
+    yearly_revenues b ON a.office_id = b.office_id AND a.year = b.year + 1
+JOIN 
+    office o ON a.office_id = o.office_id
+ORDER BY 
+    o.office_name, a.year;
+
+
+/*
+13. "What is customer retention rate by sale type and year?"
+*/
+WITH client_transactions AS (
+    SELECT
+        clients_id,
+        lst.sale_type,
+        EXTRACT(year FROM t.time) AS transaction_year,
+        COUNT(*) AS transactions
+    FROM
+        transaction t
+    JOIN
+        listing lst ON t.listing_id = lst.listing_id
+    GROUP BY
+        clients_id, lst.sale_type, transaction_year
+),
+yearly_client_summary AS (
+    SELECT
+        clients_id,
+        sale_type,
+        transaction_year,
+        transactions,
+        LAG(transactions) OVER (PARTITION BY clients_id, sale_type ORDER BY transaction_year) AS previous_year_transactions
+    FROM
+        client_transactions
+),
+retention_analysis AS (
+    SELECT
+        sale_type,
+        transaction_year,
+        COUNT(*) AS total_clients,
+        COUNT(*) FILTER (WHERE previous_year_transactions > 0 AND transactions > 0) AS retained_clients,
+        ROUND(COUNT(*) FILTER (WHERE previous_year_transactions > 0 AND transactions > 0)::numeric / COUNT(*) * 100, 2) AS retention_rate
+    FROM
+        yearly_client_summary
+    GROUP BY
+        sale_type, transaction_year
+)
+SELECT 
+    sale_type,
+    transaction_year,
+    total_clients,
+    retained_clients,
+    retention_rate
+FROM 
+    retention_analysis
+ORDER BY 
+    sale_type, transaction_year DESC;
+
+/*
+14. "What is the most popular property type by year and sale type?"
+*/
+
+SELECT 
+    p.type AS property_type,
+    EXTRACT(year FROM t.time) AS transaction_year,
+    lst.sale_type,
+    COUNT(*) AS transaction_count
+FROM 
+    transaction t
+JOIN 
+    listing lst ON t.listing_id = lst.listing_id
+JOIN 
+    property p ON lst.property_id = p.property_id
+GROUP BY 
+    property_type, transaction_year, lst.sale_type
+ORDER BY 
+    transaction_year DESC, lst.sale_type, transaction_count DESC;
+	
+
+/*
+15. "What is the average days to close the listing for the agents?"
+*/
+SELECT 
+    e.employees_id,
+    ROUND(AVG(EXTRACT(day FROM AGE(t.time, l.listing_date))), 1) AS average_days_to_close
+FROM 
+    transaction t
+JOIN 
+    listing l ON t.listing_id = l.listing_id
+JOIN 
+    employee e ON t.employees_id = e.employees_id
+GROUP BY 
+    e.employees_id
+ORDER BY 
+    average_days_to_close;
+
+
