@@ -256,9 +256,6 @@ JOIN
     property p ON l.property_id = p.property_id
 WHERE 
     t.listing_id IS NULL;
-	
-
-SELECT*FROM transaction
 
 
 /*
