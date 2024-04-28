@@ -1,1 +1,1 @@
-# 5310_Group2_Project
+# “Dream Homes NYC” project from Group 2
